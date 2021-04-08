@@ -16,11 +16,17 @@ Some tasks require the *Successes*
 - Armor/Obstacle: Number of successes that are be ignored (a roll of 6 cannot be ignored)
 ## Character Creation
 You start out as just regular person.
-| Name | _______________________ | Style | _________________________________________ |
 
-| Smarts   | 1 | Speed | 1 | Boon | ________________________________________________ |
-| Strength | 1 | Luck  | 1 | Doom | ________________________________________________ |
-| Health   | 1 | HP    | 6 |      |                                                  |
+| Name     | ________________________________________________ |
+| Style    | ________________________________________________ |
+| Smarts   | 1                                                |
+| Speed    | 1                                                |
+| Strength | 1                                                |
+| Luck     | 1                                                |
+| Health   | 1                                                |
+| HP       | 6                                                |
+| Boon     | ________________________________________________ |
+| Doom     | ________________________________________________ |
 
 1. Roll or choose one on two *Heroic Styles*.
 1. Roll a boon.
@@ -178,13 +184,13 @@ These are stats for common and mundane weapons.
 | Large ranged | 2    | 50cp | 6 ammo/slot, 10cp                          | Rifle                                   |
 | Two-handed   | 3    | 60cp | Rare, Takes 2 gear slots, reduces SPEED -1 | Great sword, battle axe                 |
 
-| Grenades      |             |
-| Laser blaster |             |
-| Shuriken      |             |
-| Whip          |             |
-| Boomerang     |             |
-| Staff         |             |
-| Pole arm      | See *Staff* |
+| Grenades  |             |
+| Blaster   |             |
+| Shuriken  |             |
+| Whip      |             |
+| Boomerang |             |
+| Staff     |             |
+| Pole arm  | See *Staff* |
 #### Ammunition
 Ammunition is an item like any other.
 Each gear slot of ammo contains a multiple of 6 shots.
