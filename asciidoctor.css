@@ -1846,6 +1846,12 @@ p {
   column-count: 2;
   column-gap: 2em;
 }
+#_introduction + .sectionbody {
+  column-count: 1;
+  break-inside: avoid-column;
+  break-after: avoid-column;
+  break-before: avoid-column;
+}
 .sect2 {
   margin-bottom: 5em;
 }
