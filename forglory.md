@@ -1,18 +1,28 @@
+<div markdown="1" class="section">
+<div markdown="1" class="page">
 # For Glory
 <div markdown="1" class="content">
 <!-- ![zklogo](images/zk.png) -->
+</div>
+</div>
 <div markdown="1" class="section">
-
+<div markdown="1" class="page">
 ## Introduction
 
 <div markdown="1" class="colstwo">
-Test
-This game was created to allow players to make **zombie ninjas**, *axe witches*, necrodroids or whatever craziness they can think of. The dungeon master can be riffing on the players actions and using random tables to create emergent stories.
+<div markdown="1" class="keeptogether">
+Pierce your nipples.
+This game was created to allow players to make **zombie ninjas**, **axe witches**, **necrodroids** or whatever craziness they can think of.
+The dungeon master can be riffing on the players actions and using random tables to create emergent stories.
 
-This game simulates a piece of fiction rather than reality. In this story a bow and arrow may be a better weapon than a gun. The game using a variety of random tables as seeds for fun at the table and players and GM are expected to make up some table entries to suit the character and world.
+This game simulates a piece of fiction rather than reality.
+In this story a bow and arrow may be a better weapon than a gun.
+The game using a variety of random tables as seeds for fun at the table and players and GM are expected to make up some table entries to suit the character and world.
 
-This game is easy to understand. Your characters attributes are measured in the number of dice they roll. If your character has a *Power* of 3, they roll 3 dice.
+Characters attributes are measured in the number of dice they roll.
+If your character has a *Power* of 3, they roll 3 dice. Every die that rolls greater than 3, is a *hit*.
 
+</div><!--end keeptogether-->
 </div><!--end col -->
 </div><!--end page-->
 </div><!--end section-->
@@ -20,7 +30,7 @@ This game is easy to understand. Your characters attributes are measured in the 
 <div markdown="1" class="page">
 <!-- ![van](images/dicevan.jpg) -->
 
-## Mechanics overview
+## Mechanics
 
 <div markdown="1" class="colstwo">
 When a character wants to do something and the success or failure will have a significant effect on the story, the player rolls a bunch of six-sided dice. Each die that *beats* the **Target number** of 3 is a **hit**. Any attempted task may require one or more **hits** in order to complete successfully.
@@ -41,7 +51,6 @@ This table shows the chance to achieve a certain amount of hits with differing a
 | 6  | 2      | 98 | 90 | 73 | 49 | 28 | 13 | 5  |
 | 7  | 1      | 99 | 95 | 83 | 63 | 41 | 22 | 11 |
 
-
 ### Dice
 
 Dice are the main unit of measure in the game. Character attributes are measured in dice and you can gain or lose dice from your attributes. Dice may be broken down into 6 pips. You may also gain or lose pips but it has no mechanical effect unless you gain or lose 6 pips. The notation '2d' indicates 2 six-sided dice. 2p indicates 2 pips. 
@@ -50,22 +59,27 @@ A character may have a *Power* of 3d and a sword which adds +2d for their attack
 
 #### Terms
 
-- 1d - one six-sided die.
-- 1Hd - one *health* die.
-- hit - a roll of 4,5, or 6.
-- +1h - add one hit to your roll.
-- 1p - one pip (pips are the dots on a 6-sided die)
-- 1hp - one *health* pip.
+- 1hd: one *health* die.
+- hit: a roll of 4,5, or 6.
+- +1h: add one *hit* to your roll.
+- +1d: add an extra die to your roll.
+- 1p: one pip (pips are the dots on a 6-sided die)
+- 1hp: one *health* pip.
+- 3d6 +1d +2h: Roll  4 dice and add 2 *hits* to the result.
 
 #### Ways to roll your dice
 
-- 1d - Roll a six-sided die and use the face value.
-- 2d - Roll two dice and add the face values together.
-- d2 - Roll a six-sided die and 1-3 = 1, 4-6 =2.
-- d3 - Roll a six-sided die and 1-2 = 1, 3-4 = 2, 5-6 = 3.
-- d12 - Roll a d2. On a 1, roll a d6. On a 2, roll a d6+6.
-- d66 - Take two dice and choose one to be 10x value. Roll them both so a roll of 3 & 4 would be 34.
+- 1d: Roll 1 die, a roll of 4-6 is a *hit*.
+- d6: Use the face value of the die.
+- d2: Roll a die and divide the face value by 2 rounded up.
+- d3 - Roll a die and divide the face value by 2 rounded up.
+- d12 - Roll 1d2. On a 1, roll 1d6. On a 2, roll 1d6+6.
+- d18 - Roll 1d3. On a 1, roll  1d6. On a 2, roll 1d6+6. On a 3, roll 1d6+12.
+- d33 - Roll 1d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
+- d36 - 
+- d66 - Roll a die for the 10s place and then roll a die for the 1s place. Rolling a 3 and a 4 make 34.
 
+<div markdown="1" class="keeptogether">
 ### Stunts
 
 Stunts are the way you describe the actions your character takes. There are three levels of stunts and each one adds another die to your roll. Level 1 stunts simply describe your action in a cool way. Level two stunts incorporate the story, the environment, or one of the character's doom. Level 3 stunts are determined by the judge at the time.
@@ -76,23 +90,24 @@ Stunts are the way you describe the actions your character takes. There are thre
 - Something so cool that it belies an example. +3 dice.
 
 Co-operative stunts are when you include another PC in your stunt. The included PC may loan the player dice of the appropriate attribute for this action. They cannot use those dice on their next turn.
+### The Doom Pool
+Doom dice. Gm gains doom dice from player risk wager loan. Doom dice can be added to gm rolls or rolled to allow the gm to finish the scene. 
+</div>
 </div><!--end col -->
 </div><!--end page-->
 </div><!--end section-->
 <div markdown="1" class="section">
 <div markdown="1" class="page">
 
-## Character Creation
-
-
-- Choose one of your attributes to get an extra die and give the remainder of the attributes one die.
-- Choose or roll an occupation.
-- Choose or roll a piece of equipment.
-
-
-### Attributes
+## Characters
 
 <div markdown="1" class="colstwo">
+
+1. Choose one of your attributes to get an extra die and give the remainder of the attributes one die.
+1. Choose or roll an occupation.
+1. Choose or roll a piece of equipment.
+
+### Attributes
 
 Attributes are measured with dice.
 The number of dice you have in an attribute is how many dice you roll in a challenge that uses that attribute.
@@ -104,27 +119,26 @@ Attribute dice and pips maybe gained and lost during play.
 Some attribute effects may take longer to heal or even be permanent if required within the narrative.
 
 Losing or gaining pips has no mechanical effect until you lose or gain 6 pips. 
-At which point you would roll one less die for contests which use that attribute.
+At which point you would roll one die more or less for contests which use that attribute.
 
 Being reduced to zero pips in any attribute will have the effects described below.
 In addition, for any contest that use an attribute that has been reduced to zero, you would use 2 dice and take the lower result.
 
-</div>
-<div markdown="1" class="colstwo">
+If you have 0 pips in an attribute, you roll 2 dice in tests and take the lowest result.
 
-#### Power Dice
+#### Power Dice {: .item}
 
 Attacking, lifting, pushing, breaking, and sometimes climbing.
 
-#### Agility Dice
+#### Agility Dice {: .item}
 
 Defending, running, jumping, sneaking, hiding, dodging, swinging, and sometimes climbing
 
-#### Brain Dice
+#### Brain Dice {: .item}
 
 Intelligence, wisdom, personality, disguises, discernment, perspicacity, spells, clues, psychic abilities, languages, codes, history.
 
-#### Health Dice
+#### Health Dice {: .item}
 
 Health Points, stamina, fatigue, carrying, breath holding, disease resistance, poison resistance.
 
@@ -135,22 +149,18 @@ Taking 6 points of damage reduces your *health* dice by 1 and requires a roll on
 Being reduced to 0 *health* dice means you are *exhausted*.
 *Ehausted* characters move at half speed and use half their dice for any physical activity.
 
-#### Dare Dice
+#### Dare Dice {: .item}
 
 Daring, focus, luck, chutzpah, fate, karma.
 
 If you have time to focus before executing a task you may add your *dare* dice to your roll. Dare may also be added if do not have time to focus but, those dice are added to the Dungeon Master's Doom Pool. Temporary *dare* die are lost at the end of a session and whenever a *fumble* is rolled.
 
-##### Dare checks
+##### Dare checks {: .item}
 
 The **DM** may call for a *dare check* any time it is warranted by the story. Often, only a single success is required to pass a dare check and avoid some misfortune.
-</div><!--end col -->
-</div><!--end page-->
-<div markdown="1" class="page">
 
 ### Size
 
-<div markdown="1" class="colstwo">
 
 Size is also measured in dice.
 
@@ -161,33 +171,22 @@ Size is also measured in dice.
 * 5d - Giant (tree)
 * 12d - Massive (building)
 
-</div>
 
 ### Occupations
 
-<div markdown="1" class="colstwo">
 
 1. **Hunter, Ranger**   
-+1d *Power*, +1d *agility*, a bow (+2d) & 12 arrows, *healing herbs* (6), dagger (+1d fast), combat skills
-Death Throe:
-1. 
-1. 
-1. 
-1. 
-1. Final strike. Full strength attack and 2d *Critical Hit*.
-1. Final strike. Full strength attack and 1d+7 *Critical Hit*.
+    +1d *Power*, +1d *agility*, a bow (+2d) & 12 arrows, *healing herbs* (6), dagger (+1d fast), combat skills
 1. **Guard, Soldier, Tax Collector**  
-+2d *agility*, chain mail armor +2,  choose one extra from *equipment*, 10cp, sword (+2d), combat skills
+    +2d *agility*, chain mail armor +2,  choose one extra from *equipment*, 10cp, sword (+2d), combat skills
 1. **Executioner, Mercenary, Barbarian**  
-+1d *Power*, +1d *agility*, leather armor +1, black hood or furry, horned helm, sack, 10cp, battle axe (+2d+1h slow), combat skills
+    +1d *Power*, +1d *agility*, leather armor +1, black hood or furry, horned helm, sack, 10cp, battle axe (+2d+1h slow), combat skills
 1. **Alchemist, Wizard**  
-+2d *brains*, *6 flash powder*, 1 alchemist spell, dagger (+1d fast), arcana skills
+    +2d *brains*, *6 flash powder*, 1 alchemist spell, dagger (+1d fast), arcana skills
 1. **Witch, Warlock, Midwife**  
-+1d *brains*, +1d *agility*, *6 healing herbs*, 2 witch spell, staff (+1d), arcana(S), forage(S)
+    +1d *brains*, +1d *agility*, *6 healing herbs*, 2 witch spell, staff (+1d), arcana(S), forage(S)
 1. **Thief, Rogue, Assassin**  
-+1d *Agility*, +1d *brains*, +1d *dare*, 4 Daggers (+1d, fast), lockpick, *poison* (6), Thief's skills
-</div>
-<div markdown="1" class="colstwo">
+    +1d *Agility*, +1d *brains*, +1d *dare*, 4 Daggers (+1d, fast), lockpick, *poison* (6), Thief's skills
 
 ### Combat skills
 
@@ -200,6 +199,8 @@ Death Throe:
 ### Thief's skills
 
 +2h for all rolls a thief may excel at. Concealable weapons confer +3d and ignore armor on surprise attacks.
+#### Cheater Die
+Thieves get a *cheater die*. After rolling, a thief may elect to use their *cheater die* to enhance their roll. The thief simply declares their intention and then rolls 1d in secret. Typically, under a cup. They then tell the DM what number they rolled and these are added to their total hits. The dm has the option calling the thief's bluff. At which point, the thief must lift their cup and show the die to all. If the die is on a different result then that which was claimed, the thief has no *hits* for this roll and loses the *cheater die* for this session. If the thief was not bluffing, the DM empties their *doom pool* and the thief gets the option of rolling the *cheater die* again.
 
 #### Poison
 
@@ -323,7 +324,7 @@ Weapons have special tables for critical hits. Players should receive a handout 
 13. Eviscerated / Impaled
 </div>
 
-#### Fist
+#### Fist {: .item}
 
 <div markdown="1" class="colstwo">
 0 additional dice are added to the *power* roll.
@@ -345,7 +346,7 @@ Weapons have special tables for critical hits. Players should receive a handout 
 </div><!--end page-->
 <div markdown="1" class="page">
 
-#### Dagger (melee)
+#### Dagger (melee) {: .item}
 
 <div markdown="1" class="colstwo">
 
@@ -367,7 +368,7 @@ Weapons have special tables for critical hits. Players should receive a handout 
 
 </div>
 
-#### Dagger (ranged)
+#### Dagger (ranged) {: .item}
 
 <div markdown="1" class="colstwo">
 
@@ -387,7 +388,7 @@ Weapons have special tables for critical hits. Players should receive a handout 
 
 </div>
 
-#### Sword
+#### Sword {: .item}
 
 +2d
 <div markdown="1" class="colstwo">
@@ -410,7 +411,7 @@ Weapons have special tables for critical hits. Players should receive a handout 
 </div>
 <div markdown="1" class="page">
 
-#### Bow & Arrow
+#### Bow & Arrow {: .item}
 
 +2d (no bonus if untrained)
 <div markdown="1" class="colstwo">
@@ -431,7 +432,7 @@ Weapons have special tables for critical hits. Players should receive a handout 
 
 </div>
 
-#### Battle Axe
+#### Battle Axe {: .item}
 
 +2d+1h, slow
 <div markdown="1" class="colstwo">
@@ -462,7 +463,7 @@ Ammunition is an item like any other. Each gear slot of ammo contains a multiple
 
 ### Armor
 
-Armor reduces **agility** Dice and incoming damage. If **agility** is at one, **power** is reduced instead.
+Armor reduces **agility** Dice and incoming damage. If **agility** is 0, **power** is reduced instead.
 
 * Light armor -1 damage, -1 **agility**
 * Heavy armor -2 damage, -2 **agility**
@@ -553,7 +554,7 @@ Character fumbles on attacks are specific to the character. They following table
 <div markdown="1" class="section">
 <div markdown="1" class="page">
 
-## Damage
+## Suffering
 
 <div markdown="1" class="colstwo">
 
@@ -600,24 +601,26 @@ Additiotally, characters with no *health dice* are exausted and use only half th
 1. 
 1. It only pisses you off. Regain 1d6hp and take a turn.
 
-### Table of Mortal Injuries (3d)
+### Table of Mortal Injuries (d33)
 
-1. Instant death. Describe your gruesome demise.
-1. Major artery. Die next round unless first aid is received.
-1. Bleeding out. Die in 1d rounds unless first aid is received.
-1. Dismembered.
-1. Internal injuries.
-1. Blinded. 
-1. Bleeding wound.
-1. K.O.
-1. Defeated. You are down and can only crawl away.
-1. Brained. Lose half your *brains*.
-1. Downed. You are on the ground next round and can get up the following round.
-1. Walk it off. You lose a turn.
-1. Disarmed. You lose your weapon.
-1. You are fine. No effect.
-1. It makes you stronger. Gain 1d *health pips*.
-1. Second wind. Earn back 1d *health dice*. It is your turn.
+11. Instant death. Describe your gruesome demise.
+12. Marked. Retire or die at the end of this session.
+13. Major artery. Die next round unless first aid is received.
+14. Bleeding out. Die in 1d rounds unless first aid is received.
+15. Dismembered. Lose an arm (Lose half your dice on rolls that use two arms until trained).
+16. Internal injuries. Roll 2d on this table each round until healed.
+21. Blinded for 1d (1. Permanently, 2. Months, 3. Weeks, 4. Days, 5. Hours, 6. Rounds).
+22. Bleeding wound. Roll on this table each round until healed.
+23. K.O.
+24. Brained. Lose half your *brains*.
+25. Downed. You are on the ground next round and can get up the following round.
+26. Walk it off. You lose a turn.
+31.
+32. 
+33. Disarmed. You lose your weapon.
+34. You are fine. No effect.
+35. It makes you stronger. Gain 1d *health pips*.
+36. Second wind. Earn back 1d *health dice*. It is your turn.
 
 ### Healing
 
@@ -628,25 +631,53 @@ Additiotally, characters with no *health dice* are exausted and use only half th
 <div markdown="1" class="section">
 <div markdown="1" class="page">
 
-## Movement and Range
+## Space Time
 
 <div markdown="1" class="colstwo">
-Distance is divided into 4 bands. *Close*, *Near*, *Far*, and *Very Far*. The actual size of the ranges expands as they move out. It is always possible to move from *Near* to *Close* on your turn but other distances are up to your DM.
+
+For Glory is a simulator. It does not aim to simulate reality, but rather, a piece of adventure fiction.
+Moments of in game time can be thought of in terms of scenes, and shots.
+A scene is usually no longer than a single game session in real time but may encompass a smaller or larger amount in game time.
+Scenes maybe connected by montages, scene setting shots, or simply, flow one to the next.
+
+A player taking an action becomes the camera person and editor for that shot.
+The patron may decide that an action is not possible but, if the player has a good understanding of the scene, they can do whatever they like.
+The patron is decide how many *hits* are required and which attribute would use.
+The player must say any applicable skills they have.
+For any NPCs that are in the shot or nearby, the patron may decide that they have the opportunity to
+react.
+The patron must decide if the character would know that the NPC will get a reaction.
+NPCs with a *power* or *agility* of 3 or greater usually get a reaction.
+
+NPC reactions can work in one of three ways.
+They may negate the possibility of the character completing their desired action.
+This may require a roll from the player to avoid some negative effect.
+They may add to the required number of *hits* the player character is required roll to complete their action.
+
+### Types of shots
+
+- Montage
+- Close up
+
+### Range
+
+Distance can be divided into 4 bands. 
+*Close*, *Near*, *Far*, and *Very Far*.
+The actual size of the ranges expands as they move out.
+It is always possible to move between *Near* and *Close* on your turn but other distances are determined by the patron and based on the nature of the scene and shot.
 </div><!--end col -->
 </div><!--end page-->
 </div><!--end section-->
 <div markdown="1" class="section">
 <div markdown="1" class="page">
-
-## Magic
-
-<div markdown="1" class="colstwo">
+## Treasure
 
 ### Magic Items
 
+<div markdown="1" class="colstwo">
 Magic is not a form of energy that objects may be imbued with. There is no +1 magic sword. Magic is desire given form. The most important aspect of any magical item is why is it magic.
 
-#### Dahgtar's Doom
+#### Dahgtar's Doom {: .item }
 
 +3d Magic Sword
 
@@ -668,8 +699,17 @@ Only 38 more of this blade's ancient enemy need be killed in order to free the s
 1. Speed demon. Make 1d6 more attacks against opponents in close range.
 1. Blur of blades. All opponents in melee range take 2d6 damage.
 
+</div>
+
+</div>
+</div>
+<div markdown="1" class="section">
+<div markdown="1" class="page">
+## Magic
+
 ### Spells
 
+<div markdown="1" class="colstwo">
 Casting spells is simply a matter of rolling *Brains*.
 Spells can be cast until they are lost. Lost spells return the following morning. Lost spells may be cast at the cost of 1 health pip per casting. 
 
@@ -681,7 +721,9 @@ Alchemist spells may cause side effects.
 Side effects happen once per casting and the least severe side effect takes precedence.
 Once a side effect occures, cross it off the list.
 
-##### Magic Missile
+<div markdown="1" class="keeptogether">
+##### Magic Missile {: .item}
+
 
 **Spell Name** (1d, roll once)
 
@@ -689,8 +731,8 @@ Once a side effect occures, cross it off the list.
 1. **Electricity** lets you see skeleton
 1. **Exploding Fireballs**
 1. **Rainbow Eye Beam**
-1. **Flaming Hands**
-1. **?**
+1. **Napalm Hands**
+1. **Ghost Hammer**
 
 ###### Effects (based on number of hits)
 
@@ -708,7 +750,7 @@ Once a side effect occures, cross it off the list.
 ###### Side Effects
 
 **Double ones:**   
-- [ ] Hair turns a bright color.
+Hair turns a bright color.
 - [ ] Skin turns a bright color.
 - [ ] Fingers become tentacles.
 
@@ -719,12 +761,13 @@ Once a side effect occures, cross it off the list.
 **Quadruple ones:**   
 - [ ] Lizard brain. +1d *Agility* and can only eat live insects.
 - [ ] You are a lizard person. 0d Brains, no tools or clothes, 2d Claws, +2d Agility, +2d Power.
-
-##### Magic Mouth
+</div>
+<div markdown="1" class="keeptogether">
+##### Magic Mouth {: .item}
 
 ###### Effects (based on number of hits)
 
-0. You begin yelling uncontrollably. Spell lost and two side effects.
+2. You begin yelling uncontrollably. Spell lost and two side effects.
 1. You begin yelling uncontrollably. Spell lost and one side effect.
 1. You begin yelling uncontrollably. Spell lost.
 1. No effect. Spell lost.
@@ -737,27 +780,31 @@ Once a side effect occures, cross it off the list.
 
 ###### Side Effects
 
-###### Double ones:
+**Two ones:**
 
-- [ ] Gain a mouth on your forehead. If you already have an eye there, other people may ask the new face questions as it has special knowledge.
-- [ ] 
-- [ ] Your eyes are small mouths. You no longer see color but you can see 30' in the dark using echo location.
+- Gain a mouth on your forehead. If you already have an eye there, other people may ask the new face questions as it has special knowledge.
+{: .checkbox}
+- Your eyes are small mouths. You no longer see color but you can see 30' in the dark using echo location.
+{: .checkbox}
 
-###### Triple ones:
+**Three ones:**
 
-- [ ] Large fangs. +1d bite attack.
-- [ ] Hands become mouths. You cannot hold weapons properly but you have two +1d bite attacks/round.
+- Large fangs. +1d bite attack. 
+{: .checkbox}
+- Hands become mouths. You cannot hold weapons properly but you have two +1d bite attacks/round.
+{: .checkbox}
 
-###### Quadruple ones:
+**Four ones:**
 
-- [ ] Mouth on your backside that you now use for speaking.
-- [ ] You are an unthinking, giant mouth with arms and legs. 0d Brains.
+- Mouth on your backside that you now use for speaking.
+{: .checkbox}
+- You are an unthinking, giant mouth with arms and legs. 0d Brains.
+{: .checkbox}
 
-#### Midwife spells
+</div>
+<div class="keeptogether" markdown="1">
 
-Midwives may choose to cast at the level cast or any lower level. Triple ones means the spell is lost after this casting.
-
-##### Wood Weird
+##### Wood Weird {: .item}
 
 0. No effect. Spell lost. Tangling plants grow from the floor and walls.
 1. No effect. Spell lost. Vines and branches grow from all nearby wood objects.
@@ -770,7 +817,13 @@ Midwives may choose to cast at the level cast or any lower level. Triple ones me
 1. Wood may be formed into a shape.
 1. Summon Larch (P4d A2d B0d H3d, move slow, 2 Attacks/round)
 
-##### Magic Shield
+⚀⚁⚂⚃⚄⚅
+{: .die}
+
+</div>
+<div class="keeptogether" markdown="1">
+
+##### Magic Shield {: .item}
 
 0. No effect. Spell lost and you are locked in a 6d force prison for 10 rounds.
 1. No effect. Spell lost and 
@@ -784,7 +837,19 @@ Midwives may choose to cast at the level cast or any lower level. Triple ones me
 1. Create an invisible force field in the form of a craft which the party can travel around in for up to 1 hour.
 1. Invisible force armor gives you +3d *Power*, +3 Armor, double jump, and move.
 1. Create a force field the size of house with 12Hd that can push a house.
+</div>
 </div><!--end col -->
 </div><!--end page-->
 </div><!--end section-->
      
+<div markdown="1" class="section">
+<div markdown="1" class="page">
+## Urth
+</div><!--end page-->
+</div><!--end section-->
+<div markdown="1" class="section">
+<div markdown="1" class="page">
+## Monsters
+</div><!--end page-->
+</div><!--end section-->
+

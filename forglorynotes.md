@@ -1,0 +1,1 @@
+/home/arielc/Documents/Notes/zarielkuri/forglory.md
