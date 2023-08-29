@@ -1,0 +1,3 @@
+# Vocabulary
+
+strife prevail suffer

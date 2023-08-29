@@ -1,0 +1,41 @@
+- [ ] Status effects do not last rounds. They are *momentary* or require an action or require a save or last through the encounter or require an intervention or healing.
+- [ ] Npcs attacking each other is another mechanic like a clock because everything is about the players. 
+- [ ] very interesting components you find may be used to increase spell check dice. 
+- [ ] shields effect your defense roll
+- [ ] Hungry is just another doom. 
+- [ ] Dare dice can be used to activate special character powers. 
+- [ ] Take the average
+- [ ] what are moves and what are actions.
+- [ ] stay frosty - use brains or focus to ward off surprise
+       Lends itself to a party character sheet
+- [ ] quick resolution system for unimportant combat.
+- [ ] Wounds can be dooms, negative stats. 
+- [ ] boons and dooms can have narrative permissions (Spire)
+- [ ] table of things to find on body to make them feel guilty
+- [ ] wounds and crits should allow for player cooperation
+- [ ] status effects on sheet with place to put dice to track
+
+- [ ] Status effects do not last rounds. They are *momentary* or require an action or require a save or last through the encounter or require an intervention or healing.
+- [ ] Npcs attacking each other is another mechanic like a clock because everything is about the players. 
+- [ ] foraging. Anyone may forage/hunt for food or item ingredients if they spend the day on it. 
+- [ ] very interesting components you find may be used to increase spell check dice. 
+- [ ] shields effect your defense roll
+- [ ] Hungry is just another doom. 
+- [ ] *cut scenes* These are descriptions of things going on in the world that the players cannot see.
+- [ ] Dare dice can be used to activate special character powers. 
+- [ ] Different tables for fists without combat skills. 
+- [ ] Take the average
+- [ ] what are moves and what are actions.
+- [ ] If one group of opponents is surprised, they take no action in the first round of combat.
+- [ ] rules fo4 firing into melee. 
+- [ ] stay frosty - use brains or focus to ward off surprise
+- [ ] quick resolution system for unimportant combat.
+- [ ] DM plays the roll of the party's Patron. Give quests and can be called on to cast spells etc.
+- [ ] crafting for dwarves.
+- [ ] shield moves, bash use some combat dice for defense, bash and strike. mitigate wounds. missile defense. 
+- [ ] many martiàl moves should be listed. 
+- [ ] Wounds can be dooms, negative stats. 
+- [ ] boons and dooms can have narrative permissions (Spire)
+- [ ] table of things to find on body to make them feel guilty
+- [ ] wounds and crits should allow for player cooperation
+- [ ] status effects on sheet with place to put dice to track
