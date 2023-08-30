@@ -1,3 +1,4 @@
+# Introduction
 Pierce your nipples.
 This game was created to allow players to make **zombie ninjas**, **axe witches**, **necrodroids** or whatever craziness they can think of.
 The dungeon master can be riffing on the players actions and using random tables to create emergent stories.

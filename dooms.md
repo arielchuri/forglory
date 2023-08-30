@@ -1,4 +1,4 @@
-## Dooms
+# Dooms
 
 Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
 

@@ -1,4 +1,4 @@
-## Cool Equipment
+# Gear
 
 [weapons](weapons.md)
 [armor](armor.md)

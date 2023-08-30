@@ -44,6 +44,11 @@ https://www.reddit.com/r/RPGdesign/comments/zykluf/which_srds_do_you_find_most_v
 https://tvtropes.org/pmwiki/pmwiki.php/Main/ChaseScene
 https://codepen.io/tijsvl/pen/OJmrBQQ?editors=1100
 
+## inbox
+Hacking
+Like mastermind but with 6 sided dice.
+scanners
+
 # Boss Fights
 
 Boss's may have a predetermined list of wounds. 

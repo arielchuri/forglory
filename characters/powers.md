@@ -86,36 +86,31 @@
 Choose or create one or two heroic styles for your character.
 Your heroic style can give your character a combination of *Attribute[A]* bonuses, *Skills*, *Powers[P]*, *Spells[S]*, *Tech[T]*, *Gear*, and *Boons*/*Dooms*.
 
-| Style          | Notes                                                             | Gear               |
-|----------------|-------------------------------------------------------------------|--------------------|
-| Android        | 1 Speed[A], 1 Tech[T], Android's Doom[D]                             |                    |
-| Assassin       | 1 Speed[A], Backstab[P], forgery, disguise, poison                   | Poison daggers     |
+| Style          | Notes                                                                      | Gear               |
+|----------------|----------------------------------------------------------------------------|--------------------|
+| Android        | 1 Speed[A], 1 Tech[T], Android's Doom[D]                                   |                    |
+| Assassin       | 1 Speed[A], Backstab[P], forgery, disguise, poison                         | Poison daggers     |
 | Barbarian      | 1 Speed[A], 1 Strength[A], 1 Luck[A], cannot be combined with other styles |                    |
-| Brainiac       | 2 Smarts[A]                                                          |                    |
-| Charismatic    | Dazzling[P], beautiful                                            |                    |
-| Cyborg         | 1 Strength[A], 1 Tech[T]                                             |                    |
-| Gang member    | Once/session: d3 gang members arrive in and stay for d3 rounds.   | Cell phone, pistol |
-| Ghost          | Incorporeal[P], Invisible[P], Cursed[D]                           |                    |
-| Lucky          | 2 Luck[A]                                                            |                    |
-| Martial Artist | 1 Speed[A], 1 Strength[A]                                               |                    |
-| Ninja          | See *Assassin*                                                    |                    |
-| Psionic        | 1 Smarts[A], Telepathy, Telekinesis, Mental Blast, Mind Control      |                    |
-| Sapper         | 1 Speed[A], Explosives[T], traps                                     |                    |
-| Shapeshifter   | Shapeshifter[P]                                                   |                    |
-| Sniper         | 1 Strength[A], 1 Speed[A]                                               |                    |
-| Soldier        | See *Warrior*                                                      |                    |
-| Super powered  | 1 or more Powers. 2 Dooms.                                        |                    |
-| Lizard         | Armored[P], Natural Weapon[P]                                     |                    |
-| Technologist   | 1 Smarts[A], 2 Gadgets                                               |                    |
+| Brainiac       | 2 Smarts[A]                                                                |                    |
+| Charismatic    | Dazzling[P], beautiful                                                     |                    |
+| Cyborg         | 1 Strength[A], 1 Tech[T]                                                   |                    |
+| Gang member    | Once/session: d3 gang members arrive in and stay for d3 rounds.            | Cell phone, pistol |
+| Ghost          | Incorporeal[P], Invisible[P], Cursed[D]                                    |                    |
+| Lucky          | 2 Luck[A]                                                                  |                    |
+| Martial Artist | 1 Speed[A], 1 Strength[A]                                                  |                    |
+| Ninja          | See *Assassin*                                                             |                    |
+| Psionic        | 1 Smarts[A], Telepathy, Telekinesis, Mental Blast, Mind Control            |                    |
+| Sapper         | 1 Speed[A], Explosives[T], traps                                           |                    |
+| Shapeshifter   | Shapeshifter[P]                                                            |                    |
+| Sniper         | 1 Strength[A], 1 Speed[A]                                                  |                    |
+| Soldier        | See *Warrior*                                                              |                    |
+| Super powered  | 1 or more Powers. 2 Dooms.                                                 |                    |
+| Lizard         | Armored[P], Natural Weapon[P]                                              |                    |
+| Technologist   | 1 Smarts[A], 2 Gadgets                                                     |                    |
 | Thief          | 1 Speed[A], 1 Smarts[A], 2 luck[A], forgery, disguise, poison              |                    |
-| Vampire        |                                                                   |                    |
-| Warrior        | 1 Strength[A], 1 Health, Weapon[P]                                   |                    |
-| Witch          | 1 Smarts[A], 1 Speed[A], Familiar, 1 Spell                              |                    |
-| Wizard         | 1 Smarts[A], 2 Spells, Patron                                        |                    |
-| Zombie         | 1 Health[A], Scary                                                   |                    |
+| Vampire        |                                                                            |                    |
+| Warrior        | 1 Strength[A], 1 Health, Weapon[P]                                         |                    |
+| Witch          | 1 Smarts[A], 1 Speed[A], Familiar, 1 Spell                                 |                    |
+| Wizard         | 1 Smarts[A], 2 Spells, Patron                                              |                    |
+| Zombie         | 1 Health[A], Scary                                                         |                    |
 
-
-## inbox
-Hacking
-Like mastermind but with 6 sided dice.
-scanners
