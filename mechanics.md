@@ -1,22 +1,28 @@
 # Mechanics
-## A Simple Test
 
-The character attempts an action by rolling the appropriate dice.
-Jumping a chasm may require Strength dice.
-The patron assigns a Hinderance number to the action based on the external circumstances. 
-The player will take the some of all the 1s, 2s, and 3s in their roll and try to meet that number. 
+The patron describes the terrible predicament the players face as well as the environment.
+Details about the world left unsaid maybe decided by the players.
+The players decide their character's actions and, usually, the results of the actions are decided by the patron in discussion with the players.
 
-The player may add any of their Stamina dice but those dice cannot be used again until they have been recovered. 
+Some actions are more dramatic and require the player to roll.
+The player will describe the action their character will take.
+The patron will tell the player which of their character's attributes should be used and wether it is an _instant_ or _cumulative_ challenge.
+The patron may also impart information about how difficult the challenge is depending on how much information the character could glean.
 
-In some cases, the die roll is subtracted from the Hindarence.
-An example of this would be breaking down a door with an are. 
+_Instant challenges,_ such as leaping over a chasm, require the player to make a single roll.
+_Cumulative challenges,_ such as hacking through a door, allow the player to make multiple rolls.
+Each roll takes time and removes the rolled number of hinderance points from the obstacle or target.
+
+The player will roll the dice for their attibute plus any additional dice they can muster and take the sum of all the 1s, 2s, and 3s in their roll. 
+
+The player may add any of their Stamina dice to any roll but those dice cannot be used again until they have been recovered. 
 
 ## Chance of success table
 
 This table shows the chance to achieve a certain amount of hits with differing amounts of dice.
 
 | d6 | 0 hits | 1+ | 2+ | 3+ | 4+ | 5+ | 6+ | 7+ | 8+ | 9+ | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
-|----|--------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|
+|    |        |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
 | 1  | 50     | 50 | 33 | 17 |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
 | 2  | 25     | 75 | 58 | 39 | 17 | 8  | 3  |    |    |    |     |     |     |     |     |     |     |     |
 | 3  | 12     | 87 | 75 | 58 | 37 | 23 | 12 | 4  | 2  |    |     |     |     |     |     |     |     |     |

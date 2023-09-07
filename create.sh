@@ -2,7 +2,11 @@
 
 cat introduction.md > forglory.md
 echo '   ' >> forglory.md
+cat dice.md >> forglory.md
+echo '   ' >> forglory.md
 cat mechanics.md >> forglory.md
+echo '   ' >> forglory.md
+cat stunts.md >> forglory.md
 echo '   ' >> forglory.md
 echo '# Characters' >> forglory.md
 cat characters/stats.md >> forglory.md
@@ -23,5 +27,9 @@ echo '   ' >> forglory.md
 cat weapons.md >> forglory.md
 echo '   ' >> forglory.md
 cat armor.md >> forglory.md
+echo '   ' >> forglory.md
+cat doompool.md >> forglory.md
+echo '   ' >> forglory.md
+cat glossary.md >> forglory.md
 echo '   ' >> forglory.md
 echo 'Done!'
