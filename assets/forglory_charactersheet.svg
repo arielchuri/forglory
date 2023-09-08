@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="forglory_charactersheet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="in"
+     showgrid="false"
+     units="in"
+     borderlayer="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="1.7707791"
+     inkscape:cx="393.32969"
+     inkscape:cy="744.58751"
+     inkscape:window-width="2560"
+     inkscape:window-height="1408"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-10.803446,272.99411"
+       orientation="0,816"
+       id="guide677674" />
+    <sodipodi:guide
+       position="209.64864,-7.2021701"
+       orientation="1056,0"
+       id="guide677676" />
+    <sodipodi:guide
+       position="226.90458,6.2546776"
+       orientation="0,-816"
+       id="guide677678" />
+    <sodipodi:guide
+       position="6.2958262,286.41071"
+       orientation="-1056,0"
+       id="guide677680" />
+    <sodipodi:guide
+       position="70.84626,269.57548"
+       orientation="1,0"
+       id="guide680678" />
+    <sodipodi:guide
+       position="77.19626,268.35117"
+       orientation="1,0"
+       id="guide680680" />
+    <sodipodi:guide
+       position="138.5717,268.35117"
+       orientation="1,0"
+       id="guide680682" />
+    <sodipodi:guide
+       position="144.92171,268.35117"
+       orientation="1,0"
+       id="guide680684" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="585.2674"
+       y="428.12404"
+       width="180.65854"
+       height="204.76416"
+       id="rect5947" />
+    <rect
+       x="23.795249"
+       y="438.59339"
+       width="240.57106"
+       height="485.89674"
+       id="rect700968" />
+    <rect
+       x="384.88978"
+       y="643.93539"
+       width="22.535325"
+       height="122.86606"
+       id="rect410758" />
+    <rect
+       x="-305.96623"
+       y="-146.18304"
+       width="315.5385"
+       height="242.14917"
+       id="rect254746" />
+    <rect
+       x="23.79525"
+       y="438.59338"
+       width="230.79145"
+       height="90.252087"
+       id="rect700968-3" />
+    <rect
+       x="23.79525"
+       y="438.59338"
+       width="244.93555"
+       height="69.591654"
+       id="rect700968-3-9" />
+  </defs>
+  <g
+     inkscape:label="rootlayer"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.17934;stroke-linecap:round;stroke-miterlimit:10;stop-color:#000000"
+       id="rect236044"
+       width="65.976402"
+       height="23.411596"
+       x="266.39072"
+       y="2.2488678"
+       transform="matrix(0.99887726,0.04737328,-0.37660964,0.92637205,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.418689px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="8.2157946"
+       y="12.38207"
+       id="text9538"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan9536"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Varna;-inkscape-font-specification:Varna;fill:#000000;fill-opacity:1;stroke-width:0.264584"
+         x="8.2157946"
+         y="12.38207">Name:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.418689px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="8.4012127"
+       y="19.75412"
+       id="text9538-6"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan9536-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Varna;-inkscape-font-specification:Varna;fill:#000000;fill-opacity:1;stroke-width:0.264584"
+         x="8.4012127"
+         y="19.75412">Description:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.7847px;line-height:1.25;font-family:'The Macabre';-inkscape-font-specification:'The Macabre';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.187535"
+       x="272.82434"
+       y="33.334988"
+       id="text240950"
+       transform="matrix(0.99970131,0,-0.20673332,1.0002988,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan240948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.7847px;font-family:'The Macabre';-inkscape-font-specification:'The Macabre';fill:#ffffff;fill-opacity:1;stroke-width:0.187535"
+         x="272.82434"
+         y="33.334988">For Glory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2511px;line-height:1.25;font-family:'The Macabre';-inkscape-font-specification:'The Macabre';fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0.199281"
+       x="138.02023"
+       y="27.314306"
+       id="text210122"><tspan
+         sodipodi:role="line"
+         id="tspan210120"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2511px;font-family:'The Macabre';-inkscape-font-specification:'The Macabre';fill:#cbcbcb;fill-opacity:1;stroke-width:0.199281"
+         x="138.02023"
+         y="27.314306">For Glory</tspan></text>
+    <g
+       id="g240626"
+       transform="matrix(0.05988655,0,0,0.06077788,133.55393,119.68715)"
+       style="stroke-width:1.98322">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:11.5026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -8.10575,101.18608 c 1.56001,-0.74632 3.28451,-2.456465 4.16957,-4.134875 0.60402,-1.14545 0.69763,-1.64236 0.69778,-3.704167 1.4e-4,-2.05536 -0.0984,-2.58231 -0.71972,-3.850427 -0.7766,-1.58496 -2.95965,-3.92159 -4.60427,-4.928187 -1.71993,-1.05268 -4.43939,-1.75986 -6.16562,-1.60333 -3.86902,0.35083 -5.57349,2.712907 -5.56933,7.717994 0.005,6.319217 1.544,9.422462 5.3439,10.777352 1.89696,0.67638 5.13126,0.54679 6.84769,-0.27436 z"
+         id="path240184" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:11.5026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 21.17254,103.15784 c 3.41156,-0.90822 6.11298,-3.03218 7.53581,-5.924945 0.78441,-1.5948 0.86624,-1.98669 0.86608,-4.146477 -1.3e-4,-2.03721 -0.10419,-2.60727 -0.71326,-3.907257 -0.87133,-1.85973 -2.94778,-4.10852 -4.64151,-5.026747 -2.21839,-1.20268 -4.31075,-1.58658 -8.02997,-1.47332 -3.17666,0.0967 -3.41537,0.14389 -5.15937,1.01907 -3.27692,1.644417 -4.4966,4.121267 -4.28067,8.692954 0.16058,3.399917 0.86365,5.207897 2.82615,7.267407 3.00257,3.151005 7.64407,4.551575 11.59674,3.499315 z"
+         id="path240182" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:11.5026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 5.90055,113.44884 c 1.07201,-1.14111 0.83018,-2.13556 -1.73575,-7.13722 -2.64101,-5.14809 -3.0848,-5.74742 -4.17253,-5.63485 -0.71612,0.0741 -0.85854,0.31984 -2.49936,4.31193 -1.3354,3.24904 -1.74519,4.55311 -1.76247,5.60866 -0.0298,1.82041 0.33269,2.17366 1.48085,1.44316 2.22784,-1.41748 2.90346,-1.39097 4.42568,0.17367 2.00843,2.06434 3.16852,2.40028 4.26358,1.23465 z"
+         id="path240180" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:11.5026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1.92566,123.37724 c -0.29104,-0.29104 -0.52917,-0.82682 -0.52917,-1.19062 0,-0.52546 -0.13319,-0.66146 -0.64783,-0.66146 -0.35628,0 -0.96901,0.29766 -1.36154,0.66146 -0.39257,0.3638 -0.99399,0.66146 -1.33654,0.66146 -0.7746,0 -1.68117,-0.87269 -1.68117,-1.61835 0,-0.47797 -0.1066,-0.53376 -0.7276,-0.38084 -1.99033,0.49011 -2.13953,0.47903 -2.82858,-0.21002 -0.37243,-0.37244 -0.67715,-0.9732 -0.67715,-1.33503 0,-0.36183 -0.11991,-0.73198 -0.26646,-0.82255 -0.84683,-0.52337 -1.19055,-1.92565 -1.32054,-5.38727 l -0.13279,-3.53636 -1.04709,-0.90477 c -0.74737,-0.6458 -1.80766,-1.13946 -3.70417,-1.72466 -5.85816,-1.80763 -7.65503,-3.41865 -8.36587,-7.500595 -0.31888,-1.83113 -0.19639,-5.505087 0.28142,-8.440857 0.13174,-0.80941 0.36838,-3.466967 0.52588,-5.905687 0.80705,-12.496401 1.24034,-15.897361 2.4938,-19.574228 1.41932,-4.163377 3.19044,-6.712107 8.48568,-12.211334 6.63863,-6.894344 14.33504,-10.763444 23.76429,-11.946631 4.12067,-0.51706 11.98531,-0.20166 15.93064,0.63888 12.20388,2.600007 18.86103,7.684004 23.94482,18.286368 2.79341,5.825737 3.55854,9.186224 3.37275,14.813401 -0.10959,3.31864 -0.22202,4.0265 -1.0722,6.750127 -0.52237,1.67349 -1.07699,3.995207 -1.23248,5.159367 -0.45101,3.376807 -1.9835,5.914057 -6.45695,10.690444 -1.18348,1.26361 -3.18704,3.435655 -4.45233,4.826775 -2.94738,3.24044 -4.54781,4.08118 -10.59166,5.564 -2.34805,0.57607 -4.60031,1.21865 -5.00505,1.42796 -1.17189,0.606 -2.11306,2.00992 -3.17217,4.73181 -0.54218,1.39338 -1.33617,2.97793 -1.76445,3.52121 -0.61116,0.77527 -0.7507,1.17504 -0.64865,1.85813 0.17915,1.19909 -0.49578,1.90779 -1.81687,1.90779 -0.73723,0 -1.0841,-0.14215 -1.29122,-0.52917 -0.32602,-0.60919 -0.54996,-0.6326 -2.35278,-0.24597 -0.86844,0.18625 -1.27712,0.3962 -1.19383,0.61329 0.23083,0.6015 -0.9268,1.74935 -1.76426,1.74935 -0.7088,0 -0.77454,-0.0786 -0.77454,-0.92604 0,-0.87209 -0.0511,-0.92604 -0.87705,-0.92604 -0.74056,0 -0.94522,0.14301 -1.31532,0.91909 -0.73417,1.53957 -2.68962,1.66229 -3.36389,0.21111 -0.5231,-1.12587 -1.21374,-1.10992 -1.69383,0.0391 -0.62511,1.4961 -2.30659,1.97399 -3.33325,0.94734 z"
+         id="path240178" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:11.5026;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -0.74655,144.5463 c -1.35202,-0.71461 -2.33984,-1.93802 -4.46646,-5.5318 -3.39711,-5.7408 -4.71169,-9.24162 -4.95839,-13.20437 l -0.15325,-2.46191 0.96639,-0.91153 c 1.46495,-1.38177 3.27163,-1.2074 3.82109,0.3688 0.30321,0.86974 1.77723,2.05342 2.03591,1.63487 0.30361,-0.49122 1.43325,-0.28877 1.83835,0.32946 0.2158,0.32936 0.55436,1.23187 0.75237,2.00557 0.36539,1.42773 0.74525,1.88216 1.57943,1.88946 0.31499,0.003 0.46302,-0.20139 0.46302,-0.6385 0,-0.77887 0.71745,-1.56001 1.24637,-1.35704 0.21143,0.0811 0.55327,0.14751 0.75965,0.14751 0.22048,0 0.37523,0.26388 0.37523,0.63982 0,1.09784 0.27887,1.47685 1.08665,1.47685 0.69535,0 0.76544,-0.0831 0.76544,-0.90714 0,-1.14595 0.58472,-1.7387 1.71516,-1.7387 0.65323,0 1.05449,0.20307 1.53895,0.77881 0.55223,0.6563 0.77274,0.74739 1.40181,0.57915 0.62939,-0.16833 0.78968,-0.40024 1.02185,-1.4787 0.15145,-0.70348 0.4653,-1.39836 0.69741,-1.54416 0.72253,-0.4538 1.72948,-7.9e-4 2.19938,0.98942 0.37129,0.7824 0.52226,0.88606 1.0237,0.70286 0.3235,-0.11818 0.71191,-0.45765 0.8631,-0.75436 0.70633,-1.3861 1.61184,-1.74375 2.80212,-1.10674 0.66281,0.35473 1.2886,-0.094 1.2886,-0.92388 0,-0.79958 0.49144,-1.21114 1.44621,-1.21114 0.9724,0 1.62375,-0.90377 3.97193,-5.51104 1.88296,-3.69453 3.79137,-5.87702 6.09123,-6.96602 1.79343,-0.8492 3.08407,-0.94301 4.60447,-0.33466 1.76712,0.70707 1.94209,1.40922 1.83044,7.34598 -0.0869,4.62032 -0.14724,5.16682 -0.68189,6.17586 -0.76173,1.43758 -1.25944,1.7613 -4.2292,2.75068 -2.42316,0.80727 -2.52294,0.87424 -5.10008,3.42271 -3.25012,3.21395 -5.60785,4.78568 -12.03415,8.02225 -3.55542,1.79068 -5.80165,3.1225 -7.67292,4.54942 -1.45521,1.10965 -3.20741,2.30587 -3.89382,2.65827 -1.55294,0.79729 -3.61423,0.8443 -4.9961,0.11394 z"
+         id="path239155-6" />
+      <path
+         id="path239155-6-2"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.98322"
+         d="m -0.74656,144.5463 c -1.35202,-0.71461 -2.33984,-1.93802 -4.46646,-5.5318 -3.39711,-5.7408 -4.71169,-9.24162 -4.95839,-13.20437 l -0.15325,-2.46191 0.96639,-0.91153 c 1.46495,-1.38177 3.27163,-1.2074 3.82109,0.3688 0.30321,0.86974 1.77723,2.05342 2.03591,1.63487 0.30361,-0.49122 1.43325,-0.28877 1.83835,0.32946 0.2158,0.32936 0.55436,1.23187 0.75237,2.00557 0.36539,1.42773 0.74525,1.88216 1.57943,1.88946 0.31499,0.003 0.46302,-0.20139 0.46302,-0.6385 0,-0.77887 0.71745,-1.56001 1.24637,-1.35704 0.21143,0.0811 0.55327,0.14751 0.75965,0.14751 0.22048,0 0.37523,0.26388 0.37523,0.63982 0,1.09784 0.27887,1.47685 1.08665,1.47685 0.69535,0 0.76544,-0.0831 0.76544,-0.90714 0,-1.14595 0.58472,-1.7387 1.71516,-1.7387 0.65323,0 1.05449,0.20307 1.53895,0.77881 0.55223,0.6563 0.77274,0.74739 1.40181,0.57915 0.62939,-0.16833 0.78968,-0.40024 1.02185,-1.4787 0.15145,-0.70348 0.4653,-1.39836 0.69741,-1.54416 0.72253,-0.4538 1.72948,-7.9e-4 2.19938,0.98942 0.37129,0.7824 0.52226,0.88606 1.0237,0.70286 0.3235,-0.11818 0.71191,-0.45765 0.8631,-0.75436 0.70633,-1.3861 1.61184,-1.74375 2.80212,-1.10674 0.66281,0.35473 1.2886,-0.094 1.2886,-0.92388 0,-0.79958 0.49144,-1.21114 1.44621,-1.21114 0.9724,0 1.62375,-0.90377 3.97193,-5.51104 1.88296,-3.69453 3.79137,-5.87702 6.09123,-6.96602 1.79343,-0.8492 3.08407,-0.94301 4.60447,-0.33466 1.76712,0.70707 1.94209,1.40922 1.83044,7.34598 -0.0869,4.62032 -0.14724,5.16682 -0.68189,6.17586 -0.76173,1.43758 -1.25944,1.7613 -4.2292,2.75068 -2.42316,0.80727 -2.52294,0.87424 -5.10008,3.42271 -3.25012,3.21395 -5.60785,4.78568 -12.03415,8.02225 -3.55542,1.79068 -5.80165,3.1225 -7.67292,4.54942 -1.45521,1.10965 -3.20741,2.30587 -3.89382,2.65827 -1.55294,0.79729 -3.61423,0.8443 -4.9961,0.11394 z m 2.67221,-21.16906 c -0.29104,-0.29104 -0.52917,-0.82682 -0.52917,-1.19062 0,-0.52546 -0.13319,-0.66146 -0.64783,-0.66146 -0.35628,0 -0.96901,0.29766 -1.36154,0.66146 -0.39257,0.3638 -0.99399,0.66146 -1.33654,0.66146 -0.7746,0 -1.68117,-0.87269 -1.68117,-1.61835 0,-0.47797 -0.1066,-0.53376 -0.7276,-0.38084 -1.99033,0.49011 -2.13953,0.47903 -2.82858,-0.21002 -0.37243,-0.37244 -0.67715,-0.9732 -0.67715,-1.33503 0,-0.36183 -0.11991,-0.73198 -0.26646,-0.82255 -0.84683,-0.52337 -1.19055,-1.92565 -1.32054,-5.38727 l -0.13279,-3.53636 -1.04709,-0.90477 c -0.74737,-0.6458 -1.80766,-1.13946 -3.70417,-1.72466 -5.85816,-1.80763 -7.65503,-3.41865 -8.36587,-7.500594 -0.31888,-1.83113 -0.19639,-5.505087 0.28142,-8.440853 0.13174,-0.80941 0.36838,-3.466971 0.52588,-5.905687 0.80705,-12.496405 1.24034,-15.897361 2.4938,-19.574232 1.41932,-4.163377 3.19044,-6.712103 8.48568,-12.21133 6.63863,-6.894348 14.33504,-10.763444 23.76429,-11.946635 4.12067,-0.51706 11.98531,-0.20166 15.93064,0.63888 12.20388,2.600007 18.86103,7.684004 23.94482,18.286368 2.79341,5.825737 3.55854,9.186228 3.37275,14.813405 -0.10959,3.318636 -0.22202,4.026496 -1.0722,6.750123 -0.52237,1.67349 -1.07699,3.995207 -1.23248,5.159367 -0.45101,3.376811 -1.9835,5.914057 -6.45695,10.690444 -1.18348,1.26361 -3.18704,3.435664 -4.45233,4.826774 -2.94738,3.24044 -4.54781,4.08118 -10.59166,5.564 -2.34805,0.57607 -4.60031,1.21865 -5.00505,1.42796 -1.17189,0.606 -2.11306,2.00992 -3.17217,4.73181 -0.54218,1.39338 -1.33617,2.97793 -1.76445,3.52121 -0.61116,0.77527 -0.7507,1.17504 -0.64865,1.85813 0.17915,1.19909 -0.49578,1.90779 -1.81687,1.90779 -0.73723,0 -1.0841,-0.14215 -1.29122,-0.52917 -0.32602,-0.60919 -0.54996,-0.6326 -2.35278,-0.24597 -0.86844,0.18625 -1.27712,0.3962 -1.19383,0.61329 0.23083,0.6015 -0.9268,1.74935 -1.76426,1.74935 -0.7088,0 -0.77454,-0.0786 -0.77454,-0.92604 0,-0.87209 -0.0511,-0.92604 -0.87705,-0.92604 -0.74056,0 -0.94522,0.14301 -1.31532,0.91909 -0.73417,1.53957 -2.68962,1.66229 -3.36389,0.21111 -0.5231,-1.12587 -1.21374,-1.10992 -1.69383,0.0391 -0.62511,1.4961 -2.30659,1.97399 -3.33325,0.94734 z m 3.97489,-9.9284 c 1.07201,-1.14111 0.83018,-2.13556 -1.73575,-7.13722 -2.64101,-5.14808 -3.0848,-5.74741 -4.17253,-5.63484 -0.71612,0.0741 -0.85854,0.31984 -2.49936,4.31192 -1.3354,3.24904 -1.74519,4.55311 -1.76247,5.60866 -0.0298,1.82041 0.33269,2.17366 1.48085,1.44316 2.22784,-1.41748 2.90346,-1.39097 4.42568,0.17367 2.00843,2.06434 3.16852,2.40028 4.26358,1.23465 z m 15.27199,-10.291 c 3.41156,-0.90822 6.11298,-3.03217 7.53581,-5.924944 0.78441,-1.594796 0.86624,-1.986686 0.86608,-4.146477 -1.3e-4,-2.03721 -0.10419,-2.607266 -0.71326,-3.907257 -0.87133,-1.85973 -2.94778,-4.108516 -4.64151,-5.026747 -2.21839,-1.20268 -4.31075,-1.58658 -8.02997,-1.47332 -3.17666,0.0967 -3.41537,0.14389 -5.15937,1.01907 -3.27692,1.644421 -4.4966,4.121267 -4.28067,8.692954 0.16058,3.399921 0.86365,5.207897 2.82615,7.267407 3.00257,3.151004 7.64407,4.551574 11.59674,3.499314 z m -29.27829,-1.97175 c 1.56001,-0.74632 3.28451,-2.456474 4.16957,-4.134884 0.60402,-1.145446 0.69763,-1.642356 0.69778,-3.704167 1.4e-4,-2.05536 -0.0984,-2.582306 -0.71972,-3.850427 -0.7766,-1.58496 -2.95965,-3.921586 -4.60427,-4.928187 -1.71993,-1.05268 -4.43939,-1.75986 -6.16562,-1.60333 -3.86902,0.35083 -5.57349,2.712911 -5.56933,7.717998 0.005,6.319213 1.544,9.422467 5.3439,10.777357 1.89696,0.67637 5.13126,0.54678 6.84769,-0.27436 z" />
+    </g>
+    <g
+       id="g25452"
+       transform="translate(-32.808335,2.6458342)">
+      <text
+         xml:space="preserve"
+         id="text484085"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.05;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Medium';text-align:end;text-anchor:end;white-space:pre;inline-size:150.561;fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:0.278886"
+         x="73.278137"
+         y="174.65196"
+         transform="matrix(0.80893658,0,0,0.80893658,101.29728,-94.397329)"><tspan
+           x="73.278137"
+           y="174.65196"
+           id="tspan109601">Attacking, lifting, pushing, breaking, climbing</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text512353"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.05;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Medium';text-align:end;text-anchor:end;white-space:pre;inline-size:96.3584;fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:0.278886"
+         x="89.705566"
+         y="174.65196"
+         transform="matrix(0.80893658,0,0,0.80893658,87.992876,-52.729046)"><tspan
+           x="89.705566"
+           y="174.65196"
+           id="tspan109603">Knowledge, wisdom, personality, disguises, discernment,<tspan
+   y="174.65196"
+   id="tspan109605"> </tspan></tspan><tspan
+           x="89.705566"
+           y="177.98571"
+           id="tspan109607">perspicasity, spells, psychic, languages, codes, history</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text537961"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.05;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Medium';text-align:end;text-anchor:end;white-space:pre;inline-size:88.2846;fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:0.278886"
+         x="85.689133"
+         y="174.65196"
+         transform="matrix(0.80893658,0,0,0.80893658,91.241267,-31.084958)"><tspan
+           x="85.689133"
+           y="174.65196"
+           id="tspan109609">Added to other rolls, random events, replenished each<tspan
+   y="174.65196"
+   id="tspan109611"> </tspan></tspan><tspan
+           x="85.689133"
+           y="177.98571"
+           id="tspan109615">session, earned from roleplay and <tspan
+   style="font-style:italic;-inkscape-font-specification:'IBM Plex Sans Medium Italic'"
+   id="tspan109613">dooms</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text506583"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.05;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Medium';text-align:end;text-anchor:end;white-space:pre;inline-size:82.3448;fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:0.278886"
+         x="81.755302"
+         y="174.65196"
+         transform="matrix(0.80893658,0,0,0.80893658,94.423293,-9.5511473)"><tspan
+           x="81.755302"
+           y="174.65196"
+           id="tspan109617">Damage, stamina, fatigue, carrying, starving, breath<tspan
+   y="174.65196"
+   id="tspan109619"> </tspan></tspan><tspan
+           x="81.755302"
+           y="177.98571"
+           id="tspan109621">holding, disease resistance, poison resistance.
+</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text419120"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.175px;line-height:1.05;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Medium';text-align:end;text-anchor:end;white-space:pre;inline-size:73.4039;fill:#7a7a7a;fill-opacity:1;stroke:none;stroke-width:0.278886"
+         x="74.421165"
+         y="174.65196"
+         transform="matrix(0.80893658,0,0,0.80893658,100.35602,-73.069262)"><tspan
+           x="74.421165"
+           y="174.65196"
+           id="tspan109623">Defending, running, jumping, sneaking, hiding,<tspan
+   y="174.65196"
+   id="tspan109625"> </tspan></tspan><tspan
+           x="74.421165"
+           y="177.98571"
+           id="tspan109627">sneak attacks, dodging, swinging, climbing</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text410756"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect410758);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="115.59985"
+       y="316.25443"
+       id="text9538-9-3-5"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan9536-0-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="115.59985"
+         y="316.25443">Abilities</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="123.44044"
+       y="350.41235"
+       id="text9538-9-3-5-6-6"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan9536-0-8-5-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="123.44044"
+         y="350.41235">Dooms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#959595;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="80.408821"
+       y="145.34973"
+       id="text620934"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#959595;fill-opacity:1;stroke-width:0.297972"
+         x="80.408821"
+         y="145.34973"
+         id="tspan17825">Weapons:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="173.43314"
+       y="296.92294"
+       id="text618044"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan618042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="173.43314"
+         y="296.92294">Wounds</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="173.43314"
+         y="301.86185"
+         id="tspan627884">Scars</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="173.43314"
+         y="306.80072"
+         id="tspan627882">Corruptions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="84.193535"
+       y="290.19135"
+       id="text618340"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan618338"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="84.193535"
+         y="290.19135">Equipment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="83.719543"
+       y="306.9819"
+       id="text619384"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan619382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="83.719543"
+         y="306.9819">Rations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="96.208107"
+       y="333.53326"
+       id="text619384-6"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan619382-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="96.208107"
+         y="333.53326">Torches</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="150.20697"
+       y="279.53445"
+       id="text9538-9-3-5-6-6-9"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan9536-0-8-5-2-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="150.20697"
+         y="279.53445">Glory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:varna;-inkscape-font-specification:varna;letter-spacing:-0.264583px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.297972"
+       x="150.30472"
+       y="314.17136"
+       id="text9538-9-3-5-6-6-9-2"
+       transform="scale(0.96490366,1.0363729)"><tspan
+         sodipodi:role="line"
+         id="tspan9536-0-8-5-2-9-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:varna;-inkscape-font-specification:varna;fill:#000000;fill-opacity:1;stroke-width:0.297972"
+         x="150.30472"
+         y="314.17136">Kills</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.3333333e-8,28.045834)"
+       id="text700966"
+       style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.2;font-family:sans-serif;text-align:justify;white-space:pre;shape-inside:url(#rect700968);fill:#000000;fill-opacity:1;stroke:none"
+       x="112.3737"
+       y="0"><tspan
+         x="23.794922"
+         y="448.03245"
+         id="tspan109633"><tspan
+           style="font-weight:bold;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Bold';text-align:start"
+           id="tspan109629">How to play:</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109631"> The judge will describe a situation. </tspan></tspan><tspan
+         x="23.794922"
+         y="460.8845"
+         id="tspan109637"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109635">Describe how you react. The judge will decide if </tspan></tspan><tspan
+         x="23.794922"
+         y="473.73655"
+         id="tspan109641"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109639">your actions are difficult enough to require a roll </tspan></tspan><tspan
+         x="23.794922"
+         y="486.5886"
+         id="tspan109645"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109643">and how many hits are required to succeed.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="499.44065"
+         id="tspan109649"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109647">
+</tspan></tspan><tspan
+         x="23.794922"
+         y="512.2927"
+         id="tspan109655"><tspan
+           style="font-weight:bold"
+           id="tspan109651">Jumping</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109653"> over a crevice may require an agility </tspan></tspan><tspan
+         x="23.794922"
+         y="525.14475"
+         id="tspan109659"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109657">check. Roll all of your agility dice plus any dice for </tspan></tspan><tspan
+         x="23.794922"
+         y="537.9968"
+         id="tspan109663"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109661">special equipment like kangaroo mutation or </tspan></tspan><tspan
+         x="23.794922"
+         y="550.84885"
+         id="tspan109667"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109665">spring boots. Each die that rolls 4 or above, is a </tspan></tspan><tspan
+         x="23.794922"
+         y="563.70091"
+         id="tspan109673"><tspan
+           style="font-style:italic"
+           id="tspan109669">hit</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109671">. In this case, you only have one changce to </tspan></tspan><tspan
+         x="23.794922"
+         y="576.55296"
+         id="tspan109681"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109675">score at least one </tspan><tspan
+           style="font-style:italic"
+           id="tspan109677">hit</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109679"> and succeed.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="589.40501"
+         id="tspan109685"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109683">
+</tspan></tspan><tspan
+         x="23.794922"
+         y="602.25706"
+         id="tspan109691"><tspan
+           style="font-weight:bold"
+           id="tspan109687">Attacking</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109689"> a bear witch with your plasma sword </tspan></tspan><tspan
+         x="23.794922"
+         y="615.10911"
+         id="tspan109703"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109693">requires a </tspan><tspan
+           style="font-style:italic"
+           id="tspan109695">power</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109697"> check. Roll your </tspan><tspan
+           style="font-style:italic"
+           id="tspan109699">power</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109701"> dice plus </tspan></tspan><tspan
+         x="23.794922"
+         y="627.96116"
+         id="tspan109707"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109705">any dice added by the sword. Each die that rolls </tspan></tspan><tspan
+         x="23.794922"
+         y="640.81321"
+         id="tspan109719"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109709">above 3 is a </tspan><tspan
+           style="font-style:italic"
+           id="tspan109711">hit. </tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109713">Add any </tspan><tspan
+           style="font-style:italic"
+           id="tspan109715">hits</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109717"> given by your skills </tspan></tspan><tspan
+         x="23.794922"
+         y="653.66526"
+         id="tspan109723"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109721">and each does 1 damage to your target.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="666.51731"
+         id="tspan109727"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109725">
+</tspan></tspan><tspan
+         x="23.794922"
+         y="679.36936"
+         id="tspan109733"><tspan
+           style="font-weight:bold"
+           id="tspan109729">Dare Dice. </tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109731">If you have time to focus before your </tspan></tspan><tspan
+         x="23.794922"
+         y="692.22141"
+         id="tspan109741"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109735">action, you may add your </tspan><tspan
+           style="font-style:italic"
+           id="tspan109737">dare</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109739"> dice to the roll. You </tspan></tspan><tspan
+         x="23.794922"
+         y="705.07346"
+         id="tspan109749"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109743">may use your </tspan><tspan
+           style="font-style:italic"
+           id="tspan109745">dare</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109747"> when you do not have time to </tspan></tspan><tspan
+         x="23.794922"
+         y="717.92552"
+         id="tspan109753"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109751">focus but those dice are lost until the next day.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="730.77757"
+         id="tspan109757"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109755">
+</tspan></tspan><tspan
+         x="23.794922"
+         y="743.62962"
+         id="tspan109763"><tspan
+           style="font-weight:bold"
+           id="tspan109759">Stunts</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109761"> are fancy ways to attack and execute </tspan></tspan><tspan
+         x="23.794922"
+         y="756.48167"
+         id="tspan109771"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109765">actions. </tspan><tspan
+           style="font-style:italic"
+           id="tspan109767">Stunts</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109769"> add dice to your rolls. There are </tspan></tspan><tspan
+         x="23.794922"
+         y="769.33372"
+         id="tspan109775"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109773">three levels of stunts.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="782.18577"
+         id="tspan109779"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109777">1. Describing your action in a cool way adds one </tspan></tspan><tspan
+         x="23.794922"
+         y="795.03782"
+         id="tspan109783"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109781">die.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="807.88987"
+         id="tspan109791"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109785">2. Using the environment, or a </tspan><tspan
+           style="font-style:italic"
+           id="tspan109787">doom,</tspan><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109789"> or the story </tspan></tspan><tspan
+         x="23.794922"
+         y="820.74192"
+         id="tspan109795"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109793">to execute the action adds two die.
+</tspan></tspan><tspan
+         x="23.794922"
+         y="833.59397"
+         id="tspan109799"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109797">3. Doing something so great that the Dungeon </tspan></tspan><tspan
+         x="23.794922"
+         y="846.44602"
+         id="tspan109803"><tspan
+           style="font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:start"
+           id="tspan109801">Master gives you 3 dice to commit the action.</tspan></tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path237378-3-7"
+       cx="43.704609"
+       cy="-22.683868"
+       r="0.87312979"
+       inkscape:label="path237378-3-7" />
+    <rect
+       style="fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:0.176389;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0.176389, 0.705556;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2737"
+       width="8.3374491"
+       height="8.3374491"
+       x="39.550289"
+       y="-16.548019"
+       ry="1.2535719" />
+    <g
+       id="g237607-5-0"
+       transform="matrix(0.85006855,0,0,0.85006855,4.3725066,-63.031381)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32482;stroke-opacity:1"
+       inkscape:label="g237607-5-0">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path237378-3-7"
+         id="use2128"
+         width="100%"
+         height="100%"
+         transform="matrix(1.1763757,0,0,1.1763757,-1.4683978,79.177989)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path237378-3-7"
+         id="use2621"
+         width="100%"
+         height="100%"
+         transform="matrix(1.1763757,0,0,1.1763757,-1.4683978,76.519755)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path237378-3-7"
+         id="use2539"
+         width="100%"
+         height="100%"
+         transform="matrix(1.1763757,0,0,1.1763757,-1.5337348,73.861526)" />
+    </g>
+    <g
+       id="g3454"
+       transform="matrix(1.4392863,0,0,1.4392863,-44.871683,-38.428023)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect2737"
+         id="use3125"
+         width="100%"
+         height="100%"
+         transform="translate(26.458334,31.750001)" />
+      <g
+         id="g3420"
+         transform="translate(0.21059003)">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g237607-5-0"
+           id="use2703"
+           width="100%"
+           height="100%"
+           transform="translate(21.480646,40.038916)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g237607-5-0"
+           id="use2703-6"
+           width="100%"
+           height="100%"
+           transform="translate(24.850658,40.038916)" />
+      </g>
+    </g>
+    <g
+       id="g23343">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3454"
+         id="use3456"
+         transform="translate(23.812499)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3454"
+         id="use3456-7"
+         transform="translate(37.570832)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3454"
+         id="use3456-7-9"
+         transform="translate(51.329168)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3454"
+         id="use3456-7-9-2"
+         transform="translate(65.087501)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3454"
+         id="use3456-7-9-2-0"
+         transform="translate(78.845834)"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g25431"
+       transform="translate(-32.808335,2.6458342)">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g23343"
+         id="use23345"
+         width="100%"
+         height="100%"
+         transform="translate(19.579163,47.79586)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g23343"
+         id="use23345-3"
+         width="100%"
+         height="100%"
+         transform="translate(19.579163,69.491695)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g23343"
+         id="use23345-7"
+         width="100%"
+         height="100%"
+         transform="translate(19.579163,90.129196)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g23343"
+         id="use23345-3-5"
+         width="100%"
+         height="100%"
+         transform="translate(19.579163,111.82504)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g23343"
+         id="use23345-3-5-9"
+         width="100%"
+         height="100%"
+         transform="translate(19.579163,132.99172)" />
+    </g>
+    <g
+       id="g25464"
+       transform="translate(77.258333,-0.52916667)"
+       style="fill:#959595;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.7361px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.447341px;word-spacing:0px;fill:#959595;fill-opacity:1;stroke:none;stroke-width:0.297972"
+         x="-49.62075"
+         y="44.387077"
+         id="text241008"
+         transform="scale(0.96490366,1.0363729)"
+         inkscape:label="text241008"><tspan
+           sodipodi:role="line"
+           id="tspan241006"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7361px;font-family:Varna;-inkscape-font-specification:'Varna Bold';fill:#959595;fill-opacity:1;stroke-width:0.297972"
+           x="-49.62075"
+           y="44.387077">Power</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.7361px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:-0.447341px;word-spacing:0px;text-anchor:end;fill:#959595;fill-opacity:1;stroke:none;stroke-width:0.297972"
+         x="-19.222479"
+         y="65.541451"
+         id="text9538-9"
+         transform="scale(0.96490366,1.0363729)"><tspan
+           sodipodi:role="line"
+           id="tspan9536-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7361px;font-family:Varna;-inkscape-font-specification:'Varna Bold';text-align:end;text-anchor:end;fill:#959595;fill-opacity:1;stroke-width:0.297972"
+           x="-19.669819"
+           y="65.541451">Agility</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.7361px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.447341px;word-spacing:0px;fill:#959595;fill-opacity:1;stroke:none;stroke-width:0.297972"
+         x="-71.890862"
+         y="85.411743"
+         id="text9538-9-3"
+         transform="scale(0.96490366,1.0363729)"><tspan
+           sodipodi:role="line"
+           id="tspan9536-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7361px;font-family:Varna;-inkscape-font-specification:'Varna Bold';fill:#959595;fill-opacity:1;stroke-width:0.297972"
+           x="-71.890862"
+           y="85.411743">Intelligence</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.7361px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:-0.447341px;word-spacing:0px;text-anchor:end;fill:#959595;fill-opacity:1;stroke:none;stroke-width:0.297972"
+         x="-19.48031"
+         y="106.04033"
+         id="text9538-9-3-2-7"
+         transform="scale(0.96490366,1.0363729)"><tspan
+           sodipodi:role="line"
+           id="tspan9536-0-8-4-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7361px;font-family:Varna;-inkscape-font-specification:'Varna Bold';text-align:end;text-anchor:end;fill:#959595;fill-opacity:1;stroke-width:0.297972"
+           x="-19.92765"
+           y="106.04033">Dare</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.7361px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.447341px;word-spacing:0px;fill:#959595;fill-opacity:1;stroke:none;stroke-width:0.297972"
+         x="-49.462151"
+         y="126.32311"
+         id="text9538-9-3-2"
+         transform="scale(0.96490366,1.0363729)"><tspan
+           sodipodi:role="line"
+           id="tspan9536-0-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.7361px;font-family:Varna;-inkscape-font-specification:'Varna Bold';fill:#959595;fill-opacity:1;stroke-width:0.297972"
+           x="-49.462151"
+           y="126.32311">Health</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5945"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect5947)"><tspan
+         x="585.26758"
+         y="440.25664"
+         id="tspan109805">+1d *Power*, +1d *agility*, </tspan><tspan
+         x="585.26758"
+         y="456.92326"
+         id="tspan109807">leather armor +1, black </tspan><tspan
+         x="585.26758"
+         y="473.58989"
+         id="tspan109809">hood or furry, horned helm, </tspan><tspan
+         x="585.26758"
+         y="490.25652"
+         id="tspan109811">sack, 10cp, battle axe </tspan><tspan
+         x="585.26758"
+         y="506.92314"
+         id="tspan109813">(+2d+1h slow), combat skills
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:0;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';white-space:pre;inline-size:128.228;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="77.531502"
+       y="156.59361"
+       id="text24779"><tspan
+         x="77.531502"
+         y="156.59361"
+         id="tspan109819"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'IBM Plex Sans Bold'"
+           id="tspan109815">BATTLEAXE</tspan><tspan
+           style="line-height:1.25"
+           id="tspan109817"> +2d+1h slow
+</tspan></tspan><tspan
+         x="77.531502"
+         y="161.49017"
+         id="tspan109823"><tspan
+           style="font-weight:bold;font-size:3.52778px;line-height:1.25;-inkscape-font-specification:'IBM Plex Sans Bold'"
+           id="tspan109821">Critical Hits:
+</tspan></tspan><tspan
+         x="77.531502"
+         y="165.72351"
+         id="tspan109827"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109825">1. +2 hit
+</tspan></tspan><tspan
+         x="77.531502"
+         y="169.78046"
+         id="tspan109831"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109829">1. Opponent's armor reduced by 1
+</tspan></tspan><tspan
+         x="77.531502"
+         y="173.8374"
+         id="tspan109835"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109833">1. Opponent's weapon and shield is destroyed
+</tspan></tspan><tspan
+         x="77.531502"
+         y="177.89435"
+         id="tspan109839"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109837">1. Dominant limb is severed.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="181.9513"
+         id="tspan109843"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109841">1. Opponents armor/shield is destroyed, +1d6 hits.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="186.00824"
+         id="tspan109847"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109845">1. Leg is severed.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="190.06519"
+         id="tspan109851"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109849">1. Both arms are severed.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="194.12213"
+         id="tspan109855"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109853">1. Make another attack at any single,*near* opponent at +5d.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="198.17908"
+         id="tspan109859"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109857">1. Make another attack at +5d against any number of *near* opponents.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="202.23602"
+         id="tspan109863"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109861">1. Eviscerated (2hd &amp; 6hp/round). Other opponents may slip and fall.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="206.29297"
+         id="tspan109867"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109865">1. Beheaded (4hd). Make another attack at any single,*near* opponent at +5d.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="210.34992"
+         id="tspan109871"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109869">1. Chopped down the middle (6hd) with halves blasting out left and right and </tspan></tspan><tspan
+         x="77.531502"
+         y="214.40686"
+         id="tspan109875"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109873">knocking nearby opponents prone. All opponents run in fear or beg to serve you.
+</tspan></tspan><tspan
+         x="77.531502"
+         y="218.46381"
+         id="tspan109879"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109877">1. Cleaved at the trunk (8hd). Make 3 more attacks at any *near* opponents at </tspan></tspan><tspan
+         x="77.531502"
+         y="222.52075"
+         id="tspan109883"><tspan
+           style="font-size:3.52778px;line-height:1.15"
+           id="tspan109881">+5d and ignoring armor.
+</tspan></tspan></text>
+  </g>
+</svg>
