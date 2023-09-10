@@ -8,6 +8,8 @@ https://hidrive.ionos.com/share/acxk-j1wdy
 
 ## Journal
 
+generic weapons may have their own table but characters can have a different table for that same weapon.
+
 NPC and monsters and many weapons can have their own _character sheet_. 
 Reactions and effects on the narrative are more important than mechanics and stat blocks.
 
