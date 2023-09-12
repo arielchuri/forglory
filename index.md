@@ -4,12 +4,12 @@
 [introduction.md]( introduction.md )
 [dice.md]( dice.md )
 [mechanics.md]( mechanics.md )
+[stunts.md]( stunts.md )
 [characters.md]( characters.md )
 stats.md
 powers.md
 charactersheet.md
 [dooms.md]( dooms.md )
-[stunts.md]( stunts.md )
 [timeandspace.md]( timeandspace.md )
 [combat.md]( combat.md )
 [suffering.md]( suffering.md )
@@ -19,6 +19,9 @@ charactersheet.md
 [armor.md]( armor.md )
 [doompool.md]( doompool.md )
 [settings.md]( settings.md )
+
+
+
 assets
 attachments
 [forglorynotes.md]( forglorynotes.md )

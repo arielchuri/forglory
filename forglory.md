@@ -1,34 +1,60 @@
 # Introduction
 Pierce your nipples.
 This game was created to allow players to make **zombie ninjas**, **axe witches**, **necrodroids** or whatever craziness they can think of.
-The dungeon master can be riffing on the players actions and using random tables to create emergent stories.
+This game is not intended to have a predetermined story arc.
+Rather, the patron creates a world with non-player characters that have their own goals.
+The patron can be riffing on the players actions and using random tables to create emergent stories.
 
 This game simulates a piece of fiction rather than reality.
 In this story a bow and arrow may be a better weapon than a gun.
-The game using a variety of random tables as seeds for fun at the table and players and GM are expected to make up some table entries to suit the character and world.
 
 Characters attributes are measured in the number of dice they roll.
-If your character has a *Power* of 3, they roll 3 dice. Every die that rolls greater than 3, is a *hit*.
+If your character has a *Power* of 3, they roll 3 dice. The sum of all the dice whose face shos a 1, a 2, or a 3 determines the amount rolled.
+The player will have a greater than 50% chance of at least getting a sum equal to the amount of dice rolled.
+   
+# Dice
+
+Dice are the main unit of measure in the game. Character attributes are measured in dice and you can gain or lose dice from your attributes. Dice may be broken down into 6 pips. You may also gain or lose pips but it has no mechanical effect unless you gain or lose 6 pips. The notation '2d' indicates 2 six-sided dice. 2p indicates 2 pips. 
+
+A character may have a *Power* of 3d and a sword which adds +2d for their attack. This would make an attack roll of 5d. Each hit on that roll will remove a 1 pip (1hp) of health from the target.
+
+## Ways to roll your dice
+
+- 1d: Roll 1 die, a roll of 4-6 is a *hit*.
+- d6: Use the face value of the die.
+- d2: Roll a die and divide the face value by 2 rounded up.
+- d3 - Roll a die and divide the face value by 2 rounded up.
+- d12 - Roll 1d2. On a 1, roll 1d6. On a 2, roll 1d6+6.
+- d18 - Roll 1d3. On a 1, roll  1d6. On a 2, roll 1d6+6. On a 3, roll 1d6+12.
+- d33 - Roll 1d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
+- d36 - 
+- d66 - Roll a die for the 10s place and then roll a die for the 1s place. Rolling a 3 and a 4 make 34.
    
 # Mechanics
-## A Simple Test
 
-The character attempts an action by rolling the appropriate dice.
-Jumping a chasm may require Strength dice.
-The patron assigns a Hinderance number to the action based on the external circumstances. 
-The player will take the some of all the 1s, 2s, and 3s in their roll and try to meet that number. 
+The patron describes the terrible predicament the players face as well as the environment.
+Details about the world left unsaid maybe decided by the players.
+The players decide their character's actions and, usually, the results of the actions are decided by the patron in discussion with the players.
 
-The player may add any of their Stamina dice but those dice cannot be used again until they have been recovered. 
+Some actions are more dramatic and require the player to roll.
+The player will describe the action their character will take.
+The patron will tell the player which of their character's attributes should be used and wether it is an _instant_ or _cumulative_ challenge.
+The patron may also impart information about how difficult the challenge is depending on how much information the character could glean.
 
-In some cases, the die roll is subtracted from the Hindarence.
-An example of this would be breaking down a door with an are. 
+_Instant challenges,_ such as leaping over a chasm, require the player to make a single roll.
+_Cumulative challenges,_ such as hacking through a door, allow the player to make multiple rolls.
+Each roll takes time and removes the rolled number of hinderance points from the obstacle or target.
+
+The player will roll the dice for their attibute plus any additional dice they can muster and take the sum of all the 1s, 2s, and 3s in their roll. 
+
+The player may add any of their Stamina dice to any roll but those dice cannot be used again until they have been recovered. 
 
 ## Chance of success table
 
 This table shows the chance to achieve a certain amount of hits with differing amounts of dice.
 
 | d6 | 0 hits | 1+ | 2+ | 3+ | 4+ | 5+ | 6+ | 7+ | 8+ | 9+ | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
-|----|--------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|
+|    |        |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
 | 1  | 50     | 50 | 33 | 17 |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
 | 2  | 25     | 75 | 58 | 39 | 17 | 8  | 3  |    |    |    |     |     |     |     |     |     |     |     |
 | 3  | 12     | 87 | 75 | 58 | 37 | 23 | 12 | 4  | 2  |    |     |     |     |     |     |     |     |     |
@@ -44,6 +70,18 @@ This table shows the chance to achieve a certain amount of hits with differing a
 | 13 |        |    |    |    | 99 | 99 | 97 | 95 | 91 | 86 | 79  | 72  | 63  | 54  | 44  | 35  | 27  | 20  |
 | 14 |        |    |    |    |    | 99 | 98 | 96 | 94 | 90 | 85  | 79  | 71  | 62  | 53  | 44  | 36  | 28  |
    
+# Stunts
+
+Stunts are the way you describe the actions your character takes. There are three levels of stunts and each one adds another die to your roll. Level 1 stunts simply describe your action in a cool way. Level two stunts incorporate the story, the environment, or one of the character's doom. Level 3 stunts are determined by the judge at the time.
+
+- *I attack with my sword*. 0 dice.
+- *I slash at the monster's neck*. +1 die.
+- *I fling some of the swamp muck into the creatures eyes before driving my sword in*. +2 dice.
+- Something so cool that it belies an example. +3 dice.
+
+Co-operative stunts are when you include another PC in your stunt. The included PC may loan the player dice of the appropriate attribute for this action. They cannot use those dice on their next turn.
+
+   
 # Characters
 # Stats
 ## Strength Dice
@@ -52,10 +90,13 @@ Used for most melee and ranged attacks as well as lifting, pushing, breaking, an
 Used for Defense Points, running, jumping, sneaking, hiding, sneak attacks, dodging, swinging, gymnastics.
 ## Smart Dice
 Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells, clues, psychic abilities, languages, codes, history.
+## Stamina Dice
+Stamina, fatigue, carrying, breath holding.
 ## Health Dice
-Health Points, stamina, fatigue, carrying, breath holding, disease resistance, poison resistance.
+Health Points, disease resistance, poison resistance.
 ## Luck Dice
 Can be added to other rolls and are replenished at the start of each session. Luck can also be earned by using your Doom in play.
+
 ## Powers
 
 - Precognition: spend Luck[A] to effect rolls after t
@@ -172,6 +213,8 @@ Your heroic style can give your character a combination of *Attribute[A]* bonuse
 | Wizard         | 1 Smarts[A], 2 Spells, Patron                                              |                    |
 | Zombie         | 1 Health[A], Scary                                                         |                    |
 
+   
+## [charactersheet.md](charactersheet.md)   
    
 # Time and Space
 
@@ -559,4 +602,20 @@ From wounded to marked. The  character will not be coming back to any further se
 # Weapons
    
 # Armor
+   
+# The Doom Pool
+Doom dice. Gm gains doom dice from player risk wager loan. Doom dice can be added to gm rolls or rolled to allow the gm to finish the scene. 
+
+   
+# Glossary
+
+- 1hd: one *health* die.
+- hit: a roll of 4,5, or 6.
+- +1h: add one *hit* to your roll.
+- +1d: add an extra die to your roll.
+- 1p: one pip (pips are the dots on a 6-sided die)
+- 1hp: one *health* pip.
+- 3d6 +1d +2h: Roll  4 dice and add 2 *hits* to the result.
+
+
    

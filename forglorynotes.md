@@ -24,3 +24,4 @@ I am creating a script that will auto generate [forglory.md](forglory.md) from t
 
 
 ## inbox
+https://www.reddit.com/r/RPGdesign/comments/16eaar2/what_are_the_best_mechanics_youve_seen_or_come_up/

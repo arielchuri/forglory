@@ -12,6 +12,8 @@ echo '# Characters' >> forglory.md
 cat characters/stats.md >> forglory.md
 cat characters/powers.md >> forglory.md
 echo '   ' >> forglory.md
+echo '## [charactersheet.md](charactersheet.md)   ' >> forglory.md
+echo '   ' >> forglory.md
 cat timeandspace.md >> forglory.md
 echo '   ' >> forglory.md
 cat combat.md >> forglory.md
