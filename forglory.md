@@ -14,18 +14,30 @@ The player will have a greater than 50% chance of at least getting a sum equal t
    
 # Dice
 
-Dice are the main unit of measure in the game. Character attributes are measured in dice and you can gain or lose dice from your attributes. Dice may be broken down into 6 pips. You may also gain or lose pips but it has no mechanical effect unless you gain or lose 6 pips. The notation '2d' indicates 2 six-sided dice. 2p indicates 2 pips. 
+Dice are the main unit of measure in the game.
+Character attributes are measured in dice and you can gain or lose dice from your attributes.
+Dice may be broken down into 6 pips.
+You may also gain or lose pips but it has no mechanical effect unless you gain or lose 6 pips.
+The notation '2d' indicates 2 six-sided dice.
+2p indicates 2 pips. 
 
-A character may have a *Power* of 3d and a sword which adds +2d for their attack. This would make an attack roll of 5d. Each hit on that roll will remove a 1 pip (1hp) of health from the target.
+A character may have a *Power* of 3d and a sword which adds +2d for their attack.
+This would make an attack roll of 5d.
+Each _hit_ on that roll will remove a 1 pip (1hp) of health from the target.
+
+The number of _hits_ is the some of all the dice that come up 1, 2, or 3.
+
+The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and they have other meanings depending on the context.
 
 ## Ways to roll your dice
 
-- 1d: Roll 1 die, a roll of 4-6 is a *hit*.
-- d6: Use the face value of the die.
+- 1d: Roll 1 die. A 1, 2, or 3 is counted. The other values are 0.
+- d6: Use the face value of the die (1-6).
 - d2: Roll a die and divide the face value by 2 rounded up.
 - d3 - Roll a die and divide the face value by 2 rounded up.
 - d12 - Roll 1d2. On a 1, roll 1d6. On a 2, roll 1d6+6.
 - d18 - Roll 1d3. On a 1, roll  1d6. On a 2, roll 1d6+6. On a 3, roll 1d6+12.
+- 3d6
 - d33 - Roll 1d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
 - d36 - 
 - d66 - Roll a die for the 10s place and then roll a die for the 1s place. Rolling a 3 and a 4 make 34.
@@ -204,7 +216,7 @@ Your heroic style can give your character a combination of *Attribute[A]* bonuse
 | Sniper         | 1 Strength[A], 1 Speed[A]                                                  |                    |
 | Soldier        | See *Warrior*                                                              |                    |
 | Super powered  | 1 or more Powers. 2 Dooms.                                                 |                    |
-| Lizard         | Armored[P], Natural Weapon[P]                                              |                    |
+| Lizard Person  | Armored[P], Natural Weapon[P]                                              |                    |
 | Technologist   | 1 Smarts[A], 2 Gadgets                                                     |                    |
 | Thief          | 1 Speed[A], 1 Smarts[A], 2 luck[A], forgery, disguise, poison              |                    |
 | Vampire        |                                                                            |                    |
@@ -220,9 +232,10 @@ Your heroic style can give your character a combination of *Attribute[A]* bonuse
 
 Episodes are usually completed in a single session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
-Episodes are made up of scenes.
+Episodes are made up of scenes which usually take place at different locations.
 
-Most scenes are a series of turns in which each PC may take any action they wish. The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
+Most scenes are a series of player turns which could be the individual cuts of a film.
+The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
 
 - Standard scenes.
   The party maybe talking among themselves, or to non-player characters. They may be interacting with or examining the environment. The amount of time taken is usualy of little consequence.
@@ -479,7 +492,11 @@ Move dice between speed and handling
 
    
 # Combat
-## Combat Action
+## Common Action
+
+This is a list of common actions that any player may execute on their turn.
+Their abilities and weapons provides actions in addition to this list.
+
 - Attack
 - Evade: add to focus (or Brains?) to agility dice until next turn
 - Focus: add you Dare dice to your rolls through you next turn's action. 
@@ -600,6 +617,18 @@ From wounded to marked. The  character will not be coming back to any further se
 | Flying Guillotine     |                 |
    
 # Weapons
+
+Weapons have powers and effects on play and narrative.
+
+## Sample Weapons
+### Assault Rifle
+- Shoot
+- Spray
+- Kill
+- Incapacitate
+- Pin Down
+- Cover Fire
+- Precision Shot
    
 # Armor
    
