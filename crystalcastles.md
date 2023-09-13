@@ -1,7 +1,3 @@
-# Crystal Castles
-
-A mini-version of the For Glory RPG for testing.
-
 ## Introduction
 
 Pierce your nipples.
@@ -100,30 +96,29 @@ Co-operative stunts are when you include another PC in your stunt. The included 
 
    
 ## Characters
+### Stats
 
-## Stats
-
-### Strength Dice
+#### Strength Dice
 
 Used for most melee and ranged attacks as well as lifting, pushing, breaking, and sometimes climbing.
 
-### Speed Dice
+#### Speed Dice
 
 Used for Defense Points, running, jumping, sneaking, hiding, sneak attacks, dodging, swinging, gymnastics.
 
-### Smart Dice
+#### Smart Dice
 
 Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells, clues, psychic abilities, languages, codes, history.
 
-### Stamina Dice
+#### Stamina Dice
 
 Stamina, fatigue, carrying, breath holding.
 
-### Health Dice
+#### Health Dice
 
 Health Points, disease resistance, poison resistance.
 
-### Luck Dice
+#### Luck Dice
 
 Can be added to other rolls and are replenished at the start of each session. Luck can also be earned by using your Doom in play.
 
@@ -135,64 +130,55 @@ Can be added to other rolls and are replenished at the start of each session. Lu
 
 - Theives can earn reknown like other classes but mostly among other theives and their marks.
 
-| Name              | Effect, Side-effect, Synonyms                                                |
-|-------------------|------------------------------------------------------------------------------|
-| Armored           |                                                                              |
-| Astral Projection |                                                                              |
-| Avoiding combat   |                                                                              |
-| Backstab          | 1 attack die can count towards a *Killing Blow*                              |
-| Bless             |                                                                              |
-| Combat            |                                                                              |
-| Cursed            |                                                                              |
-| Dazzling          |                                                                              |
-| Doctor            |                                                                              |
-| Dodging           |                                                                              |
-| ESP               |                                                                              |
-| Eagle Eyes        |                                                                              |
-| Empathic          |                                                                              |
-| Eye lasers        |                                                                              |
-| Familiar          | *Pet[P]* with a telepathic connection and/or magic powers                    |
-| Flight            |                                                                              |
-| Frightning        |                                                                              |
-| Gambler           |                                                                              |
-| Headshot          | See *Backstab[P]*                                                            |
-| Healer            |                                                                              |
-| Hypnotist         |                                                                              |
-| Incorporeal       |                                                                              |
-| Indefatigable     |                                                                              |
-| Inventor          |                                                                              |
-| Invisibility      |                                                                              |
-| Kill Shot         | See *Backstab[P]*                                                            |
-| Magic User        | See Wizard or Witch                                                          |
-| Magic power       | See *Super power[P]*                                                         |
-| Marksman          |                                                                              |
-| McGyver           |                                                                              |
-| Mind Blast        |                                                                              |
-| Mind Control      | See *Hypnotist*                                                              |
-| Natural Weapons   | Unarmed attacks; Claws: 1d att [2]; Horns, Fangs 2d att; Tail: extra 1d att. |
-| Pet               |                                                                              |
-| Poison            |                                                                              |
-| Pyromancy         |                                                                              |
-| Ranger            |                                                                              |
-| Regeneration      | +1d healing; regrow body parts; chance to lose body parts on crit, fumble, etc.                                                                             |
-| Scary             |                                                                              |
-| Scientist         | +2d create item, potion, gadget                                                                             |
-| Sneaky            | +2d sneak, steal                                                                             |
-| Speed             | +2d Speed[A]                                                                              |
-| Stealthy          | See *Sneaky*[P]                                                                             |
-| Strong            | +2d *Strength*[A]                                                                             |
-| Summoner          | +2d Summon[S]                                                                             |
-| Super power       |                                                                              |
-| Technologist      |                                                                              |
-| Telekinesis       |                                                                              |
-| Telepathy         |                                                                              |
-| Tough             |  Armored[P]; +2d                                                                           |
-| Wall Crawler      |                                                                              |
-| Warlock           | See *Witch*                                                                  |
-| Weapons           | Choose one weapon type to receive an extra die                               |
-| Witch             |                                                                              |
-| Wizard            |                                                                              |
-| X-ray vision      |                                                                              |
+| Name              | Effect, Side-effect, Synonyms                                                   |
+|-------------------|---------------------------------------------------------------------------------|
+| Armored           |                                                                                 |
+| Astral Projection |                                                                                 |
+| Avoiding combat   |                                                                                 |
+| Backstab          | 1 attack die can count towards a *Killing Blow*                                 |
+| Bless             |                                                                                 |
+| Combat            |                                                                                 |
+| Cursed            |                                                                                 |
+| Dazzling          |                                                                                 |
+| Dodging           |                                                                                 |
+| ESP               |                                                                                 |
+| Eagle Eyes        |                                                                                 |
+| Empathic          |                                                                                 |
+| Familiar          | *Pet[P]* with a telepathic connection and/or magic powers                       |
+| Flight            |                                                                                 |
+| Frightning        |                                                                                 |
+| Gambler           |                                                                                 |
+| Healer            |                                                                                 |
+| Hypnotist         |                                                                                 |
+| Incorporeal       |                                                                                 |
+| Indefatigable     |                                                                                 |
+| Inventor          |                                                                                 |
+| Invisibility      |                                                                                 |
+| Magic power       |                                                                                 |
+| Marksman          |                                                                                 |
+| McGyver           |                                                                                 |
+| Mind Blast        |                                                                                 |
+| Mind Control      | See *Hypnotist*                                                                 |
+| Natural Weapons   | Unarmed attacks; Claws: 1d att [2]; Horns, Fangs 2d att; Tail: extra 1d att.    |
+| Pet               |                                                                                 |
+| Poison            |                                                                                 |
+| Pyromancy         |                                                                                 |
+| Ranger            |                                                                                 |
+| Regeneration      | +1d healing; regrow body parts; chance to lose body parts on crit, fumble, etc. |
+| Scary             |                                                                                 |
+| Scientist         | +2d create item, potion, gadget                                                 |
+| Sneaky            | +2d sneak, steal                                                                |
+| Speed             | +2d Speed[A]                                                                    |
+| Strong            | +2d *Strength*[A]                                                               |
+| Summoner          | +2d Summon[S]                                                                   |
+| Telekinesis       |                                                                                 |
+| Telepathy         |                                                                                 |
+| Tough             | Armored[P]; +2d                                                                 |
+| Wall Crawler      |                                                                                 |
+| Warlock           | See *Witch*                                                                     |
+| Weapons           | Choose one weapon type to receive an extra die                                  |
+| Witch             |                                                                                 |
+| Wizard            |                                                                                 |
 
 * divide attack dice between targets
 * use intelligence for defense
@@ -247,7 +233,7 @@ Your heroic style can give your character a combination of *Attribute[A]* bonuse
    
 ### [charactersheet.md](charactersheet.md)
    
-## Time and Space
+# Time and Space
 
 Episodes are usually completed in a single session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
@@ -264,9 +250,9 @@ The amount of in game time that the actions take is based on the type of scene a
 - Cut scenes are described to the party by the patron. They serve to fill in the story for the party. Many scenes may end with a cut scene.
 - Montage scene
 
-### Scenes
+## Scenes
 
-### Chase Scenes
+## Chase Scenes 
 
 The participants in a *chase scene* are divided into as few groups as possible.
 Usually, hunters and quarry.
@@ -294,18 +280,17 @@ two types of hazards. hazards where not enough hits on a roll indicates a bad ou
 Hazards where you need to make progress through an area that needs work to get through. Such as thick foliage or a wall that must be hacked through.
 
 
-#### saved
-
+### saved
 A *chase scene* is a series of short of scenes.
 The *chase die* keeps track of the scenes.
 It may start on any number but, on 7, the chase scene is over.
 Usually, because the quarry escapes.
 
-### Fight Scenes
+## Fight Scenes
 
-##### Obstacles and Opportunities
+#### Obstacles and Opportunities
 
-##### Chase Encounters
+#### Chase Encounters
 
 Rolling on this table does not decide where the players go, but what they see.
 
@@ -428,7 +413,7 @@ Condemned building
 
     Atmospheric Friction/Reentry
 
-###### Wilderness
+##### Wilderness
 
 Hot lava
 A huge savage beast that doesn’t like you or your foes
@@ -486,13 +471,13 @@ Wagon
 Waterfall
 Windmill
 
-#### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
+### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
 
 Possibly a series of ability checks that influence each other. Could have some push-your-luck, bluffing the DM, and use the DM's Doom Pool.
 
 Move dice between speed and handling
 
-#### Opposed conflicts like chases
+### Opposed conflicts like chases
 
 - Each turn you roll an opposed check.
 - You can choose to not roll some of your dice and save them for later.
@@ -504,16 +489,15 @@ Move dice between speed and handling
 - Chaser gets the same number of points as the prey, they catch up.
 - More points, and they get an action. 
 
-#### Adventure Task
+### Adventure Task
 
-#### Environmental Hazards
+### Environmental Hazards
 
-#### Interludes
+### Interludes
 
    
-## Combat
-
-### Common Action
+# Combat
+## Common Action
 
 This is a list of common actions that any player may execute on their turn.
 Their abilities and weapons provides actions in addition to this list.
@@ -528,7 +512,7 @@ How does a bayonet effect the combat sequence?
 
 Disengage is an attack that allows you to move without drawing an opportunity attack. Also needed to use many ranged weapons while in melee. Can cause some damage and ignores armor. 
 
-#### Shield your friend.
+### Shield your friend.
 
 https://www.reddit.com/r/rpg/comments/mggg8z/big_book_of_60_reimagined_and_new_status_effects/
 Skills that offer bonuses under certain conditions such as quick thinker for surprise. From starport scum. 
@@ -543,24 +527,17 @@ https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_b
 
 getting shot or attacked in movies. more like a reflex save.
 
-### Damage and death
-
+## Damage and death
 see [suffering](suffering.md) and [death](death.md).
 
-### The Adrenalin Die
-
+## The Adrenalin Die
 On the second round of combat put a d6 on the table with one its face. Add this amount to player rolls this round and turn the die up every round in which the players take actions directly affecting the enemy.  
-
-### Initiative
-
+## Initiative
 1. Parley
 2. Run
 3. Attacktalk, run, fight
-
-### Area of Effect
-
-### area of effect without maps
-
+## Area of Effect
+## area of effect without maps
 Chaining from Symbaroum.
 
 Symbaroum has player characters make all of the rolls, such as rolling to evade attacks, in addition with assuming the game will be run without battle maps, instead using abstract zones.
@@ -569,8 +546,8 @@ To handle forcing saves on multiple enemies, such as with a use of powerful enou
 
 This means that you don’t need any precise measuring tools to judge whether enemies are affected by a area-of-effect, and can simulate more powerful casters (those with better chances of hitting more often than not) having a larger area-of-effect, without the need to have measurements of the blast radius or additional math.
    
-## Dooms
-    
+# Dooms
+
 Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
 
  1. Phobia Snakes, heights, small spaces, outdoors
@@ -596,21 +573,18 @@ Every great hero has flaws. Every time you use you doom to effect the story, you
 21. Always has to be right
 22. Fool for love
 
-### Status Effects
-
+## Status Effects
 Shock Stun Charm Mind control Drunk Zombified
    
-## Suffering
-
+# Suffering
 gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
 Injuries are a form of [doom](dooms.md).
    
-## Death
-
+# Death
 From wounded to marked. The  character will not be coming back to any further sessions. How that plays out is up to the player. They  could die right now, go out in a blaze of glory (+3d), or retire.
    
-## Gear
+# Gear
 
 [weapons](weapons.md)
 [armor](armor.md)
@@ -647,14 +621,12 @@ From wounded to marked. The  character will not be coming back to any further se
 | Magic Weapon          |                 |
 | Flying Guillotine     |                 |
    
-## Weapons
+# Weapons
 
 Weapons have powers and effects on play and narrative.
 
-### Sample Weapons
-
-#### Assault Rifle
-
+## Sample Weapons
+### Assault Rifle
 - Shoot
 - Spray
 - Kill
@@ -663,14 +635,13 @@ Weapons have powers and effects on play and narrative.
 - Cover Fire
 - Precision Shot
    
-## Armor
+# Armor
    
-## The Doom Pool
-
+# The Doom Pool
 Doom dice. Gm gains doom dice from player risk wager loan. Doom dice can be added to gm rolls or rolled to allow the gm to finish the scene. 
 
    
-## Glossary
+# Glossary
 
 - 1hd: one *health* die.
 - hit: a roll of 4,5, or 6.
