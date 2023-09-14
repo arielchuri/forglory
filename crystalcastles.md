@@ -118,9 +118,6 @@ Stamina, fatigue, carrying, breath holding.
 
 Health Points, disease resistance, poison resistance.
 
-#### Luck Dice
-
-Can be added to other rolls and are replenished at the start of each session. Luck can also be earned by using your Doom in play.
 
 ### Powers
 
@@ -297,13 +294,16 @@ Rolling on this table does not decide where the players go, but what they see.
 1. Run through difficult terrain or intricate structures.
 1. Run through hazardous terrain.
 
-- Baby carriage
+- cart of
+  - vegetables
+  - the dead
 - Dead End
-- Car wont start
+- cow
 - Twisted ankle
-- Large truck
+- Large cart
 - Construction site
 - Outdoor market
+- Door to
 - Kitchen
 - Fruit stand
 - Dog walker
