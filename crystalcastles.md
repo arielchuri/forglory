@@ -30,19 +30,6 @@ The number of _hits_ is the some of all the dice that come up 1, 2, or 3.
 
 The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and they have other meanings depending on the context.
 
-### Ways to roll your dice
-
-- 1d: Roll 1 die. A 1, 2, or 3 is counted. The other values are 0.
-- d6: Use the face value of the die (1-6).
-- d2: Roll a die and divide the face value by 2 rounded up.
-- d3 - Roll a die and divide the face value by 2 rounded up.
-- d12 - Roll 1d2. On a 1, roll 1d6. On a 2, roll 1d6+6.
-- d18 - Roll 1d3. On a 1, roll  1d6. On a 2, roll 1d6+6. On a 3, roll 1d6+12.
-- 3d6
-- d33 - Roll 1d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
-- d36 - 
-- d66 - Roll a die for the 10s place and then roll a die for the 1s place. Rolling a 3 and a 4 make 34.
-   
 ## Mechanics
 
 The patron describes the terrible predicament the players face as well as the environment.
