@@ -8,6 +8,19 @@ https://hidrive.ionos.com/share/acxk-j1wdy
 
 ## Journal
 
+### How the fun is made.
+
+There is the usual emergent story in RPGs where the patron describes the situation, the players describe their character's actions, and the patron describes how the world reacts.
+
+within that, are tables that aid the patron and players. Tables of environments, NPCs, and reactions.
+
+Wound tables can hurt the player and unlock changes to the story.
+
+Weapons can have generic tables and special weapons can have additional entries. Characters may have their own weapon tBles. 
+
+
+---------------------
+
 generic weapons may have their own table but characters can have a different table for that same weapon.
 
 NPC and monsters and many weapons can have their own _character sheet_. 

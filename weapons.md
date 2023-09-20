@@ -11,3 +11,13 @@ Weapons have powers and effects on play and narrative.
 - Pin Down
 - Cover Fire
 - Precision Shot
+
+### Long bow
+- Shoot
+- Cover
+- Aim
+- Ready
+- Kill
+- Precision shot
+- Incapacitate
+- Pin arm to wall
