@@ -1,3 +1,4 @@
+# For Glory - Crystal Castles
 ## Introduction
 
 Pierce your nipples.
@@ -96,7 +97,38 @@ Health Points, disease resistance, poison resistance.
    
 ### [charactersheet.md](charactersheet.md)
    
-# Time and Space
+### Dooms
+
+Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
+
+ 1. Phobia Snakes, heights, small spaces, outdoors
+ 2. OCD
+ 3. klepto
+ 4. obsession
+ 5. Paranoid
+ 6. Tardy
+ 7. Cursed
+ 8. Unlucky
+ 9. Vain
+10. Foolhardy
+11. Death wish
+12. Ill mannered
+13. Bad tempered
+14. Lazy
+15. Slovenly
+16. Perfectionist
+17. Complains
+18. Financially irresponsible and in debt
+19. Gambles
+20. Addictive personality
+21. Always has to be right
+22. Fool for love
+
+#### Status Effects
+
+Shock Stun Charm Mind control Drunk Zombified
+   
+## Time and Space
 
 Episodes are usually completed in a single session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
@@ -104,6 +136,8 @@ Episodes are made up of scenes which usually take place at different locations.
 
 Most scenes are a series of player turns which could be the individual cuts of a film.
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
+
+### Scenes
 
 - Standard scenes.
   The party maybe talking among themselves, or to non-player characters. They may be interacting with or examining the environment. The amount of time taken is usualy of little consequence.
@@ -113,9 +147,9 @@ The amount of in game time that the actions take is based on the type of scene a
 - Cut scenes are described to the party by the patron. They serve to fill in the story for the party. Many scenes may end with a cut scene.
 - Montage scene
 
-## Scenes
+An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below. 
 
-## Chase Scenes 
+#### Chase Scenes
 
 The participants in a *chase scene* are divided into as few groups as possible.
 Usually, hunters and quarry.
@@ -142,21 +176,123 @@ two types of hazards. hazards where not enough hits on a roll indicates a bad ou
 
 Hazards where you need to make progress through an area that needs work to get through. Such as thick foliage or a wall that must be hacked through.
 
+##### Chase table - Urban
+1. Alley
+1. Baby carriage
+1. Beggers
+1. Bridge
+1. Canal
+1. Cart of manure
+1. Cart of vegetable
+1. Carts / wagons
+1. Construction site
+1. Crevice
+1. Crowd of people
+1. Dead End
+1. Dog walker
+1. Door
+    1. Blacksmith
+    1. Kitchen
+    1. Laundry
+    1. Market
+    1. Prison
+    1. School
+    1. Scribe
+    1. Still
+    1. Workshop
+1. Drawbridge
+1. Elderly person
+1. Fence
+1. Fruit stand
+1. Graveyard
+1. Heap of dung
+1. Huge cart
+1. Latrine
+1. Man holding large cake
+1. Castle gate
+1. Wall
+1. Church or cathedral
+1. Muck
+1. Open field
+1. Open sewer
+1. Outdoor market
+1. Parade
+1. Park
+1. Pier
+1. Protest march
+1. Religouse procession
+1. River
+1. Tied up horses
+1. Town guard
+1. Town square
+1. Well
 
-### saved
+###### Chase table - Wilderness
+1. Abbey
+1. Avalanche
+1. Beehive
+1. Bog
+1. Boulders or rocks
+1. Brook
+1. Burial mound
+1. Bushes
+1. Cabin
+1. Campfire 
+1. Canyon
+1. Cave entrance
+1. Cliff
+1. Cliffside trail
+1. Crevace
+1. Crumbling ruins of an ancient temple
+1. Ditch
+1. Erupting steam vents
+1. Fallen tree
+1. Farm
+1. Flood
+1. Fog
+1. Forest
+1. Forest fire
+1. Giant skeleton
+1. Graveyard
+1. Hanging vines
+1. Hut
+1. Insect swarm
+1. Lake
+1. Lake (with jetty, and moored boats)
+1. Landslide
+1. Log bridge
+1. Long grass, meadow or wheat field
+1. Mine entrance with mine cart
+1. Pit
+1. Quicksand
+1. River
+1. Rope bridge
+1. Stampede
+1. Stand of trees
+1. Steep decline
+1. Steep incline
+1. Stepping stones
+1. Stream
+1. Treehouse
+1. Wagon
+1. Waterfall
+1. Windmill
+
+##### saved
+
 A *chase scene* is a series of short of scenes.
 The *chase die* keeps track of the scenes.
 It may start on any number but, on 7, the chase scene is over.
 Usually, because the quarry escapes.
 
-## Fight Scenes
+#### Fight Scenes
 
-#### Obstacles and Opportunities
+###### Obstacles and Opportunities
 
-#### Chase Encounters
+###### Chase Encounters
 
 
-##### Wilderness
+###### Wilderness
 
 Hot lava
 A huge savage beast that doesn’t like you or your foes
@@ -214,13 +350,13 @@ Wagon
 Waterfall
 Windmill
 
-### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
+##### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
 
 Possibly a series of ability checks that influence each other. Could have some push-your-luck, bluffing the DM, and use the DM's Doom Pool.
 
 Move dice between speed and handling
 
-### Opposed conflicts like chases
+##### Opposed conflicts like chases
 
 - Each turn you roll an opposed check.
 - You can choose to not roll some of your dice and save them for later.
@@ -232,15 +368,15 @@ Move dice between speed and handling
 - Chaser gets the same number of points as the prey, they catch up.
 - More points, and they get an action. 
 
-### Adventure Task
+##### Adventure Task
 
-### Environmental Hazards
+##### Environmental Hazards
 
-### Interludes
+##### Interludes
 
    
-# Combat
-## Common Action
+## Combat
+### Common Action
 
 This is a list of common actions that any player may execute on their turn.
 Their abilities and weapons provides actions in addition to this list.
@@ -255,7 +391,7 @@ How does a bayonet effect the combat sequence?
 
 Disengage is an attack that allows you to move without drawing an opportunity attack. Also needed to use many ranged weapons while in melee. Can cause some damage and ignores armor. 
 
-### Shield your friend.
+#### Shield your friend.
 
 https://www.reddit.com/r/rpg/comments/mggg8z/big_book_of_60_reimagined_and_new_status_effects/
 Skills that offer bonuses under certain conditions such as quick thinker for surprise. From starport scum. 
@@ -270,17 +406,24 @@ https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_b
 
 getting shot or attacked in movies. more like a reflex save.
 
-## Damage and death
+### Damage and death
+
 see [suffering](suffering.md) and [death](death.md).
 
-## The Adrenalin Die
+### The Adrenalin Die
+
 On the second round of combat put a d6 on the table with one its face. Add this amount to player rolls this round and turn the die up every round in which the players take actions directly affecting the enemy.  
-## Initiative
+
+### Initiative
+
 1. Parley
 2. Run
 3. Attacktalk, run, fight
-## Area of Effect
-## area of effect without maps
+
+### Area of Effect
+
+### area of effect without maps
+
 Chaining from Symbaroum.
 
 Symbaroum has player characters make all of the rolls, such as rolling to evade attacks, in addition with assuming the game will be run without battle maps, instead using abstract zones.
@@ -288,36 +431,6 @@ Symbaroum has player characters make all of the rolls, such as rolling to evade 
 To handle forcing saves on multiple enemies, such as with a use of powerful enough fireball, they have it where the spell chains, the caster making a attack against the first target in the blast, if they fail they suffer the damage and they move onto the next enemy of their choice, making the same attack again, until they either run out of valid targets or fail a attack, at which the spell ends.
 
 This means that you don’t need any precise measuring tools to judge whether enemies are affected by a area-of-effect, and can simulate more powerful casters (those with better chances of hitting more often than not) having a larger area-of-effect, without the need to have measurements of the blast radius or additional math.
-   
-# Dooms
-
-Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
-
- 1. Phobia Snakes, heights, small spaces, outdoors
- 2. OCD
- 3. klepto
- 4. obsession
- 5. Paranoid
- 6. Tardy
- 7. Cursed
- 8. Unlucky
- 9. Vain
-10. Foolhardy
-11. Death wish
-12. Ill mannered
-13. Bad tempered
-14. Lazy
-15. Slovenly
-16. Perfectionist
-17. Complains
-18. Financially irresponsible and in debt
-19. Gambles
-20. Addictive personality
-21. Always has to be right
-22. Fool for love
-
-## Status Effects
-Shock Stun Charm Mind control Drunk Zombified
    
 # Suffering
 gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
