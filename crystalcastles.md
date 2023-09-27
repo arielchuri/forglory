@@ -74,31 +74,29 @@ This table shows the chance to achieve a certain amount of hits with differing a
    
 ## Characters
 ### Stats
+Stats represent your character's inate attributes. 
 
 #### Strength Dice
-
 Used for most melee and ranged attacks as well as lifting, pushing, breaking, and sometimes climbing.
 
 #### Speed Dice
-
 Used for Defense Points, running, jumping, sneaking, hiding, sneak attacks, dodging, swinging, gymnastics.
 
 #### Smart Dice
-
 Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells, clues, psychic abilities, languages, codes, history.
 
 #### Stamina Dice
-
 Stamina, fatigue, carrying, breath holding.
 
 #### Health Dice
-
 Health Points, disease resistance, poison resistance. 
+
+#### Luck Dice
+Luck is a pool of meta currency that can be used to enhance a roll. Luck maybe earned through using your character's _dooms_ or by pleasing your patron.
    
 ### [charactersheet.md](charactersheet.md)
    
 ### Dooms
-
 Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
 
  1. Phobia Snakes, heights, small spaces, outdoors
@@ -124,10 +122,20 @@ Every great hero has flaws. Every time you use you doom to effect the story, you
 21. Always has to be right
 22. Fool for love
 
-#### Status Effects
-
-Shock Stun Charm Mind control Drunk Zombified
-   
+### Sample Characters
+#### Ghostface
+- Can talk to recently deceased
+#### Kodack
+- Berserker
+#### Jennifer
+- Wood witch
+#### Paladin
+- Heals
+#### Weird Dwarf
+- Crafts
+- Explosives
+#### Wizard's Apprentice
+- Access to spells that are too powerful
 ## Time and Space
 
 Episodes are usually completed in a single session.
@@ -432,15 +440,18 @@ To handle forcing saves on multiple enemies, such as with a use of powerful enou
 
 This means that you don’t need any precise measuring tools to judge whether enemies are affected by a area-of-effect, and can simulate more powerful casters (those with better chances of hitting more often than not) having a larger area-of-effect, without the need to have measurements of the blast radius or additional math.
    
-# Suffering
+## Suffering
+
 gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
 Injuries are a form of [doom](dooms.md).
    
-# Death
+   
+## Death
+
 From wounded to marked. The  character will not be coming back to any further sessions. How that plays out is up to the player. They  could die right now, go out in a blaze of glory (+3d), or retire.
    
-# Gear
+## Gear
 
 [weapons](weapons.md)
 [armor](armor.md)
@@ -477,12 +488,14 @@ From wounded to marked. The  character will not be coming back to any further se
 | Magic Weapon          |                 |
 | Flying Guillotine     |                 |
    
-# Weapons
+## Weapons
 
 Weapons have powers and effects on play and narrative.
 
-## Sample Weapons
-### Assault Rifle
+### Sample Weapons
+
+#### Assault Rifle
+
 - Shoot
 - Spray
 - Kill
@@ -491,13 +504,14 @@ Weapons have powers and effects on play and narrative.
 - Cover Fire
 - Precision Shot
    
-# Armor
+## Armor
    
-# The Doom Pool
+## The Doom Pool
+
 Doom dice. Gm gains doom dice from player risk wager loan. Doom dice can be added to gm rolls or rolled to allow the gm to finish the scene. 
 
    
-# Glossary
+## Glossary
 
 - 1hd: one *health* die.
 - hit: a roll of 4,5, or 6.

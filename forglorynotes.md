@@ -8,6 +8,10 @@ https://hidrive.ionos.com/share/acxk-j1wdy
 
 ## Journal
 
+### Changing the dice
+
+Only get dice from your stat. Weapons and skills such as _combat_ allow you to take different actions and can have effects based on your roll. After you roll you add up the 1s, 2s, and 3s to get your roll. You may also pair any 3s with _lines_ (6) to get bonus effects. Some are generic effects based on the action. Some are effects based on your weapon. Pairs of _crossbones_ (5) can cause negative effects. Pairs of _boxes_ (4) may also have effects that are neutral. Usually denoting effects caused by the environment or changes to the narrative or the attitudes of the NPCs.
+
 ### How the fun is made.
 
 There is the usual emergent story in RPGs where the patron describes the situation, the players describe their character's actions, and the patron describes how the world reacts.
