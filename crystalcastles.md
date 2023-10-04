@@ -23,13 +23,19 @@ You may also gain or lose pips but it has no mechanical effect unless you gain o
 The notation '2d' indicates 2 six-sided dice.
 2p indicates 2 pips. 
 
-A character may have a *Power* of 3d and a sword which adds +2d for their attack.
-This would make an attack roll of 5d.
+A character may have a *Power* of 3d.
+The number of _hits_ is the sum of all the dice that come up 1, 2, or 3.
 Each _hit_ on that roll will remove a 1 pip (1hp) of health from the target.
 
-The number of _hits_ is the some of all the dice that come up 1, 2, or 3.
-
 The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and they have other meanings depending on the context.
+
+You may also pair any 3s with _lines_ (6) to get bonus effects.
+Some are generic effects based on the action.
+Some are effects based on your weapon.
+
+Pairs of _crosses_ (5) cause negative effects.
+Pairs of _squares_ (4) may also have effects that may be neutral.
+Usually denoting effects caused by the environment or changes to the narrative or the attitudes of the NPCs.
 
 ## Mechanics
 
@@ -48,7 +54,7 @@ Each roll takes time and removes the rolled number of hinderance points from the
 
 The player will roll the dice for their attibute plus any additional dice they can muster and take the sum of all the 1s, 2s, and 3s in their roll. 
 
-The player may add any of their Stamina dice to any roll but those dice cannot be used again until they have been recovered. 
+The player may add any of their Stamina or style dice to any roll. Those dice cannot be used again until they have been recovered. 
 
 ### Chance of success table
 
@@ -87,12 +93,15 @@ Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells,
 
 #### Stamina Dice
 Stamina, fatigue, carrying, breath holding.
+Stamina dice maybe added to anyother roll but are not recovered until after a short rest.
 
 #### Health Dice
 Health Points, disease resistance, poison resistance. 
+Health pips and dice are removed as the character takes damage.
+A single health die is recovered upon a nights rest.
 
-#### Luck Dice
-Luck is a pool of meta currency that can be used to enhance a roll. Luck maybe earned through using your character's _dooms_ or by pleasing your patron.
+#### Style Dice
+Style is a pool of meta currency that can be used to enhance a roll. Style maybe earned through using your character's _dooms_ or by pleasing your patron.
    
 ### [charactersheet.md](charactersheet.md)
    
