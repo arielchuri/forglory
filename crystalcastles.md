@@ -29,6 +29,8 @@ Each _hit_ on that roll will remove a 1 pip (1hp) of health from the target.
 
 The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and they have other meanings depending on the context.
 
+### Square, Cross, and Lines
+
 You may also pair any 3s with _lines_ (6) to get bonus effects.
 Some are generic effects based on the action.
 Some are effects based on your weapon.
@@ -99,14 +101,11 @@ Stamina dice maybe added to anyother roll but are not recovered until after a sh
 Health Points, disease resistance, poison resistance. 
 Health pips and dice are removed as the character takes damage.
 A single health die is recovered upon a nights rest.
-
-#### Style Dice
-Style is a pool of meta currency that can be used to enhance a roll. Style maybe earned through using your character's _dooms_ or by pleasing your patron.
    
 ### [charactersheet.md](charactersheet.md)
    
 ### Dooms
-Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
+Every great hero has flaws. Every time you use you doom to effect the story, the patron may award you with a die to add to any roll.
 
  1. Phobia Snakes, heights, small spaces, outdoors
  2. OCD
@@ -427,10 +426,6 @@ getting shot or attacked in movies. more like a reflex save.
 
 see [suffering](suffering.md) and [death](death.md).
 
-### The Adrenalin Die
-
-On the second round of combat put a d6 on the table with one its face. Add this amount to player rolls this round and turn the die up every round in which the players take actions directly affecting the enemy.  
-
 ### Initiative
 
 1. Parley
@@ -464,38 +459,6 @@ From wounded to marked. The  character will not be coming back to any further se
 
 [weapons](weapons.md)
 [armor](armor.md)
-
-- Glow Stick
-- Ultra Glue
-- Laser Saw
-- Glue Gun
-- Bounce Jelly
-- Anti-friction paint
-- GPS
-- Recon drone (upgradeable)
-- Clippy
-- Invisible ink Pen
-- AI enhanced contact lenses
-- Tru-site glasses
-- easy reach grabber
-
-| Thermoptic Camouflage | Invisibility[P] |
-| Power Armor           |                 |
-| Explosives            |                 |
-| Arm-mounted cannon    |                 |
-| Techno Goggles        |                 |
-| Bag of gadgets        |                 |
-| Cybernetic body part  |                 |
-| Magic Item            |                 |
-| Magic Armor           |                 |
-| Cloak of Invisibility | Invisibility[P] |
-| Massive Club          |                 |
-| Energy Bow            |                 |
-| Energy Sword          |                 |
-| boomerang             |                 |
-| whip                  |                 |
-| Magic Weapon          |                 |
-| Flying Guillotine     |                 |
    
 ## Weapons
 
@@ -509,17 +472,10 @@ Weapons have powers and effects on play and narrative.
 - Spray
 - Kill
 - Incapacitate
-- Pin Down
-- Cover Fire
-- Precision Shot
+- 
    
 ## Armor
-   
-## The Doom Pool
 
-Doom dice. Gm gains doom dice from player risk wager loan. Doom dice can be added to gm rolls or rolled to allow the gm to finish the scene. 
-
-   
 ## Glossary
 
 - 1hd: one *health* die.
