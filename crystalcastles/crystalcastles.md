@@ -1,21 +1,20 @@
 # For Glory - Crystal Castles
 ## Introduction
-
+<div markdown="1">
 Pierce your nipples.
 This game was created to allow players to make **zombie ninjas**, **axe witches**, **necrodroids** or whatever craziness they can think of.
 This game is not intended to have a predetermined story arc.
 Rather, the patron creates a world with non-player characters that have their own goals.
 The patron can be riffing on the players actions and using random tables to create emergent stories.
-
 This game simulates a piece of fiction rather than reality.
 In this story a bow and arrow may be a better weapon than a gun.
 
 Characters attributes are measured in the number of dice they roll.
 If your character has a *Power* of 3, they roll 3 dice. The sum of all the dice whose face shos a 1, a 2, or a 3 determines the amount rolled.
 The player will have a greater than 50% chance of at least getting a sum equal to the amount of dice rolled.
-   
+</div>
 ## Dice
-
+<div markdown="1" class="colstwo">
 Dice are the main unit of measure in the game.
 Character attributes are measured in dice and you can gain or lose dice from your attributes.
 Dice may be broken down into 6 pips.
@@ -28,7 +27,6 @@ The number of _hits_ is the sum of all the dice that come up 1, 2, or 3.
 Each _hit_ on that roll will remove a 1 pip (1hp) of health from the target.
 
 The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and they have other meanings depending on the context.
-
 ### Square, Cross, and Lines
 
 You may also pair any 3s with _lines_ (6) to get bonus effects.
@@ -39,8 +37,9 @@ Pairs of _crosses_ (5) cause negative effects.
 Pairs of _squares_ (4) may also have effects that may be neutral.
 Usually denoting effects caused by the environment or changes to the narrative or the attitudes of the NPCs.
 
+</div>
 ## Mechanics
-
+<div markdown="1" class="colstwo">
 The patron describes the terrible predicament the players face as well as the environment.
 Details about the world left unsaid maybe decided by the players.
 The players decide their character's actions and, usually, the results of the actions are decided by the patron in discussion with the players.
@@ -57,33 +56,43 @@ Each roll takes time and removes the rolled number of hinderance points from the
 The player will roll the dice for their attibute plus any additional dice they can muster and take the sum of all the 1s, 2s, and 3s in their roll. 
 
 The player may add any of their Stamina or style dice to any roll. Those dice cannot be used again until they have been recovered. 
-
+### Ways to roll your dice
+- 1d  - Roll 1 die. A 1, 2, or 3 is counted. The other values are 0.
+- d6  - Use the face value of the die (1-6).
+- d2  - Roll a die and divide the face value by 2 rounded up.
+- d3  - Roll a die and divide the face value by 3 rounded up.
+- d9 - Roll 2d3. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
+- d12 - d2 x d6.
+- d18 - d3 x d6.
+- d36 - 2d6. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 34.
+   
+</div>
 ### Chance of success table
-
+<div markdown="1">
 This table shows the chance to achieve a certain amount of hits with differing amounts of dice.
 
-| d6 | 0 hits | 1+ | 2+ | 3+ | 4+ | 5+ | 6+ | 7+ | 8+ | 9+ | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
-|    |        |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
-| 1  | 50     | 50 | 33 | 17 |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
-| 2  | 25     | 75 | 58 | 39 | 17 | 8  | 3  |    |    |    |     |     |     |     |     |     |     |     |
-| 3  | 12     | 87 | 75 | 58 | 37 | 23 | 12 | 4  | 2  |    |     |     |     |     |     |     |     |     |
-| 4  | 6      | 94 | 85 | 73 | 55 | 40 | 26 | 14 | 8  | 3  | 1   |     |     |     |     |     |     |     |
-| 5  | 3      | 97 | 92 | 83 | 70 | 56 | 41 | 27 | 17 | 10 | 5   | 2   | 1   |     |     |     |     |     |
-| 6  | 2      | 99 | 95 | 90 | 80 | 69 | 55 | 41 | 29 | 19 | 11  | 6   | 3   | 1   |     |     |     |     |
-| 7  | 1      | 99 | 97 | 94 | 87 | 78 | 67 | 54 | 42 | 30 | 21  | 13  | 8   | 4   | 2   | 1   |     |     |
-| 8  |        |    | 99 | 96 | 92 | 86 | 77 | 66 | 55 | 43 | 32  | 22  | 15  | 9   | 5   | 3   | 1   | 1   |
-| 9  |        |    | 99 | 98 | 95 | 91 | 84 | 75 | 65 | 54 | 43  | 32  | 23  | 16  | 10  | 6   | 4   | 2   |
-| 10 |        |    |    | 99 | 97 | 94 | 89 | 83 | 74 | 65 | 54  | 43  | 33  | 24  | 17  | 11  | 7   | 4   |
-| 11 |        |    |    | 99 | 98 | 96 | 93 | 88 | 82 | 73 | 64  | 54  | 44  | 34  | 25  | 18  | 12  | 8   |
-| 12 |        |    |    |    | 99 | 98 | 95 | 92 | 87 | 80 | 72  | 63  | 54  | 44  | 35  | 26  | 19  | 13  |
-| 13 |        |    |    |    | 99 | 99 | 97 | 95 | 91 | 86 | 79  | 72  | 63  | 54  | 44  | 35  | 27  | 20  |
-| 14 |        |    |    |    |    | 99 | 98 | 96 | 94 | 90 | 85  | 79  | 71  | 62  | 53  | 44  | 36  | 28  |
+| Nd6 | 0 hits | 1+ | 2+ | 3+ | 4+ | 5+ | 6+ | 7+ | 8+ | 9+ | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
+|-----|--------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1   | 50     | 50 | 33 | 17 |    |    |    |    |    |    |     |     |     |     |     |     |     |     |
+| 2   | 25     | 75 | 58 | 39 | 17 | 8  | 3  |    |    |    |     |     |     |     |     |     |     |     |
+| 3   | 12     | 87 | 75 | 58 | 37 | 23 | 12 | 4  | 2  |    |     |     |     |     |     |     |     |     |
+| 4   | 6      | 94 | 85 | 73 | 55 | 40 | 26 | 14 | 8  | 3  | 1   |     |     |     |     |     |     |     |
+| 5   | 3      | 97 | 92 | 83 | 70 | 56 | 41 | 27 | 17 | 10 | 5   | 2   | 1   |     |     |     |     |     |
+| 6   | 2      | 99 | 95 | 90 | 80 | 69 | 55 | 41 | 29 | 19 | 11  | 6   | 3   | 1   |     |     |     |     |
+| 7   | 1      | 99 | 97 | 94 | 87 | 78 | 67 | 54 | 42 | 30 | 21  | 13  | 8   | 4   | 2   | 1   |     |     |
+| 8   |        |    | 99 | 96 | 92 | 86 | 77 | 66 | 55 | 43 | 32  | 22  | 15  | 9   | 5   | 3   | 1   | 1   |
+| 9   |        |    | 99 | 98 | 95 | 91 | 84 | 75 | 65 | 54 | 43  | 32  | 23  | 16  | 10  | 6   | 4   | 2   |
+| 10  |        |    |    | 99 | 97 | 94 | 89 | 83 | 74 | 65 | 54  | 43  | 33  | 24  | 17  | 11  | 7   | 4   |
+| 11  |        |    |    | 99 | 98 | 96 | 93 | 88 | 82 | 73 | 64  | 54  | 44  | 34  | 25  | 18  | 12  | 8   |
+| 12  |        |    |    |    | 99 | 98 | 95 | 92 | 87 | 80 | 72  | 63  | 54  | 44  | 35  | 26  | 19  | 13  |
+| 13  |        |    |    |    | 99 | 99 | 97 | 95 | 91 | 86 | 79  | 72  | 63  | 54  | 44  | 35  | 27  | 20  |
+| 14  |        |    |    |    |    | 99 | 98 | 96 | 94 | 90 | 85  | 79  | 71  | 62  | 53  | 44  | 36  | 28  |
 
-   
+</div>   
 ## Characters
+<div markdown="1" class="colstwo">
 ### Stats
 Stats represent your character's inate attributes. 
-
 #### Strength Dice
 Used for most melee and ranged attacks as well as lifting, pushing, breaking, and sometimes climbing.
 
@@ -101,8 +110,6 @@ Stamina dice maybe added to anyother roll but are not recovered until after a sh
 Health Points, disease resistance, poison resistance. 
 Health pips and dice are removed as the character takes damage.
 A single health die is recovered upon a nights rest.
-   
-### [charactersheet.md](charactersheet.md)
    
 ### Dooms
 Every great hero has flaws. Every time you use you doom to effect the story, the patron may award you with a die to add to any roll.
@@ -130,29 +137,16 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 21. Always has to be right
 22. Fool for love
 
-### Sample Characters
-#### Ghostface
-- Can talk to recently deceased
-#### Kodack
-- Berserker
-#### Jennifer
-- Wood witch
-#### Paladin
-- Heals
-#### Weird Dwarf
-- Crafts
-- Explosives
-#### Wizard's Apprentice
-- Access to spells that are too powerful
+</div>
 ## Time and Space
-
+<div markdown="1" class="colstwo">
 Episodes are usually completed in a single session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
 Episodes are made up of scenes which usually take place at different locations.
 
 Most scenes are a series of player turns which could be the individual cuts of a film.
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
-
+</div>
 ### Scenes
 
 - Standard scenes.
@@ -192,108 +186,6 @@ two types of hazards. hazards where not enough hits on a roll indicates a bad ou
 
 Hazards where you need to make progress through an area that needs work to get through. Such as thick foliage or a wall that must be hacked through.
 
-##### Chase table - Urban
-1. Alley
-1. Baby carriage
-1. Beggers
-1. Bridge
-1. Canal
-1. Cart of manure
-1. Cart of vegetable
-1. Carts / wagons
-1. Construction site
-1. Crevice
-1. Crowd of people
-1. Dead End
-1. Dog walker
-1. Door
-    1. Blacksmith
-    1. Kitchen
-    1. Laundry
-    1. Market
-    1. Prison
-    1. School
-    1. Scribe
-    1. Still
-    1. Workshop
-1. Drawbridge
-1. Elderly person
-1. Fence
-1. Fruit stand
-1. Graveyard
-1. Heap of dung
-1. Huge cart
-1. Latrine
-1. Man holding large cake
-1. Castle gate
-1. Wall
-1. Church or cathedral
-1. Muck
-1. Open field
-1. Open sewer
-1. Outdoor market
-1. Parade
-1. Park
-1. Pier
-1. Protest march
-1. Religouse procession
-1. River
-1. Tied up horses
-1. Town guard
-1. Town square
-1. Well
-
-###### Chase table - Wilderness
-1. Abbey
-1. Avalanche
-1. Beehive
-1. Bog
-1. Boulders or rocks
-1. Brook
-1. Burial mound
-1. Bushes
-1. Cabin
-1. Campfire 
-1. Canyon
-1. Cave entrance
-1. Cliff
-1. Cliffside trail
-1. Crevace
-1. Crumbling ruins of an ancient temple
-1. Ditch
-1. Erupting steam vents
-1. Fallen tree
-1. Farm
-1. Flood
-1. Fog
-1. Forest
-1. Forest fire
-1. Giant skeleton
-1. Graveyard
-1. Hanging vines
-1. Hut
-1. Insect swarm
-1. Lake
-1. Lake (with jetty, and moored boats)
-1. Landslide
-1. Log bridge
-1. Long grass, meadow or wheat field
-1. Mine entrance with mine cart
-1. Pit
-1. Quicksand
-1. River
-1. Rope bridge
-1. Stampede
-1. Stand of trees
-1. Steep decline
-1. Steep incline
-1. Stepping stones
-1. Stream
-1. Treehouse
-1. Wagon
-1. Waterfall
-1. Windmill
-
 ##### saved
 
 A *chase scene* is a series of short of scenes.
@@ -307,64 +199,6 @@ Usually, because the quarry escapes.
 
 ###### Chase Encounters
 
-
-###### Wilderness
-
-Hot lava
-A huge savage beast that doesn’t like you or your foes
-Animal snares
-Avalanche
-Crevices
-Bales of dry hay
-Beehives
-Bog (with bloodsucking leeches)
-Boulders or rocks (some massive, others that could double as weapons)
-Bridge
-Brook
-Burial mound
-Bushes
-Campfire
-Carnivorous plants
-Cave entrance
-Corrupt
-Crate of ripe melons
-Crumbling ruins of an ancient temple
-Cliff
-Cliffside trail
-Cursed
-Ditch
-Erupting steam vents
-Fallen tree
-Farmhouse
-Gallows 
-Gorge or canyon
-Hill, slope or ravine
-Hut, shed or barn
-Insects
-Lake (with jetty, and moored boats)
-Landslide
-Long grass, meadow or wheat field
-Giant skeleton
-Pack of wild dogs
-Pit
-Plants that give off poisonous spores
-Quicksand
-Streams
-Log bridge
-Fog
-Forest fire
-Flood
-Stampede
-Stepping stones
-Graveyard
-Trees
-Treehouse
-Traps
-Vermin
-Vines (to swing on)
-Wagon
-Waterfall
-Windmill
 
 ##### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
 
@@ -459,22 +293,6 @@ From wounded to marked. The  character will not be coming back to any further se
 
 [weapons](weapons.md)
 [armor](armor.md)
-   
-## Weapons
-
-Weapons have powers and effects on play and narrative.
-
-### Sample Weapons
-
-#### Assault Rifle
-
-- Shoot
-- Spray
-- Kill
-- Incapacitate
-- 
-   
-## Armor
 
 ## Glossary
 
