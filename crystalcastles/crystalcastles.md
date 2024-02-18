@@ -137,10 +137,10 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 21. Always has to be right
 22. Fool for love
 
-</div>
+</div>ii
 ## Time and Space
 <div markdown="1" class="colstwo">
-Episodes are usually completed in a single session.
+Episodes are usually completed in a single game session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
 Episodes are made up of scenes which usually take place at different locations.
 
@@ -150,11 +150,19 @@ The amount of in game time that the actions take is based on the type of scene a
 ### Scenes
 
 - Standard scenes.
-  The party maybe talking among themselves, or to non-player characters. They may be interacting with or examining the environment. The amount of time taken is usualy of little consequence.
+  The party maybe talking among themselves, or to non-player characters.
+  They may be interacting with or examining the environment.
+  The amount of time taken and the turn order, is usualy of little consequence.
 - Fight scenes
+  Players take turns according the the _combat_ rules.
 - Chase scenes
+  Players take turns according to the _chase_ rules. 
 - Dramatic scenes
-- Cut scenes are described to the party by the patron. They serve to fill in the story for the party. Many scenes may end with a cut scene.
+  These scenes are usually time sensitive and with a dire consequence.
+  Examples include, picking a lock as the guards approach or diffusing a time bomb.
+- Cut scenes are described to the party by the patron.
+  They serve to fill in the story for the party.
+  Many scenes may end with a cut scene.
 - Montage scene
 
 An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below. 
