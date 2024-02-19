@@ -58,13 +58,28 @@ The player will roll the dice for their attibute plus any additional dice they c
 The player may add any of their Stamina or style dice to any roll. Those dice cannot be used again until they have been recovered. 
 ### Ways to roll your dice
 - 1d  - Roll 1 die. A 1, 2, or 3 is counted. The other values are 0.
-- d6  - Use the face value of the die (1-6).
 - d2  - Roll a die and divide the face value by 2 rounded up.
 - d3  - Roll a die and divide the face value by 3 rounded up.
-- d9 - Roll 2d3. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
-- d12 - d2 x d6.
-- d18 - d3 x d6.
-- d36 - 2d6. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 34.
+- d6  - Use the face value of the die (1-6).
+- d22 - Roll a d2 and a d2. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22. 4 possibilities.
+- d33  - Roll d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22. 9 possibilities.
+- d26 - Roll a d2 and a d6. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 14. 12 possibilites.
+- d36 - d3 and d6. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 24. 18 possibilites.
+- d66 - d6 twice. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 34. 36 possibilities.
+
+d2
+d3
+d6
+
+2
+3
+2 2 4
+6
+3 3 9
+2 6 12
+3 6 18
+6 6 36
+6 6 6 216
    
 </div>
 ### Chance of success table
