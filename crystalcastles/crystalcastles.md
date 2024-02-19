@@ -137,7 +137,8 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 21. Always has to be right
 22. Fool for love
 
-</div>ii
+</div>
+
 ## Time and Space
 <div markdown="1" class="colstwo">
 Episodes are usually completed in a single game session.
@@ -147,6 +148,7 @@ Episodes are made up of scenes which usually take place at different locations.
 Most scenes are a series of player turns which could be the individual cuts of a film.
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
 </div>
+
 ### Scenes
 
 - Standard scenes.
