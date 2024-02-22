@@ -27,3 +27,9 @@ The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and t
 - d33 - Roll 1d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
 - d36 - 
 - d66 - Roll a die for the 10s place and then roll a die for the 1s place. Rolling a 3 and a 4 make 34.
+
+## multiplying by 6
+
+|number| 1| 2| 3| 4| 5| 6|
+|------|--|--|--|--|--|--|
+|     1| 1|
