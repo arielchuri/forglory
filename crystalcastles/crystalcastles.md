@@ -188,6 +188,7 @@ An adventure written for For Glory RPG may have a table of events that may happe
 
 The participants in a *chase scene* are divided into as few groups as possible.
 Usually, hunters and quarry.
+A chase scene is a series of short of scenes. The chase die keeps track of the scenes. It may start on any number but, on 7, the chase scene is over. Usually, because the quarry escapes.
 Each group gets a die.
 Chase scenes are similar to combat enounters.
 Characters fight and make ability checks as they move down a line of discrete locations.
@@ -195,41 +196,27 @@ If the pursued characters make it to the end of the line, they have escaped.
 
 - Create a string of locations to start the chase. Use a line of points to keep track of where the characters are along the course. For Glory settings and adventure have location tables.
   Example: tavern, street, entrance to outdoor market, fruit carts, basket seller, alleway.
-Each.
-Each group gets a die 
-- Both sides roll their highest **agility** and count successes.
-- Take the lowest outcome and reduce it to one. Reduce everyone else's outcome by the same amount. These are your *movement actions*.
-- Take turns in initiative order (greatest *agility* pips goes first?)
-- On your turn you may use your *movement actions* to move from one location to another or take other actions.
+
 - *Hazards* present some difficulty that may impede your progress if not managed well.
 Examples include slippery areas, fences to jump over, or a herd of cattle.
 The DM will describe the hazard and the player may ask questions about the *hazard* and decide how they will handle it. 
-The DM will then assign a difficulty and which attribute to use.
-In addition to the usual modifications a player may make to their roll, a player may use additional *movement actions* as dice on this roll.
-Success means the hazard is easily bypassed. Failure means the loss of
 
 two types of hazards. hazards where not enough hits on a roll indicates a bad outcome like slipping and falling.
 
 Hazards where you need to make progress through an area that needs work to get through. Such as thick foliage or a wall that must be hacked through.
 
-##### saved
-
-A *chase scene* is a series of short of scenes.
-The *chase die* keeps track of the scenes.
-It may start on any number but, on 7, the chase scene is over.
-Usually, because the quarry escapes.
-
 #### Fight Scenes
 
-###### Obstacles and Opportunities
-
-###### Chase Encounters
-
+1. Talk
+2. Run
+3. Other
+4. Spells
 
 ##### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
 
 Possibly a series of ability checks that influence each other. Could have some push-your-luck, bluffing the DM, and use the DM's Doom Pool.
 
+#### Mounts and vehicles. 
 Move dice between speed and handling
 
 ##### Opposed conflicts like chases
