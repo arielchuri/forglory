@@ -67,20 +67,6 @@ The player may add any of their Stamina or style dice to any roll. Those dice ca
 - d36 - d3 and d6. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 24. 18 possibilites.
 - d66 - d6 twice. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 34. 36 possibilities.
 
-d2
-d3
-d6
-
-2
-3
-2 2 4
-6
-3 3 9
-2 6 12
-3 6 18
-6 6 36
-6 6 6 216
-   
 </div>
 ### Chance of success table
 <div markdown="1">
@@ -129,28 +115,14 @@ A single health die is recovered upon a nights rest.
 ### Dooms
 Every great hero has flaws. Every time you use you doom to effect the story, the patron may award you with a die to add to any roll.
 
- 1. Phobia Snakes, heights, small spaces, outdoors
- 2. OCD
- 3. klepto
- 4. obsession
- 5. Paranoid
- 6. Tardy
- 7. Cursed
- 8. Unlucky
- 9. Vain
-10. Foolhardy
-11. Death wish
-12. Ill mannered
-13. Bad tempered
-14. Lazy
-15. Slovenly
-16. Perfectionist
-17. Complains
-18. Financially irresponsible and in debt
-19. Gambles
-20. Addictive personality
-21. Always has to be right
-22. Fool for love
+|   | 1            | 2                     | 3                    | 4                         |
+|---|--------------|-----------------------|----------------------|---------------------------|
+| 1 | Phobia       | OCD                   | klepto               | obsession                 |
+| 2 | Cursed       | Unlucky               | Vain                 | Foolhardy                 |
+| 3 | Bad tempered | Lazy                  | Slovenly             | Perfectionist             |
+| 4 | Gambles      | Addictive personality | Has to be right      | Fool for love             |
+| 5 | Paranoid     | Tardy                 | Rose-colored glasses | Unprepared                |
+| 6 | Death wish   | Ill mannered          | Pessimist            | Financially irresponsible |
 
 </div>
 
@@ -162,6 +134,8 @@ Episodes are made up of scenes which usually take place at different locations.
 
 Most scenes are a series of player turns which could be the individual cuts of a film.
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
+
+After everyone involved with a scene has taken a turn, one round is completed and a new round begins.
 </div>
 
 ### Scenes
@@ -184,15 +158,19 @@ The amount of in game time that the actions take is based on the type of scene a
 
 An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below. 
 
+### The Scene Die 
+
+A die can be used to track the timing of a scene.
+The scene die is set to one for the first round and incremented each round.
+The effects of the scene die are determined by the patron and the scene.
+The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
+
 #### Chase Scenes
 
 The participants in a *chase scene* are divided into as few groups as possible.
 Usually, hunters and quarry.
-A chase scene is a series of short of scenes. The chase die keeps track of the scenes. It may start on any number but, on 7, the chase scene is over. Usually, because the quarry escapes.
-Each group gets a die.
-Chase scenes are similar to combat enounters.
 Characters fight and make ability checks as they move down a line of discrete locations.
-If the pursued characters make it to the end of the line, they have escaped.
+Chase scenes are similar to combat enounters.
 
 - Create a string of locations to start the chase. Use a line of points to keep track of where the characters are along the course. For Glory settings and adventure have location tables.
   Example: tavern, street, entrance to outdoor market, fruit carts, basket seller, alleway.
@@ -211,6 +189,15 @@ Hazards where you need to make progress through an area that needs work to get t
 2. Run
 3. Other
 4. Spells
+
+#### The Fight Scene Die
+
+1. Add the number on the die to every roll.
+1. Add the number on the die to every monster roll.
+1. More monsters arrive when the scene die reaches a target number.
+1. The monster runs away when the scene die reaches a target number.
+
+Scene Die: 1. A fire starts, 2. Smoke (-1d ranged attacks, -1d _stamina_), 3. Heat (-2hp), 4. 
 
 ##### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
 
