@@ -139,22 +139,23 @@ After everyone involved with a scene has taken a turn, one round is completed an
 </div>
 
 ### Scenes
+<div markdown="1" class="colstwo">
 
-- Standard scenes.
+Standard scenes.
   The party maybe talking among themselves, or to non-player characters.
   They may be interacting with or examining the environment.
   The amount of time taken and the turn order, is usualy of little consequence.
-- Fight scenes
+Fight scenes
   Players take turns according the the _combat_ rules.
-- Chase scenes
+Chase scenes
   Players take turns according to the _chase_ rules. 
-- Dramatic scenes
+Dramatic scenes
   These scenes are usually time sensitive and with a dire consequence.
   Examples include, picking a lock as the guards approach or diffusing a time bomb.
-- Cut scenes are described to the party by the patron.
+Cut scenes are described to the party by the patron.
   They serve to fill in the story for the party.
   Many scenes may end with a cut scene.
-- Montage scene
+Montage scene
 
 An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below. 
 
@@ -165,25 +166,35 @@ The scene die is set to one for the first round and incremented each round.
 The effects of the scene die are determined by the patron and the scene.
 The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
 
+</div>
 #### Chase Scenes
 
+<div markdown="1" class="colstwo">
 The participants in a *chase scene* are divided into as few groups as possible.
 Usually, hunters and quarry.
 Characters fight and make ability checks as they move down a line of discrete locations.
-Chase scenes are similar to combat enounters.
+Use a line of points to keep track of where the characters are along the course.
+For Glory settings and adventures have location tables.
 
-- Create a string of locations to start the chase. Use a line of points to keep track of where the characters are along the course. For Glory settings and adventure have location tables.
-  Example: tavern, street, entrance to outdoor market, fruit carts, basket seller, alleway.
+The folloming is an example of a chase scene taking place in an urban environment.
 
-- *Hazards* present some difficulty that may impede your progress if not managed well.
+**Round 1** The hunters (3d) and the quarry (the players) spot each other accross the crowded town market.
+The scene die is set to one.
+The patron describes the market and players toss a cart of produce to delay the hunters.
+The patron decides that the hunters must hit a target of 4 to avoid slipping on the produce.
+The 
+
+*Hazards* present some difficulty that may impede your progress if not managed well.
 Examples include slippery areas, fences to jump over, or a herd of cattle.
 The DM will describe the hazard and the player may ask questions about the *hazard* and decide how they will handle it. 
 
 two types of hazards. hazards where not enough hits on a roll indicates a bad outcome like slipping and falling.
 
 Hazards where you need to make progress through an area that needs work to get through. Such as thick foliage or a wall that must be hacked through.
+</div>
 
 #### Fight Scenes
+<div markdown="1" class="colstwo">
 
 1. Talk
 2. Run
@@ -199,7 +210,9 @@ Hazards where you need to make progress through an area that needs work to get t
 
 Scene Die: 1. A fire starts, 2. Smoke (-1d ranged attacks, -1d _stamina_), 3. Heat (-2hp), 4. 
 
+</div>
 ##### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
+<div markdown="1" class="colstwo">
 
 Possibly a series of ability checks that influence each other. Could have some push-your-luck, bluffing the DM, and use the DM's Doom Pool.
 
@@ -225,7 +238,14 @@ Move dice between speed and handling
 ##### Interludes
 
    
+   </div>
+
+</div>
+
 ## Combat
+
+<div markdown="1" class="colstwo">
+
 ### Common Action
 
 This is a list of common actions that any player may execute on their turn.
@@ -277,7 +297,7 @@ Symbaroum has player characters make all of the rolls, such as rolling to evade 
 To handle forcing saves on multiple enemies, such as with a use of powerful enough fireball, they have it where the spell chains, the caster making a attack against the first target in the blast, if they fail they suffer the damage and they move onto the next enemy of their choice, making the same attack again, until they either run out of valid targets or fail a attack, at which the spell ends.
 
 This means that you don’t need any precise measuring tools to judge whether enemies are affected by a area-of-effect, and can simulate more powerful casters (those with better chances of hitting more often than not) having a larger area-of-effect, without the need to have measurements of the blast radius or additional math.
-   
+</div>   
 ## Suffering
 
 gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
@@ -294,6 +314,13 @@ From wounded to marked. The  character will not be coming back to any further se
 [weapons](weapons.md)
 [armor](armor.md)
 
+## Monsters
+Monsters and NPCs in **For Glory** can have a variety of levels of detail.
+A simple foe may be described by only one number. This is the number of dice it will roll for nearly any purpose unless the patron chooses otherwise.
+Another monster may have a die listed for most rolls and others listed specifically. 
+Bandersnatch (5d)
+Mogrub (3d, Agility 6d)
+Brain Dog: 3d, Brains 5d, Brain Scan (smarts, smarts damage)
 ## Glossary
 
 - 1hd: one *health* die.
