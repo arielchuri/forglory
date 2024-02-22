@@ -193,10 +193,11 @@ Chase scenes are similar to combat enounters.
 Characters fight and make ability checks as they move down a line of discrete locations.
 If the pursued characters make it to the end of the line, they have escaped.
 
-- Create a string of locations to start the chase. Use a line of points to keep track of where the characters are along the course. Some locations may have more than one point on the line.
+- Create a string of locations to start the chase. Use a line of points to keep track of where the characters are along the course. For Glory settings and adventure have location tables.
   Example: tavern, street, entrance to outdoor market, fruit carts, basket seller, alleway.
-- Determine a few *obstacles* and *opportunities* at some of the locations.
-- Everyone rolls **agility** and count successes.
+Each.
+Each group gets a die 
+- Both sides roll their highest **agility** and count successes.
 - Take the lowest outcome and reduce it to one. Reduce everyone else's outcome by the same amount. These are your *movement actions*.
 - Take turns in initiative order (greatest *agility* pips goes first?)
 - On your turn you may use your *movement actions* to move from one location to another or take other actions.
