@@ -128,7 +128,9 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 </div>
 
 ## Time and Space
+
 <div markdown="1" class="colstwo">
+
 Episodes are usually completed in a single game session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
 Episodes are made up of scenes which usually take place at different locations.
@@ -137,9 +139,11 @@ Most scenes are a series of player turns which could be the individual cuts of a
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
 
 After everyone involved with a scene has taken a turn, one round is completed and a new round begins.
+
 </div>
 
 ### Scenes
+
 <div markdown="1" class="colstwo">
 
 Standard scenes.
@@ -203,7 +207,7 @@ Hazards where you need to make progress through an area that needs work to get t
 3. Other
 4. Spells
 
-#### The Fight Scene Die
+##### Scene Die
 
 1. Add the number on the die to every roll.
 1. Add the number on the die to every monster roll.
@@ -213,8 +217,12 @@ Hazards where you need to make progress through an area that needs work to get t
 Scene Die: 1. A fire starts, 2. Smoke (-1d ranged attacks, -1d _stamina_), 3. Heat (-2hp), 4. 
 
 </div>
-##### Chase Rules, Quick Encounters, and Dramatic Tasks from SWADE
+
+##### Dramatic Tasks
+
 <div markdown="1" class="colstwo">
+
+
 
 Possibly a series of ability checks that influence each other. Could have some push-your-luck, bluffing the DM, and use the DM's Doom Pool.
 
