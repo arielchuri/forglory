@@ -6,11 +6,12 @@ This game was created to allow players to make **zombie ninjas**, **axe witches*
 This game is not intended to have a predetermined story arc.
 Rather, the patron creates a world with non-player characters that have their own goals.
 The patron can be riffing on the players actions and using random tables to create emergent stories.
+Written below are the rules to the game. The characters, monsters, treasures, weapons, and locations of the game will often break these rules.
 This game simulates a piece of fiction rather than reality.
 In this story a bow and arrow may be a better weapon than a gun.
 
 Characters attributes are measured in the number of dice they roll.
-If your character has a *Power* of 3, they roll 3 dice. The sum of all the dice whose face shos a 1, a 2, or a 3 determines the amount rolled.
+If your character has a *strength* of 3, they roll 3 dice. The sum of all the dice whose face shows a 1, a 2, or a 3 determines the amount rolled.
 The player will have a greater than 50% chance of at least getting a sum equal to the amount of dice rolled.
 </div>
 ## Dice
@@ -246,35 +247,26 @@ Move dice between speed and handling
 
 <div markdown="1" class="colstwo">
 
+Most melee attacks use Strength dice. 
+The attacker rolls a **speed** check and counts the 1s, 2s, and 3s as normal.
+The defender rolls defense which is usually an **speed** check.
+The defense roll is subtracted from the attack roll and the result is the number of pips removed from the target's stat. Usually health pips.
+The characters or equipment may determine extra effects.
+
 ### Common Action
 
-This is a list of common actions that any player may execute on their turn.
-Their abilities and weapons provides actions in addition to this list.
+In combat and otherwise, it is the players that determine the actions of their characters.
+It is the job of the patron to determine how the player's choices are expressed mechanically.
 
-- Attack
-- Evade: add to focus (or Brains?) to agility dice until next turn
-- Focus: add you Dare dice to your rolls through you next turn's action. 
-- Disengage: leave melee to escape or allow a ranged attack. 
-- Pistol Whip: A melee attack that allows you to shoot a pistol while in melee. 
-
-How does a bayonet effect the combat sequence? 
-
-Disengage is an attack that allows you to move without drawing an opportunity attack. Also needed to use many ranged weapons while in melee. Can cause some damage and ignores armor. 
-
-#### Shield your friend.
-
-https://www.reddit.com/r/rpg/comments/mggg8z/big_book_of_60_reimagined_and_new_status_effects/
-Skills that offer bonuses under certain conditions such as quick thinker for surprise. From starport scum. 
-Skills as auto success rather than increasing pool. Sniper will always hit. 
-
-* Scrap armor -1 damage, -2 **Agility**
+Evade: add to **smart** to defense roll until next turn
+Focus: add you **smart** dice to a roll until your next turn's action. 
+Disengage: Roll **strength** or **speed** to put distance between you and your opponent. 
+Shield: Roll attack but some dice are not subtracted from the target's defense roll and are instead added to a compatriot's defense roll.
 
 https://codepen.io/tijsvl/pen/OJmrBQQ?editors=1100
 https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/
 
 https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_blog_post/    
-
-getting shot or attacked in movies. more like a reflex save.
 
 ### Damage and death
 
@@ -315,12 +307,16 @@ From wounded to marked. The  character will not be coming back to any further se
 [armor](armor.md)
 
 ## Monsters
-Monsters and NPCs in **For Glory** can have a variety of levels of detail.
-A simple foe may be described by only one number. This is the number of dice it will roll for nearly any purpose unless the patron chooses otherwise.
+
+Monsters and NPCs in **For Glory** can have of levels of detail.
+A simple foe may be described by only one number. This is the number of dice it will use for nearly any purpose unless the patron chooses otherwise.
 Another monster may have a die listed for most rolls and others listed specifically. 
-Bandersnatch (5d)
-Mogrub (3d, Agility 6d)
-Brain Dog: 3d, Brains 5d, Brain Scan (smarts, smarts damage)
+
+Thug (3d) - This describes a common thug that attacks with 3 dice.
+Beastman (5d, smart 1d) - A beastman is strong but dumb.
+Beastman Chief (6d, Health 8d, Armor 2d) - Their chief is strong, smart, sturdy, and armored.
+Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can attack with *smarts* to remove a player's *smart* pips.
+
 ## Glossary
 
 - 1hd: one *health* die.
