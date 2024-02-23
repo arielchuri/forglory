@@ -168,6 +168,7 @@ The effects of the scene die are determined by the patron and the scene.
 The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
 
 </div>
+
 #### Chase Scenes
 
 <div markdown="1" class="colstwo">
