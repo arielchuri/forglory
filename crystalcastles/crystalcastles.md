@@ -142,6 +142,15 @@ After everyone involved with a scene has taken a turn, one round is completed an
 
 </div>
 
+### The Scene Die 
+
+A die can be used to track the timing of a scene.
+The scene die is set to one for the first round and incremented each round.
+The effects of the scene die are determined by the patron and the scene.
+The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
+
+</div>
+
 ### Scenes
 
 <div markdown="1" class="colstwo">
@@ -164,18 +173,10 @@ Montage scene
 
 An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below. 
 
-### The Scene Die 
-
-A die can be used to track the timing of a scene.
-The scene die is set to one for the first round and incremented each round.
-The effects of the scene die are determined by the patron and the scene.
-The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
-
 </div>
 
 #### Chase Scenes
 
-<div markdown="1" class="colstwo">
 The participants in a *chase scene* are divided into as few groups as possible.
 Usually, hunters and quarry.
 Characters fight and make ability checks as they move down a line of discrete locations.
@@ -188,19 +189,15 @@ The folloming is an example of a chase scene taking place in an urban environmen
 The scene die is set to one.
 The patron describes the market and players toss a cart of produce to delay the hunters.
 The patron decides that the hunters must hit a target of 4 to avoid slipping on the produce.
-The 
+They fail and the party runs down a street. The patron rolls an alley way on a location table. The party chooses to go down the alley. The patron rolls again and tells them that the alley way is a dead end. The party is delayed but the patron rolls for the hunters and they pass the alley way. 
 
-*Hazards* present some difficulty that may impede your progress if not managed well.
-Examples include slippery areas, fences to jump over, or a herd of cattle.
-The DM will describe the hazard and the player may ask questions about the *hazard* and decide how they will handle it. 
-
-two types of hazards. hazards where not enough hits on a roll indicates a bad outcome like slipping and falling.
-
-Hazards where you need to make progress through an area that needs work to get through. Such as thick foliage or a wall that must be hacked through.
-</div>
 
 #### Fight Scenes
-<div markdown="1" class="colstwo">
+
+
+Combatants roll **speed** to determin the order of play.
+
+Every one is asked if they want to execute the following actions. In this way, everyone who wants to talk goes before everyone who wants to run.
 
 1. Talk
 2. Run
@@ -209,6 +206,8 @@ Hazards where you need to make progress through an area that needs work to get t
 
 ##### Scene Die
 
+The following are some examples of a *scene die* for a fight scene.
+
 1. Add the number on the die to every roll.
 1. Add the number on the die to every monster roll.
 1. More monsters arrive when the scene die reaches a target number.
@@ -216,41 +215,11 @@ Hazards where you need to make progress through an area that needs work to get t
 
 Scene Die: 1. A fire starts, 2. Smoke (-1d ranged attacks, -1d _stamina_), 3. Heat (-2hp), 4. 
 
-</div>
 
-##### Dramatic Tasks
-
-<div markdown="1" class="colstwo">
+##### Dramatic Scenes
 
 
-
-Possibly a series of ability checks that influence each other. Could have some push-your-luck, bluffing the DM, and use the DM's Doom Pool.
-
-#### Mounts and vehicles. 
-Move dice between speed and handling
-
-##### Opposed conflicts like chases
-
-- Each turn you roll an opposed check.
-- You can choose to not roll some of your dice and save them for later.
-- Saved dice may be added to later rolls.
-- Prey starts at 2 and chaser starts at 0.
-- Gain and lose points on your checks.
-- Circumstances and choices affect the rolls and outcomes .
-- Prey gets to 10 or whatever the goal is, they escape. 
-- Chaser gets the same number of points as the prey, they catch up.
-- More points, and they get an action. 
-
-##### Adventure Task
-
-##### Environmental Hazards
-
-##### Interludes
-
-   
-   </div>
-
-</div>
+Tasks with a time constraint or a dramatic consequence use a die with appropriat results.
 
 ## Combat
 
@@ -272,61 +241,60 @@ Focus: add you **smart** dice to a roll until your next turn's action.
 Disengage: Roll **strength** or **speed** to put distance between you and your opponent. 
 Shield: Roll attack but some dice are not subtracted from the target's defense roll and are instead added to a compatriot's defense roll.
 
-https://codepen.io/tijsvl/pen/OJmrBQQ?editors=1100
 https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/
 
 https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_blog_post/    
 
-### Damage and death
-
-see [suffering](suffering.md) and [death](death.md).
-
-### Initiative
-
-1. Parley
-2. Run
-3. Attacktalk, run, fight
-
 ### Area of Effect
 
-### area of effect without maps
+Area damage is listed as the total dice of damage done and the maximum damage on a single target. The maximum damage is for a 'normal' sized target and may be changed for a different size target.
+Area damage effects one target first and any additional dice, are rolled over to the next target until the effects maximum damage is used up.
 
-Chaining from Symbaroum.
+Explosion (6d, 15d)
 
-Symbaroum has player characters make all of the rolls, such as rolling to evade attacks, in addition with assuming the game will be run without battle maps, instead using abstract zones.
+</div>
 
-To handle forcing saves on multiple enemies, such as with a use of powerful enough fireball, they have it where the spell chains, the caster making a attack against the first target in the blast, if they fail they suffer the damage and they move onto the next enemy of their choice, making the same attack again, until they either run out of valid targets or fail a attack, at which the spell ends.
-
-This means that you don’t need any precise measuring tools to judge whether enemies are affected by a area-of-effect, and can simulate more powerful casters (those with better chances of hitting more often than not) having a larger area-of-effect, without the need to have measurements of the blast radius or additional math.
-</div>   
 ## Suffering
+
+<div markdown="1" class="colstwo">
 
 gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
-Injuries are a form of [doom](dooms.md).
-   
-   
+</div>
+
 ## Death
 
+<div markdown="1" class="colstwo">
+
 From wounded to marked. The  character will not be coming back to any further sessions. How that plays out is up to the player. They  could die right now, go out in a blaze of glory (+3d), or retire.
+
+</div>
    
 ## Gear
 
-[weapons](weapons.md)
-[armor](armor.md)
-
 ## Monsters
+
+<div markdown="1" class="colstwo">
+
+Monsters in **For Glory** are new and strange.
 
 Monsters and NPCs in **For Glory** can have of levels of detail.
 A simple foe may be described by only one number. This is the number of dice it will use for nearly any purpose unless the patron chooses otherwise.
 Another monster may have a die listed for most rolls and others listed specifically. 
 
 Thug (3d) - This describes a common thug that attacks with 3 dice.
+
 Beastman (5d, smart 1d) - A beastman is strong but dumb.
+
 Beastman Chief (6d, Health 8d, Armor 2d) - Their chief is strong, smart, sturdy, and armored.
+
 Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can attack with *smarts* to remove a player's *smart* pips.
 
+</div>
+
 ## Glossary
+
+<div markdown="1" class="">
 
 - 1hd: one *health* die.
 - hit: a roll of 4,5, or 6.
@@ -336,5 +304,5 @@ Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can at
 - 1hp: one *health* pip.
 - 3d6 +1d +2h: Roll  4 dice and add 2 *hits* to the result.
 
-
+</div>
    
