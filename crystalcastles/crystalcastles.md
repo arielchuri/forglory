@@ -57,20 +57,21 @@ Each roll takes time and removes the rolled number of hinderance points from the
 The player will roll the dice for their attibute plus any additional dice they can muster and take the sum of all the 1s, 2s, and 3s in their roll. 
 
 The player may add any of their Stamina or style dice to any roll. Those dice cannot be used again until they have been recovered. 
+
 ### Ways to roll your dice
-- 1d  - Roll 1 die. A 1, 2, or 3 is counted. The other values are 0.
-- d2  - Roll a die and divide the face value by 2 rounded up.
-- d3  - Roll a die and divide the face value by 3 rounded up.
-- d6  - Use the face value of the die (1-6).
-- d22 - Roll a d2 and a d2. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22. 4 possibilities.
-- d33  - Roll d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22. 9 possibilities.
-- d26 - Roll a d2 and a d6. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 14. 12 possibilites.
-- d36 - d3 and d6. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 24. 18 possibilites.
-- d66 - d6 twice. The first die is 10s and the second is 1s. Rolling a 3 and a 4 make 34. 36 possibilities.
+
+- 1d  - Roll 1 die. The sum of all the dice that come up with a 1, 2, or 3.
+- d2  - d6/2
+- d3  - d6/3
+- d22 - d2 * d2
+- d6  - d6
 
 </div>
+
 ### Chance of success table
+
 <div markdown="1">
+
 This table shows the chance to achieve a certain amount of hits with differing amounts of dice.
 
 | Nd6 | 0 hits | 1+ | 2+ | 3+ | 4+ | 5+ | 6+ | 7+ | 8+ | 9+ | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
@@ -92,23 +93,34 @@ This table shows the chance to achieve a certain amount of hits with differing a
 
 </div>   
 ## Characters
+
 <div markdown="1" class="colstwo">
+
+The most important aspects of the character are written on the character sheet and specific to the character.
+
 ### Stats
+
 Stats represent your character's inate attributes. 
+
 #### Strength Dice
+
 Used for most melee and ranged attacks as well as lifting, pushing, breaking, and sometimes climbing.
 
 #### Speed Dice
+
 Used for Defense Points, running, jumping, sneaking, hiding, sneak attacks, dodging, swinging, gymnastics.
 
 #### Smart Dice
+
 Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells, clues, psychic abilities, languages, codes, history.
 
 #### Stamina Dice
+
 Stamina, fatigue, carrying, breath holding.
 Stamina dice maybe added to anyother roll but are not recovered until after a short rest.
 
 #### Health Dice
+
 Health Points, disease resistance, poison resistance. 
 Health pips and dice are removed as the character takes damage.
 A single health die is recovered upon a nights rest.
@@ -140,7 +152,6 @@ The amount of in game time that the actions take is based on the type of scene a
 
 After everyone involved with a scene has taken a turn, one round is completed and a new round begins.
 
-</div>
 
 ### The Scene Die 
 
@@ -149,11 +160,9 @@ The scene die is set to one for the first round and incremented each round.
 The effects of the scene die are determined by the patron and the scene.
 The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
 
-</div>
 
 ### Scenes
 
-<div markdown="1" class="colstwo">
 
 Standard scenes.
   The party maybe talking among themselves, or to non-player characters.
@@ -173,8 +182,6 @@ Montage scene
 
 An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below. 
 
-</div>
-
 #### Chase Scenes
 
 The participants in a *chase scene* are divided into as few groups as possible.
@@ -187,15 +194,17 @@ The folloming is an example of a chase scene taking place in an urban environmen
 
 **Round 1** The hunters (3d) and the quarry (the players) spot each other accross the crowded town market.
 The scene die is set to one.
+
 The patron describes the market and players toss a cart of produce to delay the hunters.
 The patron decides that the hunters must hit a target of 4 to avoid slipping on the produce.
-They fail and the party runs down a street. The patron rolls an alley way on a location table. The party chooses to go down the alley. The patron rolls again and tells them that the alley way is a dead end. The party is delayed but the patron rolls for the hunters and they pass the alley way. 
+They fail and the party runs down a street.
+
+**Round 2** The patron rolls an alley way on a location table. The party chooses to go down the alley. The patron rolls again and tells them that the alley way is a dead end. The party is delayed but the patron rolls *smarts* for the hunters and they pass the alley way. 
 
 
 #### Fight Scenes
 
-
-Combatants roll **speed** to determin the order of play.
+Combatants roll **speed** to determine the order of play.
 
 Every one is asked if they want to execute the following actions. In this way, everyone who wants to talk goes before everyone who wants to run.
 
@@ -204,22 +213,22 @@ Every one is asked if they want to execute the following actions. In this way, e
 3. Other
 4. Spells
 
-##### Scene Die
+##### The Fight Scene Die
 
 The following are some examples of a *scene die* for a fight scene.
 
 1. Add the number on the die to every roll.
 1. Add the number on the die to every monster roll.
-1. More monsters arrive when the scene die reaches a target number.
+ 1. More monsters arrive when the scene die reaches a target number.
 1. The monster runs away when the scene die reaches a target number.
 
 Scene Die: 1. A fire starts, 2. Smoke (-1d ranged attacks, -1d _stamina_), 3. Heat (-2hp), 4. 
 
-
 ##### Dramatic Scenes
 
-
 Tasks with a time constraint or a dramatic consequence use a die with appropriat results.
+
+</div>
 
 ## Combat
 
@@ -260,11 +269,16 @@ Explosion (6d, 15d)
 
 gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
+You can use the setting wound table or a character specific table.
+Many monsters and characters have a specific table for the last roll ( 0hp ).
+
 </div>
 
 ## Death
 
 <div markdown="1" class="colstwo">
+
+
 
 From wounded to marked. The  character will not be coming back to any further sessions. How that plays out is up to the player. They  could die right now, go out in a blaze of glory (+3d), or retire.
 
@@ -289,6 +303,16 @@ Beastman (5d, smart 1d) - A beastman is strong but dumb.
 Beastman Chief (6d, Health 8d, Armor 2d) - Their chief is strong, smart, sturdy, and armored.
 
 Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can attack with *smarts* to remove a player's *smart* pips.
+
+A more important monster can have a lot detail.
+
+- Name
+- Dice ( the number of dice used for rolls not specified elsewhere in the character )
+- Weapon/Attack
+- Weapon table
+- Crit table
+- Fight scene die
+- Wound table
 
 </div>
 

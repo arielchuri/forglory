@@ -14,6 +14,7 @@
 
 ## Paladin
 
+- Great Strike: Requires one of the dice to come up 6.
 - Heals
 
 ## Weird Dwarf
