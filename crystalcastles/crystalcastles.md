@@ -159,6 +159,7 @@ A die can be used to track the timing of a scene.
 The scene die is set to one for the first round and incremented each round.
 The effects of the scene die are determined by the patron and the scene.
 The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
+The events that take place in the scene may effect the scene die up or down.
 
 
 ### Scenes
@@ -219,14 +220,14 @@ The following are some examples of a *scene die* for a fight scene.
 
 1. Add the number on the die to every roll.
 1. Add the number on the die to every monster roll.
- 1. More monsters arrive when the scene die reaches a target number.
+1. More monsters arrive when the scene die reaches a target number.
 1. The monster runs away when the scene die reaches a target number.
-
-Scene Die: 1. A fire starts, 2. Smoke (-1d ranged attacks, -1d _stamina_), 3. Heat (-2hp), 4. 
+1. (1) A fire starts, (2) Smoke (-1d ranged attacks, -1d _stamina_), (3) Heat (-2hp), 4. 
 
 ##### Dramatic Scenes
 
-Tasks with a time constraint or a dramatic consequence use a die with appropriat results.
+Tasks with a time constraint or a dramatic consequence use a scene die with appropriate results.
+A series of checks that increment the scene die.
 
 </div>
 
@@ -245,10 +246,10 @@ The characters or equipment may determine extra effects.
 In combat and otherwise, it is the players that determine the actions of their characters.
 It is the job of the patron to determine how the player's choices are expressed mechanically.
 
-Evade: add to **smart** to defense roll until next turn
-Focus: add you **smart** dice to a roll until your next turn's action. 
-Disengage: Roll **strength** or **speed** to put distance between you and your opponent. 
-Shield: Roll attack but some dice are not subtracted from the target's defense roll and are instead added to a compatriot's defense roll.
+- Evade: add to **smart** to defense roll until next turn
+- Focus: add you **smart** dice to a roll until your next turn's action. 
+- Disengage: Roll **strength** or **speed** to put distance between you and your opponent. 
+- Shield: Roll attack but some dice are not subtracted from the target's defense roll and are instead added to a compatriot's defense roll.
 
 https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/
 
@@ -267,10 +268,10 @@ Explosion (6d, 15d)
 
 <div markdown="1" class="colstwo">
 
-gain a wound (roll on table) every time you lose a health die and from some critical hets. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
+gain a wound (roll on table) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
 You can use the setting wound table or a character specific table.
-Many monsters and characters have a specific table for the last roll ( 0hp ).
+Many monsters and characters have a specific table for the last roll (0hp).
 
 </div>
 
@@ -278,9 +279,14 @@ Many monsters and characters have a specific table for the last roll ( 0hp ).
 
 <div markdown="1" class="colstwo">
 
+Death is only possible as roll on a wound table.
 
+### Death Table
 
-From wounded to marked. The  character will not be coming back to any further sessions. How that plays out is up to the player. They  could die right now, go out in a blaze of glory (+3d), or retire.
+1. From wounded to marked. The  character will not be coming back to any further sessions. How that plays out is up to the player. They  could die right now, go out in a blaze of glory (+3d), or retire after this episode.
+1. Bleeding out. Death in 30 minutes unless healed. All rolls reduced to 1d.
+1. Mortally wounded. Unconcious until death in 1 day unless healed.
+1. 
 
 </div>
    
