@@ -150,20 +150,17 @@ Episodes are made up of scenes which usually take place at different locations.
 Most scenes are a series of player turns which could be the individual cuts of a film.
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
 
-After everyone involved with a scene has taken a turn, one round is completed and a new round begins.
-
+After everyone involved with a scene has taken a turn (action), one round is completed and a new round begins.
 
 ### The Scene Die 
 
-A die can be used to track the timing of a scene.
+While no a requirement, a die can be used to track the timing of a scene.
 The scene die is set to one for the first round and incremented each round.
 The effects of the scene die are determined by the patron and the scene.
 The effects may be generic to the scene or, the scene may have a table associated with the *scene die*.
 The events that take place in the scene may effect the scene die up or down.
 
-
 ### Scenes
-
 
 Standard scenes.
   The party maybe talking among themselves, or to non-player characters.
@@ -224,9 +221,9 @@ The following are some examples of a *scene die* for a fight scene.
 1. The monster runs away when the scene die reaches a target number.
 1. (1) A fire starts, (2) Smoke (-1d ranged attacks, -1d _stamina_), (3) Heat (-2hp), 4. 
 
-##### Dramatic Scenes
+#### Dramatic Scenes
 
-Tasks with a time constraint or a dramatic consequence use a scene die with appropriate results.
+Tasks with a time constraint or a dramatic consequence may use a scene die with appropriate results.
 A series of checks that increment the scene die.
 
 </div>
@@ -268,18 +265,9 @@ Explosion (6d, 15d)
 
 <div markdown="1" class="colstwo">
 
-gain a wound (roll on table) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
+Gain a wound (roll on the weapon's table) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
-You can use the setting wound table or a character specific table.
-Many monsters and characters have a specific table for the last roll (0hp).
-
-</div>
-
-## Death
-
-<div markdown="1" class="colstwo">
-
-Death is only possible as roll on a wound table.
+For the last roll (0hp) use the character or monster's death table.
 
 ### Death Table
 

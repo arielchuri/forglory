@@ -8,9 +8,9 @@
 
 - Berserker
 
-## Jennifer
+## Wormwood
 
-- Wood witch
+Play dead: Can change her body physiologically so she seems like a corpse.
 
 ## Paladin
 
@@ -25,3 +25,8 @@
 ## Wizard's Apprentice
 
 - Access to spells that are too powerful
+
+
+## Sylph
+
+Elf
