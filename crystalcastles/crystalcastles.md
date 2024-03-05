@@ -310,6 +310,20 @@ A more important monster can have a lot detail.
 
 </div>
 
+## Magic
+
+### Spells
+
+#### Template
+
+Like other templates, not all entries are required. 
+
+- Name
+- Description/cost/mechanics
+- Effect Table
+  - Side Effects
+- Corruption Table
+
 ## Glossary
 
 <div markdown="1" class="">
