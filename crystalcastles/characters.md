@@ -70,7 +70,7 @@ A long whip that seems to have a mind of its own and can grow thorns.
 
 # Wizard's Apprentice
 
-- Access to spells that are too powerful
+- Access to spells that are too powerful and strange ways to backfire and cause dooms. 
 
 # Sylph
 
@@ -94,9 +94,11 @@ Strength (_),_Speed (_), Smarts (_), Stamina (_), Health (_)
 
 ### Gear
 
-  ## Special Weapon
-    ## Attack table
-    ## Wound table
+#### Special Weapon
+##### Attack table
+##### Wound table
+
+### Other Tables
 
 # Saved ideas
 
@@ -118,6 +120,10 @@ Strength (_),_Speed (_), Smarts (_), Stamina (_), Health (_)
 
 ### Gear
 
-  ## Special Weapon
-    ## Attack table
-    ## Wound table
+#### Special Weapon
+##### Attack table
+##### Wound table
+
+### Other Tables
+
+#### Corruption table
