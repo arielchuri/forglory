@@ -88,9 +88,9 @@ Strength (_),_Speed (_), Smarts (_), Stamina (_), Health (_)
 
 ### Special Abilities
 
-### Death Roll
+### Quests
 
-#
+### Death Roll
 
 ### Gear
 
