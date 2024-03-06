@@ -54,9 +54,9 @@ break-after: always;
 position: relative;
 }
 
-ol {
+ul, ol {
 margin-top: 0;
-padding-left: 1.4em;
+padding-left: 1em;
 }
 
 li {
