@@ -81,9 +81,15 @@ todo
 
 ## dice
 
-What is a common target number was exactly the number of dice rolled?
+What if a common target number was exactly the number of dice rolled?
 
-Added dice, such as from **stamina** or removed dice from a **doom** does not effect thr TN.
+Added dice, such as from **stamina** or removed dice from a **doom** does not effect the TN.
+
+Attacks: TN is the target's defense. 
+For players, this is usually _speed_.
+For monsters, it will depend on their level of detail. They could have a single number for all rolls and TN or, they could have a _defense_ stat, or, they could have a _speed_ like players.
+
+Armor removes pips from the attack after a succesful hit. 
 
 ## inbox
 https://www.reddit.com/r/RPGdesign/comments/16eaar2/what_are_the_best_mechanics_youve_seen_or_come_up/
