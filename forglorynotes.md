@@ -83,15 +83,29 @@ todo
 
 What if a common target number was exactly the number of dice rolled?
 
-Added dice, such as from **stamina** or removed dice from a **doom** does not effect the TN.
+Added dice, such as from _stamina_ or removed dice from a **doom** does not effect the TN.
 
-Attacks: TN is the target's defense. 
+### Attacks
+TN is the target's defense. 
 For players, this is usually _speed_.
 For monsters, it will depend on their level of detail. They could have a single number for all rolls and TN or, they could have a _defense_ stat, or, they could have a _speed_ like players.
 
 Armor removes pips from the attack after a succesful hit. 
+Armor can cancel kits at the cost of the armor.
+
+### Situations
+
+A high power character and a low power character attempt the same action?
+The high power character does not need to roll.
+
+The target of a ranged attack is prone. Attack roll is reduced by 1d.
+
+The melee attacker is prone. Attack roll is reduced by 2d.
+
+Swimming while wearing full gear. 
+Light gear:
+Heavy gear: Roll _strength_ or _speed_. Fail and lose _stamina_. 
+Rough water: 
 
 ## inbox
 https://www.reddit.com/r/RPGdesign/comments/16eaar2/what_are_the_best_mechanics_youve_seen_or_come_up/
-
-
