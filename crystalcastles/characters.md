@@ -8,6 +8,7 @@
 
 - Berserker
 
+    
 # Wormwood
 
 AKA:
@@ -19,6 +20,8 @@ A witch of the circle (of life). Casts spells and other appropriate abilities (h
 ## Stats
 
 Strength (3),_Speed (6), Smarts (5), Stamina (4), Health (4)
+
+Beauty (2)
 
 ## Special Abilities
 
