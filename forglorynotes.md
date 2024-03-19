@@ -109,3 +109,5 @@ Rough water:
 
 ## inbox
 https://www.reddit.com/r/RPGdesign/comments/16eaar2/what_are_the_best_mechanics_youve_seen_or_come_up/
+
+roll determining how much time an action takes is connected to the scene die.
