@@ -2,7 +2,7 @@
 
 Dice are the main unit of measure in the game.
 Character attributes are measured in dice and you can gain or lose dice from your attributes.
-Dice may be broken down into 6 pips.
+    Dice may be broken down into 6 pips.
 You may also gain or lose pips but it has no mechanical effect unless you gain or lose 6 pips.
 The notation '2d' indicates 2 six-sided dice.
 2p indicates 2 pips. 

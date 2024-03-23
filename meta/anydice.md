@@ -1,5 +1,5 @@
-# Anydice
-loop N over {1..12} {
+# loop
+Anydice N over {1..12} {
   output Nd{0,0,0,1,2,3} named "[N]d6"
 }
 ## Anydice old

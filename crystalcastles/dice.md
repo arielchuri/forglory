@@ -1,36 +1,50 @@
 Tables for d2, d3, and d6 are written as a list on one line if space allows. d22, d33, d62, d63, and d66 are written as tables.
 ## d2
 
-1d6 divided by 2
-
-1-3. entry one, 4-6. entry two
+| 1-3 | 1 |
+| 4-6 | 2 |
 
 ## d3
 
-1d6 divided by 3
+| 1-2 | 1 |
+| 3-4 | 2 |
+| 5-6 | 3 |
 
-1-2. entry one, 3-4. entry two, 5-6. entry three
+## d4
 
-## d22 (4)
+Roll one d2 for the tens and another for the ones.
 
-|   | 1  | 2  |
-|---|----|----|
-| 1 | 11 | 12 |
-| 2 | 21 | 22 |
+11. 1
+12. 2
+21. 3
+22. 4
+
+|   | 1 | 2 |
+|---|---|---|
+| 1 | 1 | 2 |
+| 2 | 3 | 4 |
 
 ## d6
 
-1. one, 2. two, 3. three, 4. four, 5. five, 6. six.
+## d9
 
-## d33 (9)
+11. 1
+12. 2
+13. 3
+21. 4
+22. 5
+23. 6
+31. 7
+32. 8
+33. 9
 
-|   | 1  | 2  | 3  |
-|---|----|----|----|
-| 1 | 11 | 12 | 13 |
-| 2 | 21 | 22 | 23 |
-| 3 | 31 | 32 | 33 |
+|   | 1 | 2 | 3 |
+|---|---|---|---|
+| 1 | 1 | 2 | 3 |
+| 2 | 4 | 5 | 6 |
+| 3 | 7 | 8 | 9 |
 
-## d62 (12)
+## d12
 
 |   | 1  | 2  |
 |---|----|----|
@@ -87,4 +101,41 @@ Gas trap
 ## magic
 
 
+
+## Any dice
+https://anydice.com/program/356b2
+loop N over {3..10}{
+output Nd{1,2,3,0,0,0} named "[N]d6"
+} 
+
+## Percent change of reaching target number
+
+| %  | 3d | 4d | 5d | 6d | 7d | 8d | 9d | 10d |
+| 75 | 2  | 3  | 4  | 5  | 5  | 6  | 7  | 8   |
+| 50 | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
+| 25 | 5  | 6  | 7  | 8  | 10 | 11 | 12 | 13  |
+| 10 | 6  | 8  | 9  | 10 | 12 | 13 | 14 | 15  |
+
+## Assigning target numbers
+A difficult task for an untrained individual could have a target number of 6-8.
+
+A traineunt
+tonehaunt
+d individual may receive an extra die.
+
+
+## The challenge roll
+
+Many rolls are against a specific target number but _challenge rolls_ are against the number of dice rolled.
+
+## chat
+
+I am using only 6 sided dice. the player will roll 1-10 dice. All of the dice that come up 1, 2, or 3 are added together. If the target number is not reached and, double 5s come up, it is a fumble. 3s nullify 5s. If double 6s come up, and the roll is a success, it is a crit if the 6s activate be activated by 3s. 
+
+A fumble with a single pair of 5s means you roll 1d6 on the _fumble table_.
+An additional non-nullified 5, adds +6 to the result.
+
+A pair of 6 of activated 6 works the same way.
+
+_Crit tables_ and _Fumble tables_ typically have 1-12 entries and are specific to the weapon or character.
 
