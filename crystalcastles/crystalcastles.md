@@ -22,7 +22,9 @@ The player will have a greater than 50% chance of at least getting a sum equal t
 Dice are the main unit of measure in the game.
 Character attributes are measured in dice and you can gain or lose dice from your attributes.
 Dice may be broken down into 6 pips.
-You may also gain or lose pips but it has no mechanical effect unless you gain or lose 6 pips.
+You may also gain or lose pips.
+As long as you have a single pip on your die, you may use that die for rolls.
+Lost or gained pips or dice are usually temporary.
 The notation '2d' indicates 2 six-sided dice.
 2p indicates 2 pips.
 
@@ -271,20 +273,15 @@ Explosion (6d, 15d)
 
 Gain a wound (see _Wounds_) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
-For the last roll (0hp) use the character's death table.
+If you lose two Health dice in a ingle round, roll on the _Severe Wound Table_ for the damage type suffered if it exists.
+
+For the last roll (0hp) use the _Fatal Wound Table_ for the damage type and, if the result is death, roll on the character's _Death Table_ if it exists.
 
 ### Wound Tables
 
-#### Sword Wound Table, General 
-
-18 entries
-
-### Wounds
-
 General wound tables are here. More specific tables may be associated with the adventure or weapon.
 
-- Falling or large impact.
-  Roll a d6 for each 10' of fall.
+See [wounds.md](wounds.md)
 
 ### Death Table
 
