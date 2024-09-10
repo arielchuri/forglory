@@ -18,7 +18,7 @@ The player will have a greater than 50% chance of at least getting a sum equal t
 
 </div>
 ## Dice
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 Dice are the main unit of measure in the game.
 Character attributes are measured in dice and you can gain or lose dice from your attributes.
 Dice may be broken down into 6 pips.
@@ -46,7 +46,7 @@ Usually denoting effects caused by the environment or changes to the narrative o
 
 </div>
 ## Mechanics
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 The patron describes the terrible predicament the players face as well as the environment.
 Details about the world left unsaid maybe decided by the players.
 The players decide their character's actions and, usually, the results of the actions are decided by the patron in discussion with the players.
@@ -98,9 +98,12 @@ This table shows the chance to achieve a certain amount of hits with differing a
 | 14  |        |     |     |     |     | 99  | 98  | 96  | 94  | 90  | 85  | 79  | 71  | 62  | 53  | 44  | 36  | 28  |
 
 </div>   
+
+----
+
 ## [Characters](/characters.md)
 
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 
 The most important aspects of the character are written on the character sheet and specific to the character.
 
@@ -148,7 +151,7 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 
 ## Time and Space
 
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 
 Episodes are usually completed in a single game session.
 They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
@@ -236,11 +239,11 @@ A series of checks that increment the scene die.
 
 ## Combat
 
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 
 Most melee attacks use Strength dice.
 The attacker rolls a **speed** check and counts the 1s, 2s, and 3s as normal.
-The defender rolls defense which is usually an **speed** check.
+The defender rolls defense which is usually a **speed** check.
 The defense roll is subtracted from the attack roll and the result is the number of pips removed from the target's stat. Usually health pips.
 The characters or equipment may determine extra effects.
 
@@ -269,7 +272,7 @@ Explosion (6d, 15d)
 
 ## Suffering
 
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 
 Gain a wound (see _Wounds_) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice. 
 
@@ -295,9 +298,18 @@ See [wounds.md](wounds.md)
    
 ## Gear
 
+Most gear is specific to the character and an inherent part of the character.
+Unless otherwise noted, all adventurers have some common gear.
+
+### Adventure Gear
+
+### Specialty Gear
+
+### Uncommon Gear
+
 ## Monsters
 
-<div markdown="1" class="colstwo">
+<div markdown="1" class="colstmo">
 
 Monsters in **For Glory** are new and strange.
 
@@ -313,15 +325,18 @@ Beastman Chief (6d, Health 8d, Armor 2d) - Their chief is strong, smart, sturdy,
 
 Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can attack with _smarts_ to remove a player's _smart_ pips.
 
-A more important monster can have a lot detail.
 
 - Name
+- Description
 - Dice ( the number of dice used for rolls not specified elsewhere in the character )
+- Dice for specific stats
 - Weapon/Attack
-- Weapon table
-- Crit table
-- Fight scene die
-- Wound table
+- Wound table - A table of wounds inflicted on their target.
+- Death table - A table for severe wounds inflicted on their target.
+- Death throw - What happens when the monster dies.
+- Scene die - How the monster changes as the scene progresses.
+- Health table - How the monster changes as it loses health.
+- Special abilities - Skills, powers, magic.
 
 </div>
 
