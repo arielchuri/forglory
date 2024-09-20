@@ -1,0 +1,54 @@
+from markdown import markdown
+import os
+import glob
+
+# Define the options as per the command
+extensions = ['tables', 'attr_list', 'md_in_html', 'def_list', 'toc', 'smarty']
+
+def convert_markdown_to_html(content):
+    return markdown(content, extensions=extensions)
+
+# Read file paths or patterns from file_list.txt
+file_patterns = []
+with open('file_list.txt', 'r') as file:
+    file_patterns = file.read().splitlines()
+
+concatenated_content = ''
+for pattern in file_patterns:
+    # Use glob to expand wildcards in the pattern
+    file_paths = glob.glob(pattern)
+    for file_path in file_paths:
+        with open(file_path, 'r') as file:
+            concatenated_content += file.read() + '\n'
+
+# Convert concatenated content to HTML with the specified options
+html_output = convert_markdown_to_html(concatenated_content)
+
+# Read the CSS file
+css_content = ''
+with open('output/styles.css', 'r') as css_file:
+    css_content = css_file.read()
+
+# Specify the output directory
+output_directory = 'output'
+
+# Create the output directory if it does not exist
+os.makedirs(output_directory, exist_ok=True)
+
+# Define the path for the output HTML file in the output directory
+output_file_path = os.path.join(output_directory, 'output.html')
+
+# Write the HTML output with CSS to the output file in the output directory
+with open(output_file_path, 'w') as output_file:
+    output_file.write(f'''
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markdown to HTML</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+{html_output}
+</body>
+</html>
+''')

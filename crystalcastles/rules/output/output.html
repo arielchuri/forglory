@@ -1,0 +1,1230 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markdown to HTML</title>
+    <style>*, ::before, ::after {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+  --tw-contain-size:  ;
+  --tw-contain-layout:  ;
+  --tw-contain-paint:  ;
+  --tw-contain-style:  ;
+}
+
+::backdrop {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-pan-x:  ;
+  --tw-pan-y:  ;
+  --tw-pinch-zoom:  ;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
+  --tw-ordinal:  ;
+  --tw-slashed-zero:  ;
+  --tw-numeric-figure:  ;
+  --tw-numeric-spacing:  ;
+  --tw-numeric-fraction:  ;
+  --tw-ring-inset:  ;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+  --tw-blur:  ;
+  --tw-brightness:  ;
+  --tw-contrast:  ;
+  --tw-grayscale:  ;
+  --tw-hue-rotate:  ;
+  --tw-invert:  ;
+  --tw-saturate:  ;
+  --tw-sepia:  ;
+  --tw-drop-shadow:  ;
+  --tw-backdrop-blur:  ;
+  --tw-backdrop-brightness:  ;
+  --tw-backdrop-contrast:  ;
+  --tw-backdrop-grayscale:  ;
+  --tw-backdrop-hue-rotate:  ;
+  --tw-backdrop-invert:  ;
+  --tw-backdrop-opacity:  ;
+  --tw-backdrop-saturate:  ;
+  --tw-backdrop-sepia:  ;
+  --tw-contain-size:  ;
+  --tw-contain-layout:  ;
+  --tw-contain-paint:  ;
+  --tw-contain-style:  ;
+}
+
+/*
+! tailwindcss v3.4.12 | MIT License | https://tailwindcss.com
+*/
+
+/*
+1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
+2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
+*/
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  /* 1 */
+  border-width: 0;
+  /* 2 */
+  border-style: solid;
+  /* 2 */
+  border-color: #e5e7eb;
+  /* 2 */
+}
+
+::before,
+::after {
+  --tw-content: '';
+}
+
+/*
+1. Use a consistent sensible line-height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+3. Use a more readable tab size.
+4. Use the user's configured `sans` font-family by default.
+5. Use the user's configured `sans` font-feature-settings by default.
+6. Use the user's configured `sans` font-variation-settings by default.
+7. Disable tap highlights on iOS
+*/
+
+html,
+:host {
+  line-height: 1.5;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+  -moz-tab-size: 4;
+  /* 3 */
+  -o-tab-size: 4;
+     tab-size: 4;
+  /* 3 */
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  /* 4 */
+  font-feature-settings: normal;
+  /* 5 */
+  font-variation-settings: normal;
+  /* 6 */
+  -webkit-tap-highlight-color: transparent;
+  /* 7 */
+}
+
+/*
+1. Remove the margin in all browsers.
+2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
+*/
+
+body {
+  margin: 0;
+  /* 1 */
+  line-height: inherit;
+  /* 2 */
+}
+
+/*
+1. Add the correct height in Firefox.
+2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)
+3. Ensure horizontal rules are visible by default.
+*/
+
+hr {
+  height: 0;
+  /* 1 */
+  color: inherit;
+  /* 2 */
+  border-top-width: 1px;
+  /* 3 */
+}
+
+/*
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/
+
+abbr:where([title]) {
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+}
+
+/*
+Remove the default font size and weight for headings.
+*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+/*
+Reset links to optimize for opt-in styling instead of opt-out.
+*/
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+/*
+Add the correct font weight in Edge and Safari.
+*/
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+/*
+1. Use the user's configured `mono` font-family by default.
+2. Use the user's configured `mono` font-feature-settings by default.
+3. Use the user's configured `mono` font-variation-settings by default.
+4. Correct the odd `em` font sizing in all browsers.
+*/
+
+code,
+kbd,
+samp,
+pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  /* 1 */
+  font-feature-settings: normal;
+  /* 2 */
+  font-variation-settings: normal;
+  /* 3 */
+  font-size: 1em;
+  /* 4 */
+}
+
+/*
+Add the correct font size in all browsers.
+*/
+
+small {
+  font-size: 80%;
+}
+
+/*
+Prevent `sub` and `sup` elements from affecting the line height in all browsers.
+*/
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+sup {
+  top: -0.5em;
+}
+
+/*
+1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)
+2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)
+3. Remove gaps between table borders by default.
+*/
+
+table {
+  text-indent: 0;
+  /* 1 */
+  border-color: inherit;
+  /* 2 */
+  border-collapse: collapse;
+  /* 3 */
+}
+
+/*
+1. Change the font styles in all browsers.
+2. Remove the margin in Firefox and Safari.
+3. Remove default padding in all browsers.
+*/
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-feature-settings: inherit;
+  /* 1 */
+  font-variation-settings: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  font-weight: inherit;
+  /* 1 */
+  line-height: inherit;
+  /* 1 */
+  letter-spacing: inherit;
+  /* 1 */
+  color: inherit;
+  /* 1 */
+  margin: 0;
+  /* 2 */
+  padding: 0;
+  /* 3 */
+}
+
+/*
+Remove the inheritance of text transform in Edge and Firefox.
+*/
+
+button,
+select {
+  text-transform: none;
+}
+
+/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Remove default button styles.
+*/
+
+button,
+input:where([type='button']),
+input:where([type='reset']),
+input:where([type='submit']) {
+  -webkit-appearance: button;
+  /* 1 */
+  background-color: transparent;
+  /* 2 */
+  background-image: none;
+  /* 2 */
+}
+
+/*
+Use the modern Firefox focus style for all focusable elements.
+*/
+
+:-moz-focusring {
+  outline: auto;
+}
+
+/*
+Remove the additional `:invalid` styles in Firefox. (https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)
+*/
+
+:-moz-ui-invalid {
+  box-shadow: none;
+}
+
+/*
+Add the correct vertical alignment in Chrome and Firefox.
+*/
+
+progress {
+  vertical-align: baseline;
+}
+
+/*
+Correct the cursor style of increment and decrement buttons in Safari.
+*/
+
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  height: auto;
+}
+
+/*
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/
+
+[type='search'] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  outline-offset: -2px;
+  /* 2 */
+}
+
+/*
+Remove the inner padding in Chrome and Safari on macOS.
+*/
+
+::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/*
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to `inherit` in Safari.
+*/
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+}
+
+/*
+Add the correct display in Chrome and Safari.
+*/
+
+summary {
+  display: list-item;
+}
+
+/*
+Removes the default spacing and border for appropriate elements.
+*/
+
+blockquote,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  margin: 0;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+}
+
+legend {
+  padding: 0;
+}
+
+ol,
+ul,
+menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+Reset default styling for dialogs.
+*/
+
+dialog {
+  padding: 0;
+}
+
+/*
+Prevent resizing textareas horizontally by default.
+*/
+
+textarea {
+  resize: vertical;
+}
+
+/*
+1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)
+2. Set the default placeholder color to the user's configured gray 400 color.
+*/
+
+input::-moz-placeholder, textarea::-moz-placeholder {
+  opacity: 1;
+  /* 1 */
+  color: #9ca3af;
+  /* 2 */
+}
+
+input::placeholder,
+textarea::placeholder {
+  opacity: 1;
+  /* 1 */
+  color: #9ca3af;
+  /* 2 */
+}
+
+/*
+Set the default cursor for buttons.
+*/
+
+button,
+[role="button"] {
+  cursor: pointer;
+}
+
+/*
+Make sure disabled buttons don't get the pointer cursor.
+*/
+
+:disabled {
+  cursor: default;
+}
+
+/*
+1. Make replaced elements `display: block` by default. (https://github.com/mozdevs/cssremedy/issues/14)
+2. Add `vertical-align: middle` to align replaced elements more sensibly by default. (https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)
+   This can trigger a poorly considered lint error in some tools but is included by design.
+*/
+
+img,
+svg,
+video,
+canvas,
+audio,
+iframe,
+embed,
+object {
+  display: block;
+  /* 1 */
+  vertical-align: middle;
+  /* 2 */
+}
+
+/*
+Constrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)
+*/
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Make elements with the HTML hidden attribute stay hidden by default */
+
+[hidden] {
+  display: none;
+}
+
+.container {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.table {
+  display: table;
+}
+
+.contents {
+  display: contents;
+}
+
+.bg-indigo-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(99 102 241 / var(--tw-bg-opacity));
+}
+</style>
+</head>
+<body>
+<div class="container m-auto bg-indigo-500">
+<h1 id="for-glory-crystal-castles">For Glory - Crystal Castles</h1>
+<p>title.md
+contents.md
+introduction.md
+dice.md
+mechanics.md
+characters.md
+combat.md
+suffering.md
+timeandspace.md
+gear.md
+magic.md
+monsters.md
+patron.md
+notes.md</p>
+<h2 id="introduction">Introduction</h2>
+<p>Pierce your nipples.
+This game was created to allow players to make <strong>zombie ninjas</strong>, <strong>axe witches</strong>, <strong>necrodroids</strong> or whatever craziness they can think of.
+This game is not intended to have a predetermined story arc.
+Rather, the patron creates a world with non-player characters that have their own goals.
+The patron can be riffing on the players actions and using random tables to create emergent stories.
+Written below are the rules to the game. The characters, monsters, treasures, weapons, and locations of the game will often break these rules.
+This game simulates a piece of fiction rather than reality.
+In this story a bow and arrow may be a better weapon than a gun.</p>
+<p>Characters attributes are measured in the number of dice they roll.
+If your character has a <em>strength</em> of 3, they roll 3 dice. The sum of all the dice whose face shows a 1, a 2, or a 3 determines the amount rolled.
+The player will have a greater than 50% chance of at least getting a sum equal to the amount of dice rolled.</p>
+<h2 id="dice">Dice</h2>
+<p>Dice are the main unit of measure in the game.
+Character attributes are measured in dice and you can gain or lose dice from your attributes.
+Dice may be broken down into 6 pips.
+You may also gain or lose pips.
+As long as you have a single pip on your die, you may use that die for rolls.
+Lost or gained pips or dice are usually temporary.
+The notation &lsquo;2d&rsquo; indicates 2 six-sided dice.
+2p indicates 2 pips.</p>
+<p>A character may have a <em>Power</em> of 3d.
+The number of <em>hits</em> is the sum of all the dice that come up 1, 2, or 3.
+Each <em>hit</em> on that roll will remove a 1 pip (1hp) of health from the target.</p>
+<p>The numbers 4, 5, 6 are not counted. We call them square, cross, and lines and they have other meanings depending on the context.</p>
+<h3 id="square-cross-and-lines">Square, Cross, and Lines</h3>
+<p>You may also pair any 3s with <em>lines</em> (6) to get bonus effects.
+Some are generic effects based on the action.
+Some are effects based on your weapon.</p>
+<p>Pairs of <em>crosses</em> (5) cause negative effects.
+Pairs of <em>squares</em> (4) may also have effects that may be neutral.
+Usually denoting effects caused by the environment or changes to the narrative or the attitudes of the NPCs.</p>
+<h2 id="mechanics">Mechanics</h2>
+<p>The patron describes the terrible predicament the players face as well as the environment.
+Details about the world left unsaid maybe decided by the players.
+The players decide their character&rsquo;s actions and, usually, the results of the actions are decided by the patron in discussion with the players.</p>
+<p>Some actions are more dramatic and require the player to roll.
+The player will describe the action their character will take.
+The patron will tell the player which of their character&rsquo;s attributes should be used and wether it is an <em>instant</em> or <em>cumulative</em> challenge.
+The patron may also impart information about how difficult the challenge is depending on how much information the character could glean.</p>
+<p><em>Instant challenges,</em> such as leaping over a chasm, require the player to make a single roll.
+<em>Cumulative challenges,</em> such as hacking through a door, allow the player to make multiple rolls.
+Each roll takes time and removes the rolled number of hinderance points from the obstacle or target.</p>
+<p>The player will roll the dice for their attibute plus any additional dice they can muster and take the sum of all the 1s, 2s, and 3s in their roll.</p>
+<p>The player may add any of their Stamina or style dice to any roll. Those dice cannot be used again until they have been recovered.</p>
+<h3 id="ways-to-roll-your-dice">Ways to roll your dice</h3>
+<ul>
+<li>1d - Roll 1 die. The sum of all the dice that come up with a 1, 2, or 3.</li>
+<li>d2 - d6/2</li>
+<li>d3 - d6/3</li>
+<li>d22 - d2 * d2</li>
+<li>d6 - d6</li>
+</ul>
+<h3 id="chance-of-success-table">Chance of success table</h3>
+<p>This table shows the chance to achieve a certain amount of hits with differing amounts of dice.</p>
+<table>
+<thead>
+<tr>
+<th>Nd6</th>
+<th>0 hits</th>
+<th>1+</th>
+<th>2+</th>
+<th>3+</th>
+<th>4+</th>
+<th>5+</th>
+<th>6+</th>
+<th>7+</th>
+<th>8+</th>
+<th>9+</th>
+<th>10+</th>
+<th>11+</th>
+<th>12+</th>
+<th>13+</th>
+<th>14+</th>
+<th>15+</th>
+<th>16+</th>
+<th>17+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>50</td>
+<td>50</td>
+<td>33</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>25</td>
+<td>75</td>
+<td>58</td>
+<td>39</td>
+<td>17</td>
+<td>8</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>12</td>
+<td>87</td>
+<td>75</td>
+<td>58</td>
+<td>37</td>
+<td>23</td>
+<td>12</td>
+<td>4</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>6</td>
+<td>94</td>
+<td>85</td>
+<td>73</td>
+<td>55</td>
+<td>40</td>
+<td>26</td>
+<td>14</td>
+<td>8</td>
+<td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>3</td>
+<td>97</td>
+<td>92</td>
+<td>83</td>
+<td>70</td>
+<td>56</td>
+<td>41</td>
+<td>27</td>
+<td>17</td>
+<td>10</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>2</td>
+<td>99</td>
+<td>95</td>
+<td>90</td>
+<td>80</td>
+<td>69</td>
+<td>55</td>
+<td>41</td>
+<td>29</td>
+<td>19</td>
+<td>11</td>
+<td>6</td>
+<td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>1</td>
+<td>99</td>
+<td>97</td>
+<td>94</td>
+<td>87</td>
+<td>78</td>
+<td>67</td>
+<td>54</td>
+<td>42</td>
+<td>30</td>
+<td>21</td>
+<td>13</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>96</td>
+<td>92</td>
+<td>86</td>
+<td>77</td>
+<td>66</td>
+<td>55</td>
+<td>43</td>
+<td>32</td>
+<td>22</td>
+<td>15</td>
+<td>9</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>98</td>
+<td>95</td>
+<td>91</td>
+<td>84</td>
+<td>75</td>
+<td>65</td>
+<td>54</td>
+<td>43</td>
+<td>32</td>
+<td>23</td>
+<td>16</td>
+<td>10</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>97</td>
+<td>94</td>
+<td>89</td>
+<td>83</td>
+<td>74</td>
+<td>65</td>
+<td>54</td>
+<td>43</td>
+<td>33</td>
+<td>24</td>
+<td>17</td>
+<td>11</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>98</td>
+<td>96</td>
+<td>93</td>
+<td>88</td>
+<td>82</td>
+<td>73</td>
+<td>64</td>
+<td>54</td>
+<td>44</td>
+<td>34</td>
+<td>25</td>
+<td>18</td>
+<td>12</td>
+<td>8</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>98</td>
+<td>95</td>
+<td>92</td>
+<td>87</td>
+<td>80</td>
+<td>72</td>
+<td>63</td>
+<td>54</td>
+<td>44</td>
+<td>35</td>
+<td>26</td>
+<td>19</td>
+<td>13</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>99</td>
+<td>97</td>
+<td>95</td>
+<td>91</td>
+<td>86</td>
+<td>79</td>
+<td>72</td>
+<td>63</td>
+<td>54</td>
+<td>44</td>
+<td>35</td>
+<td>27</td>
+<td>20</td>
+</tr>
+<tr>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>99</td>
+<td>98</td>
+<td>96</td>
+<td>94</td>
+<td>90</td>
+<td>85</td>
+<td>79</td>
+<td>71</td>
+<td>62</td>
+<td>53</td>
+<td>44</td>
+<td>36</td>
+<td>28</td>
+</tr>
+</tbody>
+</table>
+<h2 id="characters">Characters</h2>
+<p>The most important aspects of the character are written on the character sheet and specific to the character.</p>
+<h3 id="stats">Stats</h3>
+<p>Stats represent your character&rsquo;s inate attributes.</p>
+<h4 id="strength-dice">Strength Dice</h4>
+<p>Used for most melee and ranged attacks as well as lifting, pushing, breaking, and sometimes climbing.</p>
+<h4 id="speed-dice">Speed Dice</h4>
+<p>Used for Defense Points, running, jumping, sneaking, hiding, sneak attacks, dodging, swinging, gymnastics.</p>
+<h4 id="smart-dice">Smart Dice</h4>
+<p>Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells, clues, psychic abilities, languages, codes, history.</p>
+<h4 id="stamina-dice">Stamina Dice</h4>
+<p>Stamina, fatigue, carrying, breath holding.
+Stamina dice maybe added to anyother roll but are not recovered until after a short rest.</p>
+<h4 id="health-dice">Health Dice</h4>
+<p>Health Points, disease resistance, poison resistance.
+Health pips and dice are removed as the character takes damage.
+A single health die is recovered upon a nights rest.</p>
+<h3 id="dooms">Dooms</h3>
+<p>Every great hero has flaws. Every time you use you doom to effect the story, the patron may award you with a die to add to any roll.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Phobia</td>
+<td>OCD</td>
+<td>klepto</td>
+<td>obsession</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Cursed</td>
+<td>Unlucky</td>
+<td>Vain</td>
+<td>Foolhardy</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Bad tempered</td>
+<td>Lazy</td>
+<td>Slovenly</td>
+<td>Perfectionist</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Gambles</td>
+<td>Addictive personality</td>
+<td>Has to be right</td>
+<td>Fool for love</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Paranoid</td>
+<td>Tardy</td>
+<td>Rose-colored glasses</td>
+<td>Unprepared</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Death wish</td>
+<td>Ill mannered</td>
+<td>Pessimist</td>
+<td>Financially irresponsible</td>
+</tr>
+</tbody>
+</table>
+<h2 id="combat">Combat</h2>
+<p>Most melee attacks use Strength dice.
+The attacker rolls a <strong>speed</strong> check and counts the 1s, 2s, and 3s as normal.
+The defender rolls defense which is usually a <strong>speed</strong> check.
+The defense roll is subtracted from the attack roll and the result is the number of pips removed from the target&rsquo;s stat. Usually health pips.
+The characters or equipment may determine extra effects.</p>
+<h3 id="common-action">Common Action</h3>
+<p>In combat and otherwise, it is the players that determine the actions of their characters.
+It is the job of the patron to determine how the player&rsquo;s choices are expressed mechanically.</p>
+<ul>
+<li>Evade: add to <strong>smart</strong> to defense roll until next turn</li>
+<li>Focus: add you <strong>smart</strong> dice to a roll until your next turn&rsquo;s action.</li>
+<li>Disengage: Roll <strong>strength</strong> or <strong>speed</strong> to put distance between you and your opponent.</li>
+<li>Shield: Roll attack but some dice are not subtracted from the target&rsquo;s defense roll and are instead added to a compatriot&rsquo;s defense roll.</li>
+</ul>
+<p>https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/</p>
+<p>https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_blog_post/</p>
+<h3 id="area-of-effect">Area of Effect</h3>
+<p>Area damage is listed as the total dice of damage done and the maximum damage on a single target. The maximum damage is for a &lsquo;normal&rsquo; sized target and may be changed for a different size target.
+Area damage effects one target first and any additional dice, are rolled over to the next target until the effects maximum damage is used up.</p>
+<p>Explosion (6d, 15d)</p>
+<h2 id="suffering">Suffering</h2>
+<p>Gain a wound (see <em>Wounds</em>) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice.</p>
+<p>If you lose two Health dice in a ingle round, roll on the <em>Severe Wound Table</em> for the damage type suffered if it exists.</p>
+<p>For the last roll (0hp) use the <em>Fatal Wound Table</em> for the damage type and, if the result is death, roll on the character&rsquo;s <em>Death Table</em> if it exists.</p>
+<h3 id="wound-tables">Wound Tables</h3>
+<p>General wound tables are here. More specific tables may be associated with the adventure or weapon.</p>
+<p>See <a href="wounds.md">wounds.md</a></p>
+<h3 id="death-table">Death Table</h3>
+<h4 id="character-death-table-general">Character Death Table, General</h4>
+<ol>
+<li>From wounded to marked. The character will not be coming back to any further sessions. How that plays out is up to the player. They could die right now, go out in a blaze of glory (+3d), or retire after this episode.</li>
+<li>Bleeding out. Death in 30 minutes unless healed. All rolls reduced to 1d.</li>
+<li>Mortally wounded. Unconcious until death in 1 day unless healed.</li>
+</ol>
+<h2 id="time-and-space">Time and Space</h2>
+<p>Episodes are usually completed in a single game session.
+They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
+Episodes are made up of scenes which usually take place at different locations.</p>
+<p>Most scenes are a series of player turns which could be the individual cuts of a film.
+The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.</p>
+<p>After everyone involved with a scene has taken a turn (action), one round is completed and a new round begins.</p>
+<h3 id="the-scene-die">The Scene Die</h3>
+<p>While no a requirement, a die can be used to track the timing of a scene.
+The scene die is set to one for the first round and incremented each round.
+The effects of the scene die are determined by the patron and the scene.
+The effects may be generic to the scene or, the scene may have a table associated with the <em>scene die</em>.
+The events that take place in the scene may effect the scene die up or down.</p>
+<h3 id="scenes">Scenes</h3>
+<p>Standard scenes.
+The party maybe talking among themselves, or to non-player characters.
+They may be interacting with or examining the environment.
+The amount of time taken and the turn order, is usualy of little consequence.
+Fight scenes
+Players take turns according the the <em>combat</em> rules.
+Chase scenes
+Players take turns according to the <em>chase</em> rules.
+Dramatic scenes
+These scenes are usually time sensitive and with a dire consequence.
+Examples include, picking a lock as the guards approach or diffusing a time bomb.
+Cut scenes are described to the party by the patron.
+They serve to fill in the story for the party.
+Many scenes may end with a cut scene.
+Montage scene</p>
+<p>An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below.</p>
+<h4 id="chase-scenes">Chase Scenes</h4>
+<p>The participants in a <em>chase scene</em> are divided into as few groups as possible.
+Usually, hunters and quarry.
+Characters fight and make ability checks as they move down a line of discrete locations.
+Use a line of points to keep track of where the characters are along the course.
+For Glory settings and adventures have location tables.</p>
+<p>The folloming is an example of a chase scene taking place in an urban environment.</p>
+<p><strong>Round 1</strong> The hunters (3d) and the quarry (the players) spot each other accross the crowded town market.
+The scene die is set to one.</p>
+<p>The patron describes the market and players toss a cart of produce to delay the hunters.
+The patron decides that the hunters must hit a target of 4 to avoid slipping on the produce.
+They fail and the party runs down a street.</p>
+<p><strong>Round 2</strong> The patron rolls an alley way on a location table. The party chooses to go down the alley. The patron rolls again and tells them that the alley way is a dead end. The party is delayed but the patron rolls <em>smarts</em> for the hunters and they pass the alley way.</p>
+<h4 id="fight-scenes">Fight Scenes</h4>
+<p>Combatants roll <strong>speed</strong> to determine the order of play.</p>
+<p>Every one is asked if they want to execute the following actions. In this way, everyone who wants to talk goes before everyone who wants to run.</p>
+<ol>
+<li>Talk</li>
+<li>Run</li>
+<li>Other</li>
+<li>Spells</li>
+</ol>
+<h5 id="the-fight-scene-die">The Fight Scene Die</h5>
+<p>The following are some examples of a <em>scene die</em> for a fight scene.</p>
+<ol>
+<li>Add the number on the die to every roll.</li>
+<li>Add the number on the die to every monster roll.</li>
+<li>More monsters arrive when the scene die reaches a target number.</li>
+<li>The monster runs away when the scene die reaches a target number.</li>
+<li>(1) A fire starts, (2) Smoke (-1d ranged attacks, -1d <em>stamina</em>), (3) Heat (-2hp), 4.</li>
+</ol>
+<h4 id="dramatic-scenes">Dramatic Scenes</h4>
+<p>Tasks with a time constraint or a dramatic consequence may use a scene die with appropriate results.
+A series of checks that increment the scene die.</p>
+<h2 id="gear">Gear</h2>
+<p>Most gear is specific to the character and an inherent part of the character.
+Unless otherwise noted, all adventurers have some common gear.</p>
+<h3 id="adventure-gear">Adventure Gear</h3>
+<h3 id="specialty-gear">Specialty Gear</h3>
+<h3 id="uncommon-gear">Uncommon Gear</h3>
+<h2 id="magic">Magic</h2>
+<h3 id="spells">Spells</h3>
+<h4 id="template">Template</h4>
+<p>Like other templates, not all entries are required.</p>
+<ul>
+<li>Name</li>
+<li>Description/cost/mechanics</li>
+<li>Effect Table</li>
+<li>Side Effects</li>
+<li>Corruption Table</li>
+</ul>
+<h2 id="monsters">Monsters</h2>
+<p>Monsters in <strong>For Glory</strong> are new and strange.</p>
+<p>Monsters and NPCs in <strong>For Glory</strong> can have of levels of detail.
+A simple foe may be described by only one number. This is the number of dice it will use for nearly any purpose unless the patron chooses otherwise.
+Another monster may have a die listed for most rolls and others listed specifically.</p>
+<p>Thug (3d) - This describes a common thug that attacks with 3 dice.</p>
+<p>Beastman (5d, smart 1d) - A beastman is strong but dumb.</p>
+<p>Beastman Chief (6d, Health 8d, Armor 2d) - Their chief is strong, smart, sturdy, and armored.</p>
+<p>Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can attack with <em>smarts</em> to remove a player&rsquo;s <em>smart</em> pips.</p>
+<ul>
+<li>Name</li>
+<li>Description</li>
+<li>Dice ( the number of dice used for rolls not specified elsewhere in the character )</li>
+<li>Dice for specific stats</li>
+<li>Weapon/Attack</li>
+<li>Wound table - A table of wounds inflicted on their target.</li>
+<li>Death table - A table for severe wounds inflicted on their target.</li>
+<li>Death throw - What happens when the monster dies.</li>
+<li>Scene die - How the monster changes as the scene progresses.</li>
+<li>Health table - How the monster changes as it loses health.</li>
+<li>Special abilities - Skills, powers, magic.</li>
+</ul>
+<h2 id="the-patron">The Patron</h2>
+<p>The patron is a character and gets their own sheet.</p>
+<ul>
+<li>Name</li>
+<li>Visage</li>
+<li>Description</li>
+<li>Ways of communicating</li>
+<li>Invoke Patron table</li>
+</ul>
+</div>
+</body>
+</html>
