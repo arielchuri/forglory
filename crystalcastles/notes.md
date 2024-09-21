@@ -1,3 +1,9 @@
+# Combat - Contested rolls
+
+Attacker and defender roll against
+
+
+# dice
 Tables for d2, d3, and d6 are written as a list on one line if space allows. d22, d33, d62, d63, and d66 are written as tables.
 ## d2
 
