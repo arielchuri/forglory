@@ -277,3 +277,12 @@ Strength (_),_Speed (_), Smarts (_), Stamina (_), Health (_)
 ### Other Tables
 
 #### Corruption table
+
+# Quick wounds table
+
+A table for when you do not want to look up the more specific table. 
+It could more abstract ideas that allow for improv.
+
+# Character development
+
+Many abilities, changes to abilities, or tables on a character sheet are not available until a certain stat or stats has gained a die or more. Pips are earned through fulfilling quests.

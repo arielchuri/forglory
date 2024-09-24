@@ -1,15 +1,20 @@
 ## Combat
 
-Most melee attacks use Strength dice.
-The attacker rolls a **speed** check and counts the 1s, 2s, and 3s as normal.
-The defender rolls defense which is usually a **speed** check.
-The defense roll is subtracted from the attack roll and the result is the number of pips removed from the target's stat. Usually health pips.
-The characters or equipment may determine extra effects.
+Most melee attacks use **Strength** dice.
+The attacker rolls **Strength** and counts the 1s, 2s, and 3s as normal.
+The total is reduced by 1pip for each die of **Armor** the defender has. Armor is not reduced.
+The final amount is subtracted from the defender's **Health**.
+
+If a die of health is removed, the defender must roll on the **Wound** table for that weapon.
+If two dice are removed or, they are reduced to a single health die, the defender must roll on the **Heavy Wound** table for that weapon, if it exists.
+
+Defending player characters, and some NPCs, have the option to spend a **Stamina** die in order to allow an evasion roll.
+In this case, the defender would roll their **Speed** and subtract the roll from the damage.
+
+The weapon way have many additional effects based on the wounds given and rolling 5s or 6s.
 
 ### Common Action
 
-In combat and otherwise, it is the players that determine the actions of their characters.
-It is the job of the patron to determine how the player's choices are expressed mechanically.
 
 - Evade: add to **smart** to defense roll until next turn
 - Focus: add you **smart** dice to a roll until your next turn's action.

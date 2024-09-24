@@ -21,7 +21,7 @@ Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells,
 #### Stamina Dice
 
 Stamina, fatigue, carrying, breath holding.
-Stamina dice maybe added to anyother roll but are not recovered until after a short rest.
+Stamina dice maybe added to any other roll but are not recovered until after a short rest.
 
 #### Health Dice
 
@@ -42,4 +42,4 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 | 5   | Paranoid     | Tardy                 | Rose-colored glasses | Unprepared                |
 | 6   | Death wish   | Ill mannered          | Pessimist            | Financially irresponsible |
 
-
+<!-- Schlemiel Schlemagle -->

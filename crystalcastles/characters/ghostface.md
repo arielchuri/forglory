@@ -18,9 +18,10 @@ Strength (2), Speed (4), Smarts (6), Stamina (3), Health (4)
 
 ## Death Roll
 1. Fade away, leaving behind a lingering echo that reveals a secret.
-2. Return to the mortal realm as a ghost for one session, incorporeal but capable of communicating.
-3. Possess a nearby living creature for a short time, creating chaos.
-4. Become trapped between realms, unable to communicate or act.
+2. Die and haunt the party for eternity. You cannot effect the physical world except under particular circumstances. Other character's abilities may allow some communication. 
+3. Possess a nearby living creature for the remainder of the session and then, pass on.
+<!-- 4. Become trapped between realms, unable to communicate or act. -->
+4. 
 5. Sacrifice oneself to save an ally, becoming a guardian spirit.
 6. Roll a wound and deal damage to an enemy with a spectral attack.
 

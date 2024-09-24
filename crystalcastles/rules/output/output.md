@@ -11,9 +11,6 @@ characters.md
 combat.md
 suffering.md
 timeandspace.md
-gear.md
-magic.md
-monsters.md
 patron.md
 notes.md
 
@@ -92,23 +89,27 @@ The player may add any of their Stamina or style dice to any roll. Those dice ca
 
 This table shows the chance to achieve a certain amount of hits with differing amounts of dice.
 
-| Nd6 | 0 hits | 1+  | 2+  | 3+  | 4+  | 5+  | 6+  | 7+  | 8+  | 9+  | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
-| --- | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nd6 | 0   | 1+  | 2+  | 3+  | 4+  | 5+  | 6+  | 7+  | 8+  | 9+  | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3   | 12  | 87  | 75  | 58  | 37  | 23  | 12  | 4   | 2   |     |     |     |     |     |     |     |     |     |
+| 4   | 6   | 94  | 85  | 73  | 55  | 40  | 26  | 14  | 8   | 3   | 1   |     |     |     |     |     |     |     |
+| 5   | 3   | 97  | 92  | 83  | 70  | 56  | 41  | 27  | 17  | 10  | 5   | 2   | 1   |     |     |     |     |     |
+| 6   | 2   | 99  | 95  | 90  | 80  | 69  | 55  | 41  | 29  | 19  | 11  | 6   | 3   | 1   |     |     |     |     |
+| 7   | 1   | 99  | 97  | 94  | 87  | 78  | 67  | 54  | 42  | 30  | 21  | 13  | 8   | 4   | 2   | 1   |     |     |
+| 8   |     |     | 99  | 96  | 92  | 86  | 77  | 66  | 55  | 43  | 32  | 22  | 15  | 9   | 5   | 3   | 1   | 1   |
+| 9   |     |     | 99  | 98  | 95  | 91  | 84  | 75  | 65  | 54  | 43  | 32  | 23  | 16  | 10  | 6   | 4   | 2   |
+
+<!--
 | 1   | 50     | 50  | 33  | 17  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 2   | 25     | 75  | 58  | 39  | 17  | 8   | 3   |     |     |     |     |     |     |     |     |     |     |     |
-| 3   | 12     | 87  | 75  | 58  | 37  | 23  | 12  | 4   | 2   |     |     |     |     |     |     |     |     |     |
-| 4   | 6      | 94  | 85  | 73  | 55  | 40  | 26  | 14  | 8   | 3   | 1   |     |     |     |     |     |     |     |
-| 5   | 3      | 97  | 92  | 83  | 70  | 56  | 41  | 27  | 17  | 10  | 5   | 2   | 1   |     |     |     |     |     |
-| 6   | 2      | 99  | 95  | 90  | 80  | 69  | 55  | 41  | 29  | 19  | 11  | 6   | 3   | 1   |     |     |     |     |
-| 7   | 1      | 99  | 97  | 94  | 87  | 78  | 67  | 54  | 42  | 30  | 21  | 13  | 8   | 4   | 2   | 1   |     |     |
-| 8   |        |     | 99  | 96  | 92  | 86  | 77  | 66  | 55  | 43  | 32  | 22  | 15  | 9   | 5   | 3   | 1   | 1   |
-| 9   |        |     | 99  | 98  | 95  | 91  | 84  | 75  | 65  | 54  | 43  | 32  | 23  | 16  | 10  | 6   | 4   | 2   |
+-->
+<!--
 | 10  |        |     |     | 99  | 97  | 94  | 89  | 83  | 74  | 65  | 54  | 43  | 33  | 24  | 17  | 11  | 7   | 4   |
 | 11  |        |     |     | 99  | 98  | 96  | 93  | 88  | 82  | 73  | 64  | 54  | 44  | 34  | 25  | 18  | 12  | 8   |
 | 12  |        |     |     |     | 99  | 98  | 95  | 92  | 87  | 80  | 72  | 63  | 54  | 44  | 35  | 26  | 19  | 13  |
 | 13  |        |     |     |     | 99  | 99  | 97  | 95  | 91  | 86  | 79  | 72  | 63  | 54  | 44  | 35  | 27  | 20  |
 | 14  |        |     |     |     |     | 99  | 98  | 96  | 94  | 90  | 85  | 79  | 71  | 62  | 53  | 44  | 36  | 28  |
-
+-->
 
 ## Characters
 
@@ -133,7 +134,7 @@ Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells,
 #### Stamina Dice
 
 Stamina, fatigue, carrying, breath holding.
-Stamina dice maybe added to anyother roll but are not recovered until after a short rest.
+Stamina dice maybe added to any other roll but are not recovered until after a short rest.
 
 #### Health Dice
 
@@ -154,15 +155,70 @@ Every great hero has flaws. Every time you use you doom to effect the story, the
 | 5   | Paranoid     | Tardy                 | Rose-colored glasses | Unprepared                |
 | 6   | Death wish   | Ill mannered          | Pessimist            | Financially irresponsible |
 
+<!-- Schlemiel Schlemagle -->
+
+## Time and Space
+
+Episodes are usually completed in a single game session.
+They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
+Episodes are made up of scenes which usually take place at different locations.
+
+Most scenes are a series of player turns which could be the individual cuts of a film.
+The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
+The action focuses on each PC on their turn. The players can take any action they wish on their turn. 
+
+After everyone involved with a scene has taken a turn (action), one round is completed and a new round begins.
+
+### The Scene Die
+
+While no a requirement, a die can be used to track the timing of a scene.
+The scene die is set to one for the first round and incremented each round.
+The effects of the scene die are determined by the patron and the scene.
+The effects may be generic to the scene or, the scene may have a table associated with the _scene die_.
+The events that take place in the scene may effect the scene die up or down.
+
+### Scenes
+
+#### Standard scenes
+
+The party maybe talking among themselves, or to non-player characters.
+They may be interacting with or examining the environment.
+The amount of time taken and the turn order, is usualy of little consequence.
+
+#### Fight scenes
+
+Players take turns according the the _combat_ rules.
+
+#### Chase scenes
+
+Players take turns according to the _chase_ rules.
+
+#### Dramatic scenes
+
+These scenes are usually time sensitive and with a dire consequence.
+Examples include, picking a lock as the guards approach or diffusing a time bomb.
+
+#### Cut scenes and montage scenes
+These are described to the party by the patron.
+They serve to fill in the story for the party.
+Many scenes may end with a cut scene.
+
+An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables. See [scenes.md](scenes.md).
 
 
 ## Combat
 
-Most melee attacks use Strength dice.
-The attacker rolls a **speed** check and counts the 1s, 2s, and 3s as normal.
-The defender rolls defense which is usually a **speed** check.
-The defense roll is subtracted from the attack roll and the result is the number of pips removed from the target's stat. Usually health pips.
-The characters or equipment may determine extra effects.
+Most melee attacks use **Strength** dice.
+The attacker rolls **Strength** and counts the 1s, 2s, and 3s as normal.
+The total is reduced by 1pip for each die of **Armor** the defender has. Armor is not reduced.
+The final amount is subtracted from the defender's **Health**.
+If the amount subtracted is between 6 and 11 pips, the defender must roll on the **Wound** table for that weapon.
+If the amount subtracted is 12 or more pips or, they are reduced to a single health die, the defender must roll on the **Heavy Wound** table for that weapon, if it exists.
+
+Defending characters, and some NPCs, have the option to spend a **Stamina** die in order to allow an evasion roll.
+In this case, the defender would roll their **Speed** and subtract the roll from the damage.
+
+The weapon way have many additional effects based on the wounds given and rolling 5s or 6s.
 
 ### Common Action
 
@@ -210,152 +266,14 @@ See [wounds.md](wounds.md)
 
 
 
-## Time and Space
-
-Episodes are usually completed in a single game session.
-They may be a complete story on their own or they may link to a larger dramatic arc taking place over an entire season of 4-8 episodes.
-Episodes are made up of scenes which usually take place at different locations.
-
-Most scenes are a series of player turns which could be the individual cuts of a film.
-The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
-
-After everyone involved with a scene has taken a turn (action), one round is completed and a new round begins.
-
-### The Scene Die
-
-While no a requirement, a die can be used to track the timing of a scene.
-The scene die is set to one for the first round and incremented each round.
-The effects of the scene die are determined by the patron and the scene.
-The effects may be generic to the scene or, the scene may have a table associated with the _scene die_.
-The events that take place in the scene may effect the scene die up or down.
-
-### Scenes
-
-Standard scenes.
-The party maybe talking among themselves, or to non-player characters.
-They may be interacting with or examining the environment.
-The amount of time taken and the turn order, is usualy of little consequence.
-Fight scenes
-Players take turns according the the _combat_ rules.
-Chase scenes
-Players take turns according to the _chase_ rules.
-Dramatic scenes
-These scenes are usually time sensitive and with a dire consequence.
-Examples include, picking a lock as the guards approach or diffusing a time bomb.
-Cut scenes are described to the party by the patron.
-They serve to fill in the story for the party.
-Many scenes may end with a cut scene.
-Montage scene
-
-An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables below.
-
-#### Chase Scenes
-
-The participants in a _chase scene_ are divided into as few groups as possible.
-Usually, hunters and quarry.
-Characters fight and make ability checks as they move down a line of discrete locations.
-Use a line of points to keep track of where the characters are along the course.
-For Glory settings and adventures have location tables.
-
-The folloming is an example of a chase scene taking place in an urban environment.
-
-**Round 1** The hunters (3d) and the quarry (the players) spot each other accross the crowded town market.
-The scene die is set to one.
-
-The patron describes the market and players toss a cart of produce to delay the hunters.
-The patron decides that the hunters must hit a target of 4 to avoid slipping on the produce.
-They fail and the party runs down a street.
-
-**Round 2** The patron rolls an alley way on a location table. The party chooses to go down the alley. The patron rolls again and tells them that the alley way is a dead end. The party is delayed but the patron rolls _smarts_ for the hunters and they pass the alley way.
-
-#### Fight Scenes
-
-Combatants roll **speed** to determine the order of play.
-
-Every one is asked if they want to execute the following actions. In this way, everyone who wants to talk goes before everyone who wants to run.
-
-1. Talk
-2. Run
-3. Other
-4. Spells
-
-##### The Fight Scene Die
-
-The following are some examples of a _scene die_ for a fight scene.
-
-1. Add the number on the die to every roll.
-1. Add the number on the die to every monster roll.
-1. More monsters arrive when the scene die reaches a target number.
-1. The monster runs away when the scene die reaches a target number.
-1. (1) A fire starts, (2) Smoke (-1d ranged attacks, -1d _stamina_), (3) Heat (-2hp), 4.
-
-#### Dramatic Scenes
-
-Tasks with a time constraint or a dramatic consequence may use a scene die with appropriate results.
-A series of checks that increment the scene die.
-
-
-
-## Gear
-
-Most gear is specific to the character and an inherent part of the character.
-Unless otherwise noted, all adventurers have some common gear.
-
-### Adventure Gear
-
-### Specialty Gear
-
-### Uncommon Gear
-
-
-## Magic
-
-### Spells
-
-#### Template
-
-Like other templates, not all entries are required.
-
-- Name
-- Description/cost/mechanics
-- Effect Table
-  - Side Effects
-- Corruption Table
-
-
-## Monsters
-
-Monsters in **For Glory** are new and strange.
-
-Monsters and NPCs in **For Glory** can have of levels of detail.
-A simple foe may be described by only one number. This is the number of dice it will use for nearly any purpose unless the patron chooses otherwise.
-Another monster may have a die listed for most rolls and others listed specifically.
-
-Thug (3d) - This describes a common thug that attacks with 3 dice.
-
-Beastman (5d, smart 1d) - A beastman is strong but dumb.
-
-Beastman Chief (6d, Health 8d, Armor 2d) - Their chief is strong, smart, sturdy, and armored.
-
-Brain Dog: 3d, Smart 5d, Brain Scan (smart, smart damage) - The Brain Dog can attack with _smarts_ to remove a player's _smart_ pips.
-
-- Name
-- Description
-- Dice ( the number of dice used for rolls not specified elsewhere in the character )
-- Dice for specific stats
-- Weapon/Attack
-- Wound table - A table of wounds inflicted on their target.
-- Death table - A table for severe wounds inflicted on their target.
-- Death throw - What happens when the monster dies.
-- Scene die - How the monster changes as the scene progresses.
-- Health table - How the monster changes as it loses health.
-- Special abilities - Skills, powers, magic.
-
-
-
 ## The Patron
 
 The patron is a character and gets their own sheet.
+The could be wizard of such immense power they pull the strings of the universe.
+You play the role of the patron.
+
+How do the players meet the patron? What role do the PCs take in the patrons machinations?
+How can they call upon the patron?
 
 - Name
 - Visage
