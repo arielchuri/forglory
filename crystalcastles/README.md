@@ -4,4 +4,4 @@ Working in the rules folder currently.
 
 npx tailwindcss -i ./input.css -o ../output/styles.css --watch # run in the source folder
 
-Running _python build/markdown_to_python.py_ takes the files listed in _file_list.txt_ and outputs them to _output/output.html_.
+Running _python build/mdTomd.py_ takes the files listed in _file_list.txt_ and outputs them to _output/output.html_.

@@ -20,29 +20,30 @@ The events that take place in the scene may effect the scene die up or down.
 
 ### Scenes
 
-#### Standard scenes
+Each episode is a series of scenes.
+The type of scene is either the patrons choice or a result of the player's choices.
+The story may open with a narration describing the world as known by the PCs.
 
-The party maybe talking among themselves, or to non-player characters.
-They may be interacting with or examining the environment.
-The amount of time taken and the turn order, is usualy of little consequence.
+ A scene could have a table associated with it in order to make it easier to present the scene to the players. There are some general tables here, [Scene tables](scenetables.html), or there may be specific tables for the scene.
 
-#### Fight scenes
-
-Players take turns according the the _combat_ rules. See [Combat](#combat) for some common actions the players could undertake.
-
-#### Chase scenes
-
-Players take turns according to the _chase_ rules.
-
-#### Dramatic scenes
-
-These scenes are usually time sensitive and with a dire consequence.
-Examples include, picking a lock as the guards approach or diffusing a time bomb.
-
-#### Cut scenes and montage scenes
-These are described to the party by the patron.
-They serve to fill in the story for the party.
-Many scenes may end with a cut scene.
-
-An adventure written for For Glory RPG may have a table of events that may happen in a scene or add to the generic tables. See [scenes.md](scenes.md).
+1. **Chase Scene** – Intense pursuit, on foot, horseback, or vehicles. The results of chase scenes are determined by the [chase rules](#chase rules).
+2. **Fight Scene** – Fight scenes are determined according to the [Combat ures](#combat).
+3. **Travel Montage** – A quick sequence summarizing long-distance travel or journey.
+4. **Negotiation/Diplomacy Scene** – Characters must talk their way through a tense situation or broker a deal.
+5. **Heist/Infiltration Scene** – Stealth, planning, and execution of a robbery or infiltration mission.
+6. **Escape Scene** – Fleeing from a dangerous situation, possibly under pressure or with time constraints.
+7. **Rescue Scene** – The characters need to free a captive or retrieve something valuable.
+8. **Puzzle/Trap Scene** – A moment where characters must solve a riddle or overcome an environmental obstacle. Often with a time constraint.
+9. **Social Encounter** – A moment of intrigue, charm, or manipulation in a social setting, like a party or court.
+10. **Discovery Scene** – Uncovering an important secret, artifact, or clue, often with a sense of mystery.
+11. **Training/Practice Montage** – Characters hone their skills or prepare for an upcoming challenge.
+12. **Ritual or Ceremony** – A mystical or cultural event where something significant happens, like gaining powers or alliances.
+13. **Survival Scene** – The group must face harsh conditions, find food, or navigate treacherous environments.
+14. **Ambush** – The characters are caught off-guard by enemies or hazards.
+15. **Debrief/Aftermath Scene** – The characters regroup, recover, and reflect on the consequences of a major event.
+16. **Showdown/Duel** – A dramatic one-on-one confrontation, either physical or verbal.
+17. **Flashback Scene** – A look into a character’s past, which reveals backstory or motivation.
+18. **Investigation Scene** – The characters must gather information, follow leads, and piece together clues.
+19. **Dream or Vision Sequence** – Characters experience surreal or prophetic events, often with abstract storytelling.
+20. **Environmental Hazard** – Characters face a natural disaster, such as an earthquake, flood, or wildfire.
 

@@ -21,3 +21,9 @@ See [wounds.md](wounds.md)
 1. Mortally wounded. Unconcious until death in 1 day unless healed.
 
 
+### Area of Effect
+
+Area damage is listed as the total dice of damage done and the maximum damage on a single target. The maximum damage is for a 'normal' sized target and may be changed for a different size target.
+Area damage effects one target first and any additional dice, are rolled over to the next target until the effects maximum damage is used up.
+
+Explosion (6d, 15d)
