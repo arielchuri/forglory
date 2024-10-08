@@ -21,7 +21,8 @@ Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells,
 #### Stamina Dice
 
 Stamina, fatigue, carrying, breath holding.
-Stamina dice maybe added to any other roll but are not recovered until after a short rest.
+Stamina dice maybe added to any other roll but are recovered over time that you are not under stress.
+Stamina dice cannot be higher than **health**. **Stamina** lost in this way is recovered with **health**.
 
 #### Health Dice
 

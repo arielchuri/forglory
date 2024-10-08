@@ -57,6 +57,24 @@ Pairs of _crosses_ (5) cause negative effects.
 Pairs of _squares_ (4) may also have effects that may be neutral.
 Usually denoting effects caused by the environment or changes to the narrative or the attitudes of the NPCs.
 
+## Ways to roll your dice
+
+- 1d: Roll 1 die. The 1s, 2s, and 3s are counted. The other values are 0.
+- d6: Use the face value of the die (1-6).
+- d2: Roll a die and divide the face value by 2 rounded up.
+- d3 - Roll a die and divide the face value by 2 rounded up.
+- d12 - Roll 1d2. On a 1, roll 1d6. On a 2, roll 1d6+6.
+- d18 - Roll 1d3. On a 1, roll  1d6. On a 2, roll 1d6+6. On a 3, roll 1d6+12.
+- 3d6
+- d33 - Roll 1d3 twice. The first die is the 10s place and the second is 1s. Rolling a 3 and a 4 makes 22.
+- d36 - 
+- d66 - Roll a die for the 10s place and then roll a die for the 1s place. Rolling a 3 and a 4 make 34.
+
+## multiplying by 6
+
+|number| 1| 2| 3| 4| 5| 6|
+|------|--|--|--|--|--|--|
+|     1| 1|
 
 ## Mechanics
 
@@ -87,23 +105,23 @@ The player may add any of their Stamina or style dice to any roll. Those dice ca
 
 ### Chance of success table
 
-This table shows the chance to achieve a certain amount of hits with differing amounts of dice.
+This table shows the percent chance to achieve a certain amount of hits with differing amounts of dice.
 
-| Nd6 | 0   | 1+  | 2+  | 3+  | 4+  | 5+  | 6+  | 7+  | 8+  | 9+  | 10+ | 11+ | 12+ | 13+ | 14+ | 15+ | 16+ | 17+ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3   | 12  | 87  | 75  | 58  | 37  | 23  | 12  | 4   | 2   |     |     |     |     |     |     |     |     |     |
-| 4   | 6   | 94  | 85  | 73  | 55  | 40  | 26  | 14  | 8   | 3   | 1   |     |     |     |     |     |     |     |
-| 5   | 3   | 97  | 92  | 83  | 70  | 56  | 41  | 27  | 17  | 10  | 5   | 2   | 1   |     |     |     |     |     |
-| 6   | 2   | 99  | 95  | 90  | 80  | 69  | 55  | 41  | 29  | 19  | 11  | 6   | 3   | 1   |     |     |     |     |
-| 7   | 1   | 99  | 97  | 94  | 87  | 78  | 67  | 54  | 42  | 30  | 21  | 13  | 8   | 4   | 2   | 1   |     |     |
-| 8   |     |     | 99  | 96  | 92  | 86  | 77  | 66  | 55  | 43  | 32  | 22  | 15  | 9   | 5   | 3   | 1   | 1   |
-| 9   |     |     | 99  | 98  | 95  | 91  | 84  | 75  | 65  | 54  | 43  | 32  | 23  | 16  | 10  | 6   | 4   | 2   |
+|     | 0   | 1+  | 2+  | 3+  | 4+  | 5+  | 6+  | 7+  | 8+  | 9+  | 10+ | 11+ | 12+ | 13+ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3d  | 12  | 87  | 75  | 58  | 37  | 23  | 12  | 4   | 2   |     |     |     |     |     |
+| 4d  | 6   | 94  | 85  | 73  | 55  | 40  | 26  | 14  | 8   | 3   | 1   |     |     |     |
+| 5d  | 3   | 97  | 92  | 83  | 70  | 56  | 41  | 27  | 17  | 10  | 5   | 2   | 1   |     |
+| 6d  | 2   | 99  | 95  | 90  | 80  | 69  | 55  | 41  | 29  | 19  | 11  | 6   | 3   | 1   |
+| 7d  | 1   | 99  | 97  | 94  | 87  | 78  | 67  | 54  | 42  | 30  | 21  | 13  | 8   | 4   |
 
 <!--
 | 1   | 50     | 50  | 33  | 17  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 2   | 25     | 75  | 58  | 39  | 17  | 8   | 3   |     |     |     |     |     |     |     |     |     |     |     |
 -->
 <!--
+| 8   |     |     | 99  | 96  | 92  | 86  | 77  | 66  | 55  | 43  | 32  | 22  | 15  | 9   | 5   | 3   | 1   | 1   |
+| 9   |     |     | 99  | 98  | 95  | 91  | 84  | 75  | 65  | 54  | 43  | 32  | 23  | 16  | 10  | 6   | 4   | 2   |
 | 10  |        |     |     | 99  | 97  | 94  | 89  | 83  | 74  | 65  | 54  | 43  | 33  | 24  | 17  | 11  | 7   | 4   |
 | 11  |        |     |     | 99  | 98  | 96  | 93  | 88  | 82  | 73  | 64  | 54  | 44  | 34  | 25  | 18  | 12  | 8   |
 | 12  |        |     |     |     | 99  | 98  | 95  | 92  | 87  | 80  | 72  | 63  | 54  | 44  | 35  | 26  | 19  | 13  |
@@ -134,7 +152,8 @@ Intelligence, wisdom, personality, disguises, discernment, perspicasity, spells,
 #### Stamina Dice
 
 Stamina, fatigue, carrying, breath holding.
-Stamina dice maybe added to any other roll but are not recovered until after a short rest.
+Stamina dice maybe added to any other roll but are recovered over time that you are not under stress.
+Stamina dice cannot be higher than **health**. **Stamina** lost in this way is recovered with **health**.
 
 #### Health Dice
 
@@ -185,12 +204,14 @@ The story may open with a narration describing the world as known by the PCs.
 
  A scene could have a table associated with it in order to make it easier to present the scene to the players. There are some general tables here, [Scene tables](scenetables.html), or there may be specific tables for the scene.
 
+ The following is list of scene types with links to some suggested mechanics if available.
+
 1. **Chase Scene** – Intense pursuit, on foot, horseback, or vehicles. The results of chase scenes are determined by the [chase rules](#chase rules).
 2. **Fight Scene** – Fight scenes are determined according to the [Combat ures](#combat).
 3. **Travel Montage** – A quick sequence summarizing long-distance travel or journey.
 4. **Negotiation/Diplomacy Scene** – Characters must talk their way through a tense situation or broker a deal.
 5. **Heist/Infiltration Scene** – Stealth, planning, and execution of a robbery or infiltration mission.
-6. **Escape Scene** – Fleeing from a dangerous situation, possibly under pressure or with time constraints.
+6. **Escape Scene** – Fleeing from a dangerous situation, possibly under pressure or with time constraints (See _Chase Scene_).
 7. **Rescue Scene** – The characters need to free a captive or retrieve something valuable.
 8. **Puzzle/Trap Scene** – A moment where characters must solve a riddle or overcome an environmental obstacle. Often with a time constraint.
 9. **Social Encounter** – A moment of intrigue, charm, or manipulation in a social setting, like a party or court.
@@ -224,26 +245,45 @@ In this case, the defender would roll their **Speed** and subtract the roll from
 
 A weapon way have many effects, in addition to health loss, based on the wounds given and rolling 4s, 5s, or 6s.
 
+### Initiative
+
+Characters may roll speed to determine initiative or, the patron my decide who goes first based on the player's desired actions and circumstances. Some actions take precedence over others. 
+
+1. Talking
+2. Moving
+3. Acting
+4. Combat
+
 ### Common actions
 
-- Evade: add to **smart** to defense roll until next turn
-- Focus: add you **smart** dice to a roll until your next turn's action.
-- Disengage: Roll **strength** or **speed** to put distance between you and your opponent.
-- Shield: Roll attack but some dice are not subtracted from the target's defense roll and are instead added to a compatriot's defense roll.
+The players may choose any action they think of. The following is a list of common actions and their possible mechanical interpretations.
+
+- Hold: Call an action but execute it only if something else happens. An example would be holding your attack until you, or someone else is about to be attacked or waiting until a spell is cast.
+- Evade: Burn **stamina** to roll **speed** avoid that much damage from one attack, until next turn.
+- Focus: Add your **smart** dice to a roll on your next turn's action.
+- Disengage: Roll **strength** or **speed** against their **strength** or **speed** to put distance between you and your opponent.
+- Shield: Roll attack but some dice are not subtracted from the target's HP and are instead added to a compatriot's HP until next turn.
+- Catch your breath: Regain a die of **stamina**.
 
 https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/
+
+
+
+The Feng Shui 2 RPG has an actual rule stating that if the GM provides a situation the players are obligated to come up with reasons their PCs are involved. If I remember correctly, the stated example is seeing smoke coming from the local hospital inspiring players to say things like, "My uncle is there for a treatment!" "My sister works there!" and so on. Reasons the PCs need to engage with plot setups.
 
 https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_blog_post/
 
 
+Another suggestion I'd give is to have combat encounters have some other goal besides surviving. Kill the underlings before they can pull a lever that releases a giant monster, save the captive from getting sacrificed while gnolls block your passage, or snatch the jewel powering an ancient mech while it attacks the party. 
 
 ## Suffering
 
-Gain a wound (see _Wounds_) every time you lose a health die and from some critical hits. level of complication you gain from injury depends on how many health die you have left. injuries may effect other stat dice.
+Gain a wound (see _Wounds_) every time you lose a **health** die and from some critical hits.
+The level of complication you gain from injury depends on how many **health** die you have left. injuries may effect other stat dice.
 
-If you lose two Health dice in a ingle round, roll on the _Severe Wound Table_ for the damage type suffered if it exists.
+If you lose two **health** dice to a single attack, roll on the _Severe Wound Table_ for the damage type suffered if it exists.
 
-For the last roll (0hp) use the _Fatal Wound Table_ for the damage type and, if the result is death, roll on the character's _Death Table_ if it exists.
+For the last roll (0hp) use the _Fatal Wound Table_ for the damage type and, if the result is death, roll on the on the general or the character's _Death Table_.
 
 ### Wound Tables
 
@@ -282,7 +322,10 @@ How can they call upon the patron?
 - Ways of communicating
 - Invoke Patron table
 
+The patron describes a situation.
+It is the players responsibility to come up with why their character is involved.
 
+## The Players
 
 </div>
 

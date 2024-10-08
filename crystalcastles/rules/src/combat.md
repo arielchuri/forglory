@@ -15,16 +15,23 @@ In this case, the defender would roll their **Speed** and subtract the roll from
 
 A weapon way have many effects, in addition to health loss, based on the wounds given and rolling 4s, 5s, or 6s.
 
+### Initiative
+
+Characters may roll speed to determine initiative or, the patron my decide who goes first based on the player's desired actions and circumstances. Some actions take precedence over others. 
+
+1. Talking
+2. Moving
+3. Acting
+4. Combat
+
 ### Common actions
 
-- Evade: add to **smart** to defense roll until next turn
-- Focus: add you **smart** dice to a roll until your next turn's action.
-- Disengage: Roll **strength** or **speed** to put distance between you and your opponent.
-- Shield: Roll attack but some dice are not subtracted from the target's defense roll and are instead added to a compatriot's defense roll.
-- Catch your breath: Regain a die of stamina.
+The players may choose any action they think of. The following is a list of common actions and their possible mechanical interpretations.
 
-https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/
-
-https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_blog_post/
-
+- Hold: Call an action but execute it only if something else happens. An example would be holding your attack until you, or someone else is about to be attacked or waiting until a spell is cast.
+- Evade: Burn **stamina** to roll **speed** avoid that much damage from one attack, until next turn.
+- Focus: Add your **smart** dice to a roll on your next turn's action.
+- Disengage: Roll **strength** or **speed** against their **strength** or **speed** to put distance between you and your opponent.
+- Shield: Roll attack but some dice are not subtracted from the target's HP and are instead added to a compatriot's HP until next turn.
+- Catch your breath: Regain a die of **stamina**.
 

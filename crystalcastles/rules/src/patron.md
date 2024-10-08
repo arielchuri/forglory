@@ -13,4 +13,7 @@ How can they call upon the patron?
 - Ways of communicating
 - Invoke Patron table
 
+The patron describes a situation.
+It is the players responsibility to come up with why their character is involved.
 
+## The Players

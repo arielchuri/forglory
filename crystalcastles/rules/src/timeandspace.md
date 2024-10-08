@@ -26,12 +26,14 @@ The story may open with a narration describing the world as known by the PCs.
 
  A scene could have a table associated with it in order to make it easier to present the scene to the players. There are some general tables here, [Scene tables](scenetables.html), or there may be specific tables for the scene.
 
+ The following is list of scene types with links to some suggested mechanics if available.
+
 1. **Chase Scene** – Intense pursuit, on foot, horseback, or vehicles. The results of chase scenes are determined by the [chase rules](#chase rules).
 2. **Fight Scene** – Fight scenes are determined according to the [Combat ures](#combat).
 3. **Travel Montage** – A quick sequence summarizing long-distance travel or journey.
 4. **Negotiation/Diplomacy Scene** – Characters must talk their way through a tense situation or broker a deal.
 5. **Heist/Infiltration Scene** – Stealth, planning, and execution of a robbery or infiltration mission.
-6. **Escape Scene** – Fleeing from a dangerous situation, possibly under pressure or with time constraints.
+6. **Escape Scene** – Fleeing from a dangerous situation, possibly under pressure or with time constraints (See _Chase Scene_).
 7. **Rescue Scene** – The characters need to free a captive or retrieve something valuable.
 8. **Puzzle/Trap Scene** – A moment where characters must solve a riddle or overcome an environmental obstacle. Often with a time constraint.
 9. **Social Encounter** – A moment of intrigue, charm, or manipulation in a social setting, like a party or court.
