@@ -26,33 +26,26 @@ Characters and important NPCs usually will have their own death table. The follo
 5. Stunned. Take no action next turn.
 6. Second wind. Take an action at +2d.
 
-#### NPC Death Table, General
-
-This table may be used for higher level monsters that lack a personal death roll table.
-
-1. A horrible and gory death.
-
 ### Damage
 
 Losing all of the dice in either of the three main stats, causes a roll on the appropriate table. The only other effect of being at 0 dice is failing any roll with that stat. Further losses of that stat while at 0 cause another roll on the table.
 
 #### 0 **smart** dice
 
-1. out
-2. brained
-3. confused
-4. 
-5. 
-6. 
+1. Out for good.
+2. Brained.
+3. Unable to talk.
+4. Backwards. 
+5. Resolve. Gain 1 pip.
+6. Bounce back. Gain 1 die and take an action.
 
 #### 0 **strength** dice
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Unable to do anything but crawl. Gain one die and, **speed is limited by strength**.
+2. Done. Unable to do anything next turn and then, gain one die.
+3. Shaky. Gain one die and drop something.
+5. Resolve. Gain 2 die.
+6. Bounce back. regain all your dice and take an action.
 
 #### 0 **speed** dice
 
@@ -60,16 +53,12 @@ Losing all of the dice in either of the three main stats, causes a roll on the a
 2. 
 3. 
 4. 
+5. Resolve. Gain 1 pip.
+6. Bounce back. Gain 1 die and take an action.
 5. 
-6. 
+6. Gain 1 pip.
 
-#### Falling
-
-#### Suffocating
-
-#### Burning
-
-#### Area of Effect
+See _wounds_ for things like, falling, suffocating, burning, area of effect.
 
 Area damage is listed as the total dice of damage done and the maximum damage on a single target. The maximum damage is for a 'normal' sized target and may be changed for a different size target.
 Area damage effects one target first and any additional dice, are rolled over to the next target until the effects maximum damage is used up.

@@ -29,26 +29,26 @@ Wormwood spells are characterized by Wormwood's relationship to nature, physical
 ### Kirlian Discharge
 
 This is usually the first spell that Wormwood learns.
-A healing aura is created around the caster. Those standing next to the caster may feel the effects of the spell but, not the caster themselves.
+A healing aura is created around the caster. Those standing next to the caster may feel the effects of the spell but, not the caster themselves unless specified.
 The aura reduces the caster's _beauty_ by one per round.
 Caster's other than Wormwood that use this spell require a similar resource to rot/beauty that would be lost.
 
 **Misfire**
 
-1. The caster gains 6 _rot, and must roll on the _heavy deformity wound table_.
-2.
+1. The caster gains 6 rot, and must roll on the _heavy deformity wound table_.
+2. Backfire. Instant damage those around and fall to the ground.
 3.
 4.
-5.
-6.
+5. Sense distortion.
+6. Vampire field. The caster sucks 1pip **health** per turn from PCs and NPCs alike.
 
 **Standard spell effect**
 
-1. 
-2.
+1. The aura heals 1p/turn.
+2. 
 3.
-4.
-5.
+4. Strength, speed, smarts are immune to damage.
+5. +1d of **stamina** that regenerates each turn.
 6.
 
 **Extreme effect**
@@ -57,8 +57,9 @@ Caster's other than Wormwood that use this spell require a similar resource to r
 2.
 3.
 4.
-5.
-6. Caster creates a magical barrier around themselves and their neighbors. The sheild soaks 8 points of damage from attacks and, blocks curses, allows one to see through illusions, disern liars, and seem like a great person. 
+5. The affected do not have to roll on wound tables.
+5. The shield blocks 5p of damage from attacks.
+6. Caster creates a magical barrier against enemys around themselves and their neighbors. The shield soaks 8 points of damage from attacks and, blocks curses, allows one to see through illusions, disern liars, and seem like a great person. 
 
 ## Fakir spell
 
@@ -66,6 +67,33 @@ Caster's other than Wormwood that use this spell require a similar resource to r
 
 A gem the fakir wears.
 Even the misfire is nice.
+
+**Misfire**
+
+1. 
+2.
+3.
+4.
+5.
+6.
+
+**Light**
+
+1. 
+2.
+3.
+4.
+5.
+6.
+
+**Heavy**
+
+1. 
+2.
+3.
+4.
+5.
+6.
 
 ## Wong Fey Hong Martial Powers
 

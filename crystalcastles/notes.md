@@ -34,6 +34,8 @@ Roll one d2 for the tens and another for the ones.
 
 ## d9
 
+d
+
 11. 1
 12. 2
 13. 3
@@ -52,6 +54,8 @@ Roll one d2 for the tens and another for the ones.
 
 ## d12
 
+d2 x d6
+
 |   | 1  | 2  |
 |---|----|----|
 | 1 | 11 | 12 |
@@ -61,7 +65,9 @@ Roll one d2 for the tens and another for the ones.
 | 5 | 51 | 52 |
 | 6 | 61 | 62 |
 
-## d63 (18)
+## d18 
+
+d3 x d6
 
  |   | 1  | 2  | 3  |
  |---|----|----|----|
