@@ -550,4 +550,8 @@ Certainly! Here are two tables for suffocation:
 5. **Brain Damage**: Prolonged lack of oxygen causes severe brain damage. Roll on the Psychological Trauma Table and -2 Smarts Dice.
 6. **Imminent Death**: You are on the brink of death from suffocation. Roll on the Death Table immediately.
 
+
+### Corruption
+
+**Minor Corruption**
 ---

@@ -10,6 +10,20 @@ The action focuses on each PC on their turn. The players can take any action the
 
 After everyone involved with a scene has taken a turn (action), one round is completed and a new round begins.
 
+### Status effects
+
+Many status effects take place for a certian amount of time.
+In _For Glory_, this amount of time should be one of the following.
+
+- Until next turn.
+- Until the end of this scene/encounter.
+- Until the beginning of the next scene/encounter.
+- Until an event or action takes place.
+- Until the next episode.
+- Forever (i.e. until the curse is lifted)
+
+This reduces the need for time tracking as no condition should last 4 turns for instance.
+
 ### The Scene Die
 
 While no a requirement, a die can be used to track the timing of a scene.

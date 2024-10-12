@@ -107,13 +107,13 @@ The player may add any of their Stamina or style dice to any roll. Those dice ca
 
 This table shows the percent chance to achieve a certain amount of hits with differing amounts of dice.
 
-|     | 0   | 1+  | 2+  | 3+  | 4+  | 5+  | 6+  | 7+  | 8+  | 9+  | 10+ | 11+ | 12+ | 13+ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3d  | 12  | 87  | 75  | 58  | 37  | 23  | 12  | 4   | 2   |     |     |     |     |     |
-| 4d  | 6   | 94  | 85  | 73  | 55  | 40  | 26  | 14  | 8   | 3   | 1   |     |     |     |
-| 5d  | 3   | 97  | 92  | 83  | 70  | 56  | 41  | 27  | 17  | 10  | 5   | 2   | 1   |     |
-| 6d  | 2   | 99  | 95  | 90  | 80  | 69  | 55  | 41  | 29  | 19  | 11  | 6   | 3   | 1   |
-| 7d  | 1   | 99  | 97  | 94  | 87  | 78  | 67  | 54  | 42  | 30  | 21  | 13  | 8   | 4   |
+|     | 0   | 1+  | 2+  | 3+  | 4+  | 5+  | 6+  | 7+  | 8+  | 9+  | 10+ | 11+ | 12+ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3d  | 12  | 87  | 75  | 58  | 37  | 23  | 12  | 4   | 2   |     |     |     |     |
+| 4d  | 6   | 94  | 85  | 73  | 55  | 40  | 26  | 14  | 8   | 3   | 1   |     |     |
+| 5d  | 3   | 97  | 92  | 83  | 70  | 56  | 41  | 27  | 17  | 10  | 5   | 2   | 1   |
+| 6d  | 2   | 99  | 95  | 90  | 80  | 69  | 55  | 41  | 29  | 19  | 11  | 6   | 3   |
+| 7d  | 1   | 99  | 97  | 94  | 87  | 78  | 67  | 54  | 42  | 30  | 21  | 13  | 8   |
 
 <!--
 | 1   | 50     | 50  | 33  | 17  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -265,16 +265,6 @@ The players may choose any action they think of. The following is a list of comm
 - Shield: Roll attack but some dice are not subtracted from the target's HP and are instead added to a compatriot's HP until next turn.
 - Catch your breath: Regain a die of **stamina**.
 
-https://www.reddit.com/r/rpg/comments/pehi27/what_rpg_mechanic_made_you_stop_for_a_second_and/
-
-
-
-The Feng Shui 2 RPG has an actual rule stating that if the GM provides a situation the players are obligated to come up with reasons their PCs are involved. If I remember correctly, the stated example is seeing smoke coming from the local hospital inspiring players to say things like, "My uncle is there for a treatment!" "My sister works there!" and so on. Reasons the PCs need to engage with plot setups.
-
-https://www.reddit.com/r/osr/comments/pg9xo2/the_osr_combat_is_boring_chestnut_blog_post/
-
-
-Another suggestion I'd give is to have combat encounters have some other goal besides surviving. Kill the underlings before they can pull a lever that releases a giant monster, save the captive from getting sacrificed while gnolls block your passage, or snatch the jewel powering an ancient mech while it attacks the party. 
 
 ## Suffering
 
@@ -293,14 +283,55 @@ See [wounds.md](wounds.md)
 
 ### Death Table
 
+Characters and important NPCs usually will have their own death table. The following may be used otherwise.
+
 #### Character Death Table, General
 
-1. From wounded to marked. The character will not be coming back to any further sessions. How that plays out is up to the player. They could die right now, go out in a blaze of glory (+3d), or retire after this episode.
-1. Bleeding out. Death in 30 minutes unless healed. All rolls reduced to 1d.
-1. Mortally wounded. Unconcious until death in 1 day unless healed.
+1. A horrible and gory death.
+2. Marked for death. The character will not be coming back to any further sessions. How that plays out is up to the player. They could die right now, go out in a blaze of glory (+3d), or retire after this episode.
+3. Gushing blood. Death on your next turn. All rolls reduced to 1d.
+4. Mortally wounded. Unconcious on your next turn and death in on the following.
+5. 
+6. 
 
+### Damage
 
-### Area of Effect
+Losing all of the dice in either of the three main stats, causes a roll on the appropriate table. The only other effect of being at 0 dice is failing any roll with that stat. Further losses of that stat while at 0 cause another roll on the table.
+
+#### 0 **smart** dice
+
+1. out
+2. brained
+3. confused
+4. 
+5. 
+6. 
+
+#### 0 **strength** dice
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+#### 0 **speed** dice
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+#### Falling
+
+#### Suffocating
+
+#### Burning
+
+#### Area of Effect
 
 Area damage is listed as the total dice of damage done and the maximum damage on a single target. The maximum damage is for a 'normal' sized target and may be changed for a different size target.
 Area damage effects one target first and any additional dice, are rolled over to the next target until the effects maximum damage is used up.

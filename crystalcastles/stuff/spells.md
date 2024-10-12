@@ -1,21 +1,87 @@
-# Casting
+# Spells
+
+Spells can come in many forms and different characters may even use different mechanics to cast spells.
+One character may use the _Casting Table_ below, another may roll directly on a table of results, and another may have a printed drop-table to drop dice on.
+
+Two of the included sample characters use the same mechanic to cast spells but each have spells that are appropriate for their character.
+
+It should be noted that neither of these characters start with any spells.
+They must each find or begin a spellbook. Hopefully, in the first episode.
+This first spellbook includes a simple magical ability and further spells must also be found, learned, or stolen in-game.
+
+## Casting
 
 This magic user casts by rolling **smarts**. **Stamina** dice may not be added to this roll.
 Instead, **strength** dice may be added, which takes longer to heal.
 
-## Casting table
+### Casting table
 
 | Roll | Effect        |
 | ---- | ------------- |
 | 0-3  | Misfire table |
-| 4-6  | Light effect  |
-| 7-8  | Heavy effect  |
+| 4-7  | Light effect  |
+| 8+   | Heavy effect  |
 
-# 1. Whispering Winds
+## Wormwood spells
+
+Wormwood spells are characterized by Wormwood's relationship to nature, physicality, fertility, death, plasticity, and their _rot/beauty_ dichotomy.
+
+### Kirlian Discharge
+
+This is usually the first spell that Wormwood learns.
+A healing aura is created around the caster. Those standing next to the caster may feel the effects of the spell but, not the caster themselves.
+The aura reduces the caster's _beauty_ by one per round.
+Caster's other than Wormwood that use this spell require a similar resource to rot/beauty that would be lost.
+
+**Misfire**
+
+1. The caster gains 6 _rot, and must roll on the _heavy deformity wound table_.
+2.
+3.
+4.
+5.
+6.
+
+**Standard spell effect**
+
+1. 
+2.
+3.
+4.
+5.
+6.
+
+**Extreme effect**
+
+1. 
+2.
+3.
+4.
+5.
+6. Caster creates a magical barrier around themselves and their neighbors. The sheild soaks 8 points of damage from attacks and, blocks curses, allows one to see through illusions, disern liars, and seem like a great person. 
+
+## Fakir spell
+
+### Mushika's Eye
+
+A gem the fakir wears.
+Even the misfire is nice.
+
+## Wong Fey Hong Martial Powers
+
+### Lightning kick
+
+### Medicine
+
+### Cooking
+
+## Ai generated Spells
+
+## 1. Whispering Winds
 
 **Description**: A spell that allows the caster to send messages through the breeze, carrying their words to distant ears.
 
-## Effects Tables
+### Effects Tables
 
 **First Table: Standard Effects**
 
@@ -46,11 +112,11 @@ Instead, **strength** dice may be added, which takes longer to heal.
 
 ---
 
-# 2. Searing Ray
+## 2. Searing Ray
 
 **Description**: A focused beam of fiery energy that scorches everything in its path.
 
-## Effects Tables
+### Effects Tables
 
 **First Table: Standard Effects**
 
@@ -81,11 +147,11 @@ Instead, **strength** dice may be added, which takes longer to heal.
 
 ---
 
-# 3. Veil of Shadows
+## 3. Veil of Shadows
 
 **Description**: A spell that cloaks the caster in darkness, allowing them to move unseen.
 
-## Effects Tables
+### Effects Tables
 
 **First Table: Standard Effects**
 
@@ -118,7 +184,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 1. **Mindshiver**
+#### 1. **Mindshiver**
 
 - **Effect**: Sends a chilling shock through the target's mind, causing confusion and fear.
 
@@ -142,7 +208,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 2. **Warping Touch**
+#### 2. **Warping Touch**
 
 - **Effect**: Alters the physical form of a creature or object in unpredictable ways.
 
@@ -166,7 +232,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 3. **Eldritch Veil**
+#### 3. **Eldritch Veil**
 
 - **Effect**: A shadowy shroud distorts the reality around the caster.
 
@@ -190,7 +256,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 4. **Flesh of Iron**
+#### 4. **Flesh of Iron**
 
 - **Effect**: Transmutes flesh into metal, offering temporary protection.
 
@@ -214,7 +280,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 5. **Arcane Bloom**
+#### 5. **Arcane Bloom**
 
 - **Effect**: A magical plant rapidly grows from the ground.
 
@@ -238,7 +304,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 6. **Mists of the Forgotten**
+#### 6. **Mists of the Forgotten**
 
 - **Effect**: A mysterious fog obscures the battlefield and muddles memory.
 
@@ -262,7 +328,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 7. **Echoes of Time**
+#### 7. **Echoes of Time**
 
 - **Effect**: Distorts the flow of time in a localized area.
 
@@ -286,7 +352,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 8. **Spectral Key**
+#### 8. **Spectral Key**
 
 - **Effect**: A ghostly key appears, unlocking both physical and magical barriers.
 
@@ -310,7 +376,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 9. **Voice of the Forgotten**
+#### 9. **Voice of the Forgotten**
 
 - **Effect**: Communes with lost spirits or forgotten entities.
 
@@ -334,7 +400,7 @@ Here’s an updated version of 10 spells for your RPG, with each spell following
 
 ---
 
-### 10. **Reality Tear**
+#### 10. **Reality Tear**
 
 - **Effect**: Rips open the fabric of
 
