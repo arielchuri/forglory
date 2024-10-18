@@ -4,6 +4,7 @@ Settings have a sheet like a character sheet that the setting's stats are tracke
 ## Setting names
 - Hyper Force
 - Crystal Castles
+- Kali Yuga
 - Laser Lords
 
 ## Components
