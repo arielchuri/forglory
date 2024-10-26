@@ -5,6 +5,7 @@ dice.md
 mechanics.md
 characters.md
 timeandspace.md
+strife.md
 combat.md
 suffering.md
 patron.md

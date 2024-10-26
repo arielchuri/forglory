@@ -184,7 +184,7 @@ Episodes are made up of scenes which usually take place at different locations.
 
 Most scenes are a series of player turns which could be the individual cuts of a film.
 The amount of in game time that the actions take is based on the type of scene and the interpretation of the patron.
-The action focuses on each PC on their turn. The players can take any action they wish on their turn. 
+The action focuses on each PC on their turn. The players can take any action they wish on their turn.
 
 After everyone involved with a scene has taken a turn (action), one round is completed and a new round begins.
 
@@ -216,30 +216,38 @@ Each episode is a series of scenes.
 The type of scene is either the patrons choice or a result of the player's choices.
 The story may open with a narration describing the world as known by the PCs.
 
- A scene could have a table associated with it in order to make it easier to present the scene to the players. There are some general tables here, [Scene tables](scenetables.html), or there may be specific tables for the scene.
+A scene could have a table associated with it in order to make it easier to present the scene to the players. There are some general tables here, [Scene tables](scenetables.html), or there may be specific tables for the scene.
 
- The following is list of scene types with links to some suggested mechanics if available.
+The following is list of scene types with links to some suggested mechanics if available.
 
-1. **Chase Scene** – Intense pursuit, on foot, horseback, or vehicles. The results of chase scenes are determined by the [chase rules](#chase rules).
-2. **Fight Scene** – Fight scenes are determined according to the [Combat ures](#combat).
-3. **Travel Montage** – A quick sequence summarizing long-distance travel or journey.
-4. **Negotiation/Diplomacy Scene** – Characters must talk their way through a tense situation or broker a deal.
-5. **Heist/Infiltration Scene** – Stealth, planning, and execution of a robbery or infiltration mission.
-6. **Escape Scene** – Fleeing from a dangerous situation, possibly under pressure or with time constraints (See _Chase Scene_).
-7. **Rescue Scene** – The characters need to free a captive or retrieve something valuable.
-8. **Puzzle/Trap Scene** – A moment where characters must solve a riddle or overcome an environmental obstacle. Often with a time constraint.
-9. **Social Encounter** – A moment of intrigue, charm, or manipulation in a social setting, like a party or court.
-10. **Discovery Scene** – Uncovering an important secret, artifact, or clue, often with a sense of mystery.
-11. **Training/Practice Montage** – Characters hone their skills or prepare for an upcoming challenge.
-12. **Ritual or Ceremony** – A mystical or cultural event where something significant happens, like gaining powers or alliances.
-13. **Survival Scene** – The group must face harsh conditions, find food, or navigate treacherous environments.
-14. **Ambush** – The characters are caught off-guard by enemies or hazards.
-15. **Debrief/Aftermath Scene** – The characters regroup, recover, and reflect on the consequences of a major event.
-16. **Showdown/Duel** – A dramatic one-on-one confrontation, either physical or verbal.
-17. **Flashback Scene** – A look into a character’s past, which reveals backstory or motivation.
-18. **Investigation Scene** – The characters must gather information, follow leads, and piece together clues.
-19. **Dream or Vision Sequence** – Characters experience surreal or prophetic events, often with abstract storytelling.
-20. **Environmental Hazard** – Characters face a natural disaster, such as an earthquake, flood, or wildfire.
+1. **Chase scene** – Intense pursuit, on foot, horseback, or vehicles. The results of chase scenes are determined by the [chase rules](#chase rules).
+2. **Fight scene** – Fight scenes are determined according to the [Combat rules](#combat).
+3. **Travel montage** – A sequence of images describing a journey. May have a table of events or troubles.
+4. **Negotiation or diplomacy** – The characters must talk there way through. Usually in the form of role play between the players and the patron.
+5. **Infiltration** – Sneaking your way in. Usually requires planning and **speed** checks.
+6. **Puzzle or trap** – The correct course of action must be determined to pass an obstacle. May require
+7. **Training montage** – Characters may gain abilities.
+8. **Survival** – Harsh conditions and treachourous environments. Lacking proper supplies may reduce health over time. Most conditions have a **wound table**.
+9. **Flashback** – A look into a character’s past, which reveals backstory or motivation.
+10. **Investigation** – Clues are simply presented to the players by the patron.
+11. **Dream Sequence** – The patron may convey a vision.
+12. **Environmental Hazard** – Characters face a natural disaster, such as an earthquake, flood, or wildfire.
+
+
+## Strife
+
+- Jumping a gap
+- Jumping from stone to stone
+- Climbing steep terrain
+- Smashing through
+- Hiding
+- Shallow water
+- Deep water
+- Poison gas
+- Explosion
+- Burning
+- Burning building
+- Falling
 
 
 ## Combat
@@ -308,33 +316,26 @@ Characters and important NPCs usually will have their own death table. The follo
 5. Stunned. Take no action next turn.
 6. Second wind. Take an action at +2d.
 
-#### NPC Death Table, General
-
-This table may be used for higher level monsters that lack a personal death roll table.
-
-1. A horrible and gory death.
-
 ### Damage
 
 Losing all of the dice in either of the three main stats, causes a roll on the appropriate table. The only other effect of being at 0 dice is failing any roll with that stat. Further losses of that stat while at 0 cause another roll on the table.
 
 #### 0 **smart** dice
 
-1. out
-2. brained
-3. confused
-4. 
-5. 
-6. 
+1. Out for good.
+2. Brained.
+3. Unable to talk.
+4. Backwards. 
+5. Resolve. Gain 1 pip.
+6. Bounce back. Gain 1 die and take an action.
 
 #### 0 **strength** dice
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Unable to do anything but crawl. Gain one die and, **speed is limited by strength**.
+2. Done. Unable to do anything next turn and then, gain one die.
+3. Shaky. Gain one die and drop something.
+5. Resolve. Gain 2 die.
+6. Bounce back. regain all your dice and take an action.
 
 #### 0 **speed** dice
 
@@ -342,16 +343,12 @@ Losing all of the dice in either of the three main stats, causes a roll on the a
 2. 
 3. 
 4. 
+5. Resolve. Gain 1 pip.
+6. Bounce back. Gain 1 die and take an action.
 5. 
-6. 
+6. Gain 1 pip.
 
-#### Falling
-
-#### Suffocating
-
-#### Burning
-
-#### Area of Effect
+See _wounds_ for things like, falling, suffocating, burning, area of effect.
 
 Area damage is listed as the total dice of damage done and the maximum damage on a single target. The maximum damage is for a 'normal' sized target and may be changed for a different size target.
 Area damage effects one target first and any additional dice, are rolled over to the next target until the effects maximum damage is used up.
