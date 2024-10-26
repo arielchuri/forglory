@@ -554,4 +554,13 @@ Certainly! Here are two tables for suffocation:
 ### Corruption
 
 **Minor Corruption**
+
+Heavy Corruption
+
+Final Corruption
+
+Turn into a creature.
+Imflate into a ball and burst.
+Sink into a sack of skin. You can barely talk.
+Turn into a lizard person. Gain 2 armor that does not effect speed. You can no longer cast spells.
 ---
