@@ -16,6 +16,7 @@ Beauty (2)
 
 **Play dead** Can physiologically change her body to look and smell like a corpse at the cost of a _health_ die and roll on the wound table.
 **Familiar** A creature that aids you. If your familiar dies, lose 1d _health_ and roll a wound.
+**Swim** Unlikely to roll for drowning.
 
 ## Death Roll
 
@@ -55,7 +56,7 @@ A long whip that seems to have a mind of its own and can grow thorns.
 AKA:
 
 ## Description
-A witch of the circle (of life). Casts spells and possesses abilities in herbalism, midwifery, and poisons. With a deep connection to nature, she draws upon the life force around her to weave powerful enchantments.
+A witch of the circle (of life). Casts spells and possesses abilities in herbalism, midwifery, and poisons. Life and death are at war within.
 
 ## Stats
 Strength (3), Speed (6), Smarts (5), Stamina (4), Health (4)

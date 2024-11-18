@@ -13,7 +13,9 @@ The following are examples of how the patron may want to use the dice and attrib
 - Smashing through a barrier
 - Hiding
 - Shallow water
+  Slows movement. May remove attack dice.
 - Deep water
+
 - Poison gas
 - Explosion
 - Burning
