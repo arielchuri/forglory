@@ -559,8 +559,9 @@ Heavy Corruption
 
 Final Corruption
 
-Turn into a creature.
-Imflate into a ball and burst.
+Inflate into a ball and burst.
+Turn into a creature and lose your intelligence.
+Turn into a  small fish and keep your intelligenc.
 Sink into a sack of skin. You can barely talk.
 Turn into a lizard person. Gain 2 armor that does not effect speed. You can no longer cast spells.
 ---
