@@ -1,6 +1,13 @@
-# Dooms
+# Flaws (Dooms)
 
-Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
+Every great hero has flaws that define them. A **Flaw** is a persistent character flaw that stays with the character throughout their adventures.
+
+To earn temporary **Luck**, a player must actively **lean into their Flaw** to complicate the scene, make a dangerous narrative choice, or invite trouble. 
+
+### Rules for Leaning into Flaws:
+1. **Player Agency:** The player chooses when their character leans into their Flaw.
+2. **Transparent Risks:** The Patron **must make the player aware of the explicit risks and consequences** (mechanical or narrative) *before* the resolution takes place.
+3. **Luck Reward:** Embracing the complication awards **1 point of temporary Luck**. Temporary Luck must be spent during the session or it is lost.
 
  1. Phobia Snakes, heights, small spaces, outdoors
  2. OCD

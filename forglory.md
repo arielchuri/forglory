@@ -84,14 +84,14 @@ This table shows the chance to achieve a certain amount of hits with differing a
    
 # Stunts
 
-Stunts are the way you describe the actions your character takes. There are three levels of stunts and each one adds another die to your roll. Level 1 stunts simply describe your action in a cool way. Level two stunts incorporate the story, the environment, or one of the character's doom. Level 3 stunts are determined by the judge at the time.
+Stunts are the way you describe the actions your character takes. Describing an action cinematically by incorporating the environment, narrative stakes, or creative flair allows the Patron to award **a single bonus die (+1d)** to your roll. The Patron is only allowed to award a single die for a stunt.
 
 - *I attack with my sword*. 0 dice.
-- *I slash at the monster's neck*. +1 die.
-- *I fling some of the swamp muck into the creatures eyes before driving my sword in*. +2 dice.
-- Something so cool that it belies an example. +3 dice.
+- *I slash at the monster's neck*. 0 dice (plain description).
+- *I fling swamp muck into the creature's eyes before driving my sword in*. **+1 die** (Stunt: uses environment).
+- *I sprint up the crumbling pillar and leap down two-handed*. **+1 die** (Stunt: cinematic maneuver).
 
-Co-operative stunts are when you include another PC in your stunt. The included PC may loan the player dice of the appropriate attribute for this action. They cannot use those dice on their next turn.
+Co-operative stunts are when you include another PC in your stunt. The included PC may loan the player a die of the appropriate attribute for this action, but cannot use that die on their next turn.
 
    
 # Characters
@@ -525,12 +525,27 @@ getting shot or attacked in movies. more like a reflex save.
 ## Damage and death
 see [suffering](suffering.md) and [death](death.md).
 
-## The Adrenalin Die
-On the second round of combat put a d6 on the table with one its face. Add this amount to player rolls this round and turn the die up every round in which the players take actions directly affecting the enemy.  
+## Multi-Part Actions & Setup Checks
+When a player declares an elaborate multi-step action (such as vaulting over a chasm or sliding under a hazard into an attack), the Patron may split the maneuver into a preparatory setup check (using Speed, Strength, or Smarts) followed by the main attack roll.
+- **The Low Bar:** Added setup checks have a **low bar**—they require only **1 hit** to succeed. This encourages cinematic ambition without unfairly penalizing the player, testing only if a sudden complication arises (inspired by PbtA soft moves and Toon momentum).
+- **Setup Failure:** Failing a setup check does not immediately inflict lethal damage; it creates a temporary complication, loss of positioning, or slapstick hindrance (e.g., getting tripped up in mud or having your strike spoiled).
+
+## Limits on Collateral & Missed Attacks
+To prevent arbitrary Patron fiat, collateral effects from missed ranged attacks or wild blows follow clear triggers:
+- **Clean Miss (0 hits):** The projectile or blade strikes inert scenery harmlessly (shattering on stone, thudding into dirt, or burying in a tree).
+- **Critical Flub / Complication:** Only when a roll produces **0 hits AND shows at least one 6** does a pulp complication occur—such as an arrow striking an ally, hitting a meat shield, severing a vital rope, or detonating an explosive pot.
+
+## The Adrenaline Die
+On the second round of combat, place a d6 on the table with its "1" face up. 
+- **Attacks Only:** The Adrenaline Die applies **strictly to attack rolls**. It does not affect skill checks, setup rolls, evasion, or defense.
+- **Symmetrical Effect:** The Adrenaline Die affects **both protagonist and antagonist**.
+- **Escalation:** Add the Adrenaline Die value as bonus hits to attack rolls this round. Turn the die up by +1 each subsequent round in which combatants continue to actively engage the enemy.
+- This acts as a cinematic pacing clock, escalating lethality and ensuring fights finish rapidly in 3 to 5 rounds.
+
 ## Initiative
 1. Parley
 2. Run
-3. Attacktalk, run, fight
+3. Attack (talk, run, fight)
 ## Area of Effect
 ## area of effect without maps
 Chaining from Symbaroum.
@@ -541,9 +556,16 @@ To handle forcing saves on multiple enemies, such as with a use of powerful enou
 
 This means that you don’t need any precise measuring tools to judge whether enemies are affected by a area-of-effect, and can simulate more powerful casters (those with better chances of hitting more often than not) having a larger area-of-effect, without the need to have measurements of the blast radius or additional math.
    
-# Dooms
+# Flaws (Dooms)
 
-Every great hero has flaws. Every time you use you doom to effect the story, you earn a point of temporary luck.
+Every great hero has flaws that define them. A **Flaw** is a persistent character flaw that stays with the character throughout their adventures.
+
+To earn temporary **Luck**, a player must actively **lean into their Flaw** to complicate the scene, make a dangerous narrative choice, or invite trouble. 
+
+### Rules for Leaning into Flaws:
+1. **Player Agency:** The player chooses when their character leans into their Flaw.
+2. **Transparent Risks:** The Patron **must make the player aware of the explicit risks and consequences** (mechanical or narrative) *before* the resolution takes place.
+3. **Luck Reward:** Embracing the complication awards **1 point of temporary Luck**. Temporary Luck must be spent during the session or it is lost.
 
  1. Phobia Snakes, heights, small spaces, outdoors
  2. OCD

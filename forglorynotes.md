@@ -5,10 +5,26 @@ https://hidrive.ionos.com/share/acxk-j1wdy
 ## todo
 
 - [ ] go through and delete old files
+- [ ] Add Doom stakes & consequences to dooms.md: Dooms must carry a negative effect (mechanical risk in the moment or narrative consequence over time). When a Doom like Foolhardy is invoked, the Patron sets the explicit risk (e.g. failing to damage means suffering a hard fall or backlash) before resolution.
+- [ ] Add Multi-Part Actions adjudication to combat.md / mechanics.md: When a player declares an overly ambitious multi-step stunt, Patron can require separate rolls across stats (e.g. Speed check to parkour/position before Strength check to strike), with downstream failure consequences.
+- [ ] Clarify Adversary Turns in combat.md: Enemies get their own distinct turns with dramatic narrative descriptions from the Patron, rather than merely making passive reaction checks.
+- [ ] Add Shield Projector items/properties to gear.md / armor.md: Directional/invisible shield mechanics (e.g. 1-pip perimeter shields with blindspots like open tops vulnerable to plunging attacks).
 
 ## Journal
 
-### Changing the dice
+### 2026-10-01: Core System Inspirations & Rules Calibration
+*For Glory* synthesizes ideas from four major tabletop influences:
+- **Dungeon Crawl Classics (DCC):** Mercurial action, physical consequences, swingy dramatic stakes, and high-impact heroic moves.
+- **Toon:** Physical momentum, slapstick fail-forward states (slips, mud splats, getting squashed/tangled) that create hindrances rather than instant lethal punishment.
+- **Powered by the Apocalypse (PbtA):** Clear mechanical triggers, soft moves on failed setups, and avoiding arbitrary GM fiat.
+- **Fate:** Character Flaws / Aspects where leaning into your trouble generates meta-currency (Luck), and stunts that provide a measured +1d bonus rather than unbalancing the pool.
+
+#### Calibrations made:
+1. **Flaws vs. The Doom Pool:** Renamed/clarified character "Dooms" to **Flaws**. Flaws are persistent personal traits (phobias, greed, foolhardy nature) that stay with the character. When the player chooses to lean into their Flaw to complicate their situation, they earn temporary Luck. The Patron must state the explicit risk/consequences before the roll. (This cleanly distinguishes character Flaws from the GM's "Doom Pool").
+2. **Stunts Capped at +1d:** The Patron is restricted to awarding **a single bonus die (+1d)** for stunts. This keeps base attributes (`2d` or `3d`) meaningful and avoids doubling dice pools.
+3. **Low Bar for Setup Checks:** Added setup rolls for multi-part maneuvers have a **low bar (1 hit threshold)** so players aren't discouraged from attempting creative actions.
+4. **Symmetrical Adrenaline Die (Attacks Only):** The Adrenaline Die enters on Round 2 as `[ 1 ]` and ticks up +1 each round for **both protagonist and antagonist**, applying strictly to **attack rolls** (never to skill checks, setup rolls, evasion, or defense), accelerating combat lethality for all combatants.
+5. **Limits on Collateral Fiat:** Missed attacks hit scenery harmlessly unless the roll produces **0 hits AND at least one 6**, preventing arbitrary GM punishment.
 
 
 ### How the fun is made.

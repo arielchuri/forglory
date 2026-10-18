@@ -28,12 +28,27 @@ getting shot or attacked in movies. more like a reflex save.
 ## Damage and death
 see [suffering](suffering.md) and [death](death.md).
 
-## The Adrenalin Die
-On the second round of combat put a d6 on the table with one its face. Add this amount to player rolls this round and turn the die up every round in which the players take actions directly affecting the enemy.  
+## Multi-Part Actions & Setup Checks
+When a player declares an elaborate multi-step action (such as vaulting over a chasm or sliding under a hazard into an attack), the Patron may split the maneuver into a preparatory setup check (using Speed, Strength, or Smarts) followed by the main attack roll.
+- **The Low Bar:** Added setup checks have a **low bar**—they require only **1 hit** to succeed. This encourages cinematic ambition without unfairly penalizing the player, testing only if a sudden complication arises (inspired by PbtA soft moves and Toon momentum).
+- **Setup Failure:** Failing a setup check does not immediately inflict lethal damage; it creates a temporary complication, loss of positioning, or slapstick hindrance (e.g., getting tripped up in mud or having your strike spoiled).
+
+## Limits on Collateral & Missed Attacks
+To prevent arbitrary Patron fiat, collateral effects from missed ranged attacks or wild blows follow clear triggers:
+- **Clean Miss (0 hits):** The projectile or blade strikes inert scenery harmlessly (shattering on stone, thudding into dirt, or burying in a tree).
+- **Critical Flub / Complication:** Only when a roll produces **0 hits AND shows at least one 6** does a pulp complication occur—such as an arrow striking an ally, hitting a meat shield, severing a vital rope, or detonating an explosive pot.
+
+## The Adrenaline Die
+On the second round of combat, place a d6 on the table with its "1" face up. 
+- **Attacks Only:** The Adrenaline Die applies **strictly to attack rolls**. It does not affect skill checks, setup rolls, evasion, or defense.
+- **Symmetrical Effect:** The Adrenaline Die affects **both protagonist and antagonist**.
+- **Escalation:** Add the Adrenaline Die value as bonus hits to attack rolls this round. Turn the die up by +1 each subsequent round in which combatants continue to actively engage the enemy.
+- This acts as a cinematic pacing clock, escalating lethality and ensuring fights finish rapidly in 3 to 5 rounds.
+
 ## Initiative
 1. Parley
 2. Run
-3. Attacktalk, run, fight
+3. Attack (talk, run, fight)
 ## Area of Effect
 ## area of effect without maps
 Chaining from Symbaroum.
